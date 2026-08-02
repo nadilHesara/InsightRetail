@@ -13,7 +13,7 @@ The following decisions are applied explicitly rather than silently deleting dat
 - Product descriptions were standardized to a consistent title case format.
 - Invoice dates were converted to datetime values where possible; invalid date values were treated as invalid records.
 
-## Running the script
+## Running the cleaning script
 
 From the repository root, run:
 
@@ -27,3 +27,31 @@ The script writes three outputs:
 - rejected_rows.csv for rows removed from the main analysis because they are invalid
 
 A text summary is also written alongside those files.
+
+## PostgreSQL database setup
+
+The project can also load the processed data into PostgreSQL.
+
+1. Create a PostgreSQL database such as `insightretail`.
+2. Copy [.env.example](.env.example) to `.env` and update `DATABASE_URL`.
+3. Install the Python packages needed for database loading:
+
+```bash
+pip install sqlalchemy psycopg2-binary python-dotenv pandas openpyxl
+```
+
+4. Create the schema and load the processed data:
+
+```bash
+python src/load_database.py
+```
+
+### Database relationships
+
+- `customers` stores one row per customer.
+- `products` stores one row per product.
+- `orders` stores one row per invoice/order.
+- `order_items` links orders to products and stores quantity and price details.
+- `customer_segments` links each customer to a simple RFM segment.
+- `daily_sales` stores one row per day of revenue and order counts.
+- `forecasts` stores simple forecasting outputs.
