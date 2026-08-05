@@ -1,0 +1,9 @@
+Sales data cleaning summary
+- Duplicate rows removed: 5268
+- Cancelled orders separated: 9251
+- Invalid rows moved to rejected rows: 2512
+- Rows retained for sales analysis: 524878
+- Cancelled orders were removed from the sales forecast but analyzed separately as product returns.
+- Invalid quantities, invalid prices, and missing/invalid dates were excluded from the cleaned dataset.
+- Missing customer IDs were filled with 'Unknown' rather than dropped.
+- Product descriptions were standardized to title case.

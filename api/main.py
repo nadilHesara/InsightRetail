@@ -8,6 +8,7 @@ from api.routes.forecast import router as forecast_router
 from api.routes.health import router as health_router
 from api.routes.predict import router as predict_router
 from api.routes.products import router as products_router
+from api.routes.root import router as root_router
 from api.routes.sales import router as sales_router
 from api.routes.segments import router as segments_router
 from api.routes.summary import router as summary_router
@@ -27,6 +28,7 @@ app.add_middleware(
     allow_headers=["*"]
 )
 
+app.include_router(root_router)
 app.include_router(health_router)
 app.include_router(summary_router)
 app.include_router(sales_router)

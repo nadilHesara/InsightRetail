@@ -1,0 +1,2513 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+536414,22139,Unknown,56,2010-12-01 11:52:00,0.0,Unknown,United Kingdom
+536545,21134,Unknown,1,2010-12-01 14:32:00,0.0,Unknown,United Kingdom
+536546,22145,Unknown,1,2010-12-01 14:33:00,0.0,Unknown,United Kingdom
+536547,37509,Unknown,1,2010-12-01 14:33:00,0.0,Unknown,United Kingdom
+536549,85226A,Unknown,1,2010-12-01 14:34:00,0.0,Unknown,United Kingdom
+536550,85044,Unknown,1,2010-12-01 14:34:00,0.0,Unknown,United Kingdom
+536552,20950,Unknown,1,2010-12-01 14:34:00,0.0,Unknown,United Kingdom
+536553,37461,Unknown,3,2010-12-01 14:35:00,0.0,Unknown,United Kingdom
+536554,84670,Unknown,23,2010-12-01 14:35:00,0.0,Unknown,United Kingdom
+536589,21777,Unknown,-10,2010-12-01 16:50:00,0.0,Unknown,United Kingdom
+536764,84952C,Unknown,-38,2010-12-02 14:42:00,0.0,Unknown,United Kingdom
+536765,84952C,Unknown,19,2010-12-02 14:43:00,0.0,Unknown,United Kingdom
+536941,22734,Amazon,20,2010-12-03 12:08:00,0.0,Unknown,United Kingdom
+536942,22139,Amazon,15,2010-12-03 12:08:00,0.0,Unknown,United Kingdom
+536995,35951,Unknown,57,2010-12-03 15:29:00,0.0,Unknown,United Kingdom
+536996,22712,Unknown,-20,2010-12-03 15:30:00,0.0,Unknown,United Kingdom
+536997,22028,Unknown,-20,2010-12-03 15:30:00,0.0,Unknown,United Kingdom
+536998,85067,Unknown,-6,2010-12-03 15:30:00,0.0,Unknown,United Kingdom
+536999,21421,Unknown,110,2010-12-03 15:32:00,0.0,Unknown,United Kingdom
+537000,21414,Unknown,-22,2010-12-03 15:32:00,0.0,Unknown,United Kingdom
+537001,21653,Unknown,-6,2010-12-03 15:33:00,0.0,Unknown,United Kingdom
+537002,21651,Unknown,70,2010-12-03 15:33:00,0.0,Unknown,United Kingdom
+537003,85126,Unknown,-2,2010-12-03 15:33:00,0.0,Unknown,United Kingdom
+537004,21814,Unknown,-30,2010-12-03 15:34:00,0.0,Unknown,United Kingdom
+537005,21692,Unknown,-70,2010-12-03 15:35:00,0.0,Unknown,United Kingdom
+537006,21648,Unknown,-130,2010-12-03 15:36:00,0.0,Unknown,United Kingdom
+537007,21172,Unknown,-80,2010-12-03 15:36:00,0.0,Unknown,United Kingdom
+537008,21161,Unknown,-120,2010-12-03 15:37:00,0.0,Unknown,United Kingdom
+537009,84534B,Unknown,-80,2010-12-03 15:38:00,0.0,Unknown,United Kingdom
+537010,22162,Unknown,-40,2010-12-03 15:38:00,0.0,Unknown,United Kingdom
+537011,22139,Unknown,-5,2010-12-03 15:38:00,0.0,Unknown,United Kingdom
+537012,21535,Unknown,-12,2010-12-03 15:39:00,0.0,Unknown,United Kingdom
+537013,35965,Unknown,-25,2010-12-03 15:40:00,0.0,Unknown,United Kingdom
+537014,21040,Unknown,-20,2010-12-03 15:40:00,0.0,Unknown,United Kingdom
+537015,37464,Unknown,-14,2010-12-03 15:41:00,0.0,Unknown,United Kingdom
+537016,21836,Unknown,-15,2010-12-03 15:41:00,0.0,Unknown,United Kingdom
+537017,47556B,Unknown,-69,2010-12-03 15:41:00,0.0,Unknown,United Kingdom
+537018,84562A,Unknown,-3,2010-12-03 15:42:00,0.0,Unknown,United Kingdom
+537019,37474,Unknown,-15,2010-12-03 15:43:00,0.0,Unknown,United Kingdom
+537020,21807,Unknown,-30,2010-12-03 15:43:00,0.0,Unknown,United Kingdom
+537021,21011,Unknown,-20,2010-12-03 15:43:00,0.0,Unknown,United Kingdom
+537027,18098C,Unknown,-140,2010-12-03 16:36:00,0.0,Unknown,United Kingdom
+537028,21696,Unknown,-320,2010-12-03 16:36:00,0.0,Unknown,United Kingdom
+537029,37476,Unknown,-6,2010-12-03 16:37:00,0.0,Unknown,United Kingdom
+537032,21275,?,-30,2010-12-03 16:50:00,0.0,Unknown,United Kingdom
+537197,22841,Round Cake Tin Vintage Green,1,2010-12-05 14:02:00,0.0,12647.0,Germany
+537361,21777,Unknown,5,2010-12-06 12:34:00,0.0,Unknown,United Kingdom
+537363,84569B,Unknown,-20,2010-12-06 12:35:00,0.0,Unknown,United Kingdom
+537364,21027,Unknown,-70,2010-12-06 12:36:00,0.0,Unknown,United Kingdom
+537401,84898F,Unknown,-24,2010-12-06 14:37:00,0.0,Unknown,United Kingdom
+537425,84968F,Check,-20,2010-12-06 15:35:00,0.0,Unknown,United Kingdom
+537426,84968E,Check,-35,2010-12-06 15:36:00,0.0,Unknown,United Kingdom
+537427,84968B,Unknown,-21,2010-12-06 15:37:00,0.0,Unknown,United Kingdom
+537430,85215,Unknown,120,2010-12-06 16:05:00,0.0,Unknown,United Kingdom
+537432,35833G,Damages,-43,2010-12-06 16:10:00,0.0,Unknown,United Kingdom
+537436,84270,Unknown,7,2010-12-06 17:00:00,0.0,Unknown,United Kingdom
+537437,90167,Unknown,10,2010-12-06 17:00:00,0.0,Unknown,United Kingdom
+537438,22959,Unknown,13,2010-12-06 17:00:00,0.0,Unknown,United Kingdom
+537439,37474,Unknown,1,2010-12-06 17:01:00,0.0,Unknown,United Kingdom
+537449,21054,Unknown,-30,2010-12-07 09:26:00,0.0,Unknown,United Kingdom
+537450,20684,Unknown,-19,2010-12-07 09:26:00,0.0,Unknown,United Kingdom
+537451,84881,Unknown,-11,2010-12-07 09:27:00,0.0,Unknown,United Kingdom
+537452,20941,Unknown,-24,2010-12-07 09:28:00,0.0,Unknown,United Kingdom
+537453,21248,Unknown,-18,2010-12-07 09:28:00,0.0,Unknown,United Kingdom
+537454,21349,Unknown,-44,2010-12-07 09:30:00,0.0,Unknown,United Kingdom
+537455,22155,Unknown,-70,2010-12-07 09:31:00,0.0,Unknown,United Kingdom
+537466,21488,Unknown,-50,2010-12-07 10:33:00,0.0,Unknown,United Kingdom
+537534,85064,Cream Sweetheart Letter Rack,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,84832,Zinc Willie Winkie Candle Stick,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,84692,Box Of 24 Cocktail Parasols,2,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,48184,Doormat English Rose,3,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,48111,Doormat 3 Smiley Cats,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22697,Green Regency Teacup And Saucer,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22682,French Blue Metal Door Sign 7,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22680,French Blue Metal Door Sign 5,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22681,French Blue Metal Door Sign 6,2,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22679,French Blue Metal Door Sign 4,5,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22686,French Blue Metal Door Sign No,2,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22683,French Blue Metal Door Sign 8,3,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22676,French Blue Metal Door Sign 1,3,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22625,Red Kitchen Scales,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22624,Ivory Kitchen Scales,3,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22619,Set Of 6 Soldier Skittles,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22520,Childs Garden Trowel Blue,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22524,Childrens Garden Gloves Blue,3,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22502,Picnic Basket Wicker Small,29,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22501,Picnic Basket Wicker Large,2,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22476,Empire Union Jack Tv Dinner Tray,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22473,Tv Dinner Tray Vintage Paisley,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22474,Spaceboy Tv Dinner Tray,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22472,Tv Dinner Tray Dolly Girl,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22514,Childs Garden Spade Blue,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22516,Childs Garden Rake Blue,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22432,Watering Can Pink Bunny,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22428,Enamel Fire Bucket Cream,3,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22427,Enamel Flower Jug Cream,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22376,Airline Bag Vintage Jet Set White,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22375,Airline Bag Vintage Jet Set Brown,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22372,Airline Bag Vintage World Champion,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22371,Airline Bag Vintage Tokyo 78,5,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22620,4 Traditional Spinning Tops,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22624,Ivory Kitchen Scales,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22109,Full English Breakfast Plate,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22367,Childrens Apron Spaceboy Design,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22366,Doormat Airmail,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22364,Glass Jar Digestive Biscuits,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22362,Glass Jar Peacock Bath Salts,3,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22360,Glass Jar English Confectionery,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22361,Glass Jar Daisy Fresh Cotton Wool,2,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22359,Glass Jar Kings Choice,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22353,Lunch Box With Cutlery Fairy Cakes,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22350,Illustrated Cat Bowl,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22327,Round Snack Boxes Set Of 4 Skulls,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,21116,Owl Doorstop,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22202,Milk Pan Pink Polkadot,2,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,22550,Holiday Fun Ludo,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,21912,Vintage Snakes & Ladders,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,21891,Traditional Wooden Skipping Rope,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,21559,Strawberry Lunch Box With Cutlery,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,21531,Red Retrospot Sugar Jam Bowl,2,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,20726,Lunch Bag Woodland,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,20652,Blue Polkadot Luggage Tag,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537534,20615,Blue Polkadot Passport Cover,1,2010-12-07 11:48:00,0.0,Unknown,United Kingdom
+537639,22734,Amazon,30,2010-12-07 15:29:00,0.0,Unknown,United Kingdom
+537640,21232,Strawberry Ceramic Trinket Box,1,2010-12-07 15:31:00,0.0,Unknown,United Kingdom
+537687,84840,Unknown,-9,2010-12-08 10:26:00,0.0,Unknown,United Kingdom
+537870,21486,Unknown,-77,2010-12-08 17:08:00,0.0,Unknown,United Kingdom
+537872,21595,Unknown,1,2010-12-08 18:07:00,0.0,Unknown,United Kingdom
+537873,37461,Unknown,1,2010-12-08 18:07:00,0.0,Unknown,United Kingdom
+537874,85170A,Unknown,1,2010-12-08 18:07:00,0.0,Unknown,United Kingdom
+537875,20849,Unknown,1,2010-12-08 18:08:00,0.0,Unknown,United Kingdom
+537876,84977,Unknown,2,2010-12-08 18:08:00,0.0,Unknown,United Kingdom
+537877,21661,Unknown,1,2010-12-08 18:08:00,0.0,Unknown,United Kingdom
+537878,72803B,Unknown,1,2010-12-08 18:09:00,0.0,Unknown,United Kingdom
+537999,22034,Unknown,-223,2010-12-09 11:44:00,0.0,Unknown,United Kingdom
+538001,35958,Unknown,10,2010-12-09 11:45:00,0.0,Unknown,United Kingdom
+538004,22114,Unknown,144,2010-12-09 12:11:00,0.0,Unknown,United Kingdom
+538036,21690,Unknown,34,2010-12-09 13:04:00,0.0,Unknown,United Kingdom
+538038,21488,Unknown,8,2010-12-09 13:07:00,0.0,Unknown,United Kingdom
+538039,22139,Unknown,7,2010-12-09 13:07:00,0.0,Unknown,United Kingdom
+538041,22145,Unknown,30,2010-12-09 13:09:00,0.0,Unknown,United Kingdom
+538042,21763,Unknown,-4,2010-12-09 13:10:00,0.0,Unknown,United Kingdom
+538043,22833,Unknown,-1,2010-12-09 13:10:00,0.0,Unknown,United Kingdom
+538045,84688,Unknown,27,2010-12-09 13:11:00,0.0,Unknown,United Kingdom
+538046,85008,Unknown,-15,2010-12-09 13:12:00,0.0,Unknown,United Kingdom
+538047,21429,Unknown,-70,2010-12-09 13:13:00,0.0,Unknown,United Kingdom
+538054,85167B,Unknown,-24,2010-12-09 13:34:00,0.0,Unknown,United Kingdom
+538055,22454,Unknown,-20,2010-12-09 13:34:00,0.0,Unknown,United Kingdom
+538058,20966,Unknown,-150,2010-12-09 13:38:00,0.0,Unknown,United Kingdom
+538061,21801,Unknown,-38,2010-12-09 13:39:00,0.0,Unknown,United Kingdom
+538071,22585,Pack Of 6 Birdy Gift Tags,1,2010-12-09 14:09:00,0.0,Unknown,United Kingdom
+538072,22423,Faulty,-13,2010-12-09 14:10:00,0.0,Unknown,United Kingdom
+538074,21743,Unknown,-80,2010-12-09 14:11:00,0.0,Unknown,United Kingdom
+538090,20956,?,-723,2010-12-09 14:48:00,0.0,Unknown,United Kingdom
+538092,37467,Unknown,-177,2010-12-09 14:49:00,0.0,Unknown,United Kingdom
+538128,21357,Unknown,46,2010-12-09 15:54:00,0.0,Unknown,United Kingdom
+538129,84497,Unknown,79,2010-12-09 15:55:00,0.0,Unknown,United Kingdom
+538130,90042C,Unknown,10,2010-12-09 15:55:00,0.0,Unknown,United Kingdom
+538131,17091A,Unknown,84,2010-12-09 15:56:00,0.0,Unknown,United Kingdom
+538132,84773,Unknown,3,2010-12-09 15:56:00,0.0,Unknown,United Kingdom
+538133,85018C,Unknown,3,2010-12-09 15:56:00,0.0,Unknown,United Kingdom
+538134,20878,Unknown,2,2010-12-09 15:56:00,0.0,Unknown,United Kingdom
+538135,21186,Unknown,2,2010-12-09 15:56:00,0.0,Unknown,United Kingdom
+538136,37509,Unknown,2,2010-12-09 15:57:00,0.0,Unknown,United Kingdom
+538137,62095B,Unknown,2,2010-12-09 15:57:00,0.0,Unknown,United Kingdom
+538138,72814,Unknown,2,2010-12-09 15:57:00,0.0,Unknown,United Kingdom
+538139,84802A,Unknown,2,2010-12-09 15:57:00,0.0,Unknown,United Kingdom
+538140,90002D,Unknown,9,2010-12-09 15:57:00,0.0,Unknown,United Kingdom
+538141,22218,Unknown,2,2010-12-09 15:58:00,0.0,Unknown,United Kingdom
+538142,84247C,Unknown,1,2010-12-09 15:58:00,0.0,Unknown,United Kingdom
+538143,84534B,Unknown,1,2010-12-09 15:58:00,0.0,Unknown,United Kingdom
+538144,90042B,Unknown,1,2010-12-09 15:58:00,0.0,Unknown,United Kingdom
+538158,20892,Unknown,-32,2010-12-09 17:17:00,0.0,Unknown,United Kingdom
+538159,21324,Unknown,-18,2010-12-09 17:17:00,0.0,Unknown,United Kingdom
+538160,20956,Unknown,288,2010-12-09 17:18:00,0.0,Unknown,United Kingdom
+538161,46000S,Dotcom Sales,-100,2010-12-09 17:25:00,0.0,Unknown,United Kingdom
+538162,46000M,Dotcom Sales,-100,2010-12-09 17:25:00,0.0,Unknown,United Kingdom
+538173,22353,Unknown,-28,2010-12-10 09:35:00,0.0,Unknown,United Kingdom
+538241,21431,Unknown,-21,2010-12-10 12:00:00,0.0,Unknown,United Kingdom
+538247,79067,Unknown,-145,2010-12-10 12:09:00,0.0,Unknown,United Kingdom
+538249,85084,Unknown,25,2010-12-10 12:19:00,0.0,Unknown,United Kingdom
+538348,22734,Amazon,30,2010-12-10 14:59:00,0.0,Unknown,United Kingdom
+538359,35958,Unknown,2,2010-12-10 16:29:00,0.0,Unknown,United Kingdom
+538360,35004P,Unknown,1,2010-12-10 16:29:00,0.0,Unknown,United Kingdom
+538837,85135B,Unknown,-40,2010-12-14 13:10:00,0.0,Unknown,United Kingdom
+538861,22444,Unknown,460,2010-12-14 14:04:00,0.0,Unknown,United Kingdom
+538873,22734,Amazon Sales,20,2010-12-14 15:13:00,0.0,Unknown,United Kingdom
+538877,21479,White Skull Hot Water Bottle,1,2010-12-14 15:29:00,0.0,Unknown,United Kingdom
+538877,22112,Chocolate Hot Water Bottle,1,2010-12-14 15:29:00,0.0,Unknown,United Kingdom
+538877,22356,Charlotte Bag Pink Polkadot,1,2010-12-14 15:29:00,0.0,Unknown,United Kingdom
+538906,21895,Unknown,-5,2010-12-15 10:31:00,0.0,Unknown,United Kingdom
+539263,22580,Advent Calendar Gingham Sack,4,2010-12-16 14:36:00,0.0,16560.0,United Kingdom
+539413,22959,Unknown,12,2010-12-17 13:44:00,0.0,Unknown,United Kingdom
+539494,21479,?,752,2010-12-20 10:36:00,0.0,Unknown,United Kingdom
+539495,22591,Unknown,36,2010-12-20 10:37:00,0.0,Unknown,United Kingdom
+539582,71477,Unknown,8,2010-12-20 12:53:00,0.0,Unknown,United Kingdom
+539583,35400,Unknown,1,2010-12-20 12:53:00,0.0,Unknown,United Kingdom
+539584,21491,Unknown,1,2010-12-20 12:54:00,0.0,Unknown,United Kingdom
+539585,21009,Unknown,1,2010-12-20 12:54:00,0.0,Unknown,United Kingdom
+539611,85135B,Found,53,2010-12-20 14:33:00,0.0,Unknown,United Kingdom
+539638,22139,Unknown,1,2010-12-20 15:23:00,0.0,Unknown,United Kingdom
+539722,22423,Regency Cakestand 3 Tier,10,2010-12-21 13:45:00,0.0,14911.0,EIRE
+539749,22734,Unknown,30,2010-12-21 15:33:00,0.0,Unknown,United Kingdom
+539750,22114,Hot Water Bottle Tea And Sympathy,1,2010-12-21 15:40:00,0.0,Unknown,United Kingdom
+539750,22652,Travel Sewing Kit,1,2010-12-21 15:40:00,0.0,Unknown,United Kingdom
+539750,21080,Set/20 Red Retrospot Paper Napkins,2,2010-12-21 15:40:00,0.0,Unknown,United Kingdom
+539750,21481,Fawn Blue Hot Water Bottle,1,2010-12-21 15:40:00,0.0,Unknown,United Kingdom
+539856,22444,Grow Your Own Plant In A Can,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,20682,Red Retrospot Childrens Umbrella,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,20724,Red Retrospot Charlotte Bag,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,18098C,Porcelain Butterfly Oil Burner,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,85123A,White Hanging Heart T-light Holder,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,84968E,Set Of 16 Vintage Black Cutlery,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,84872A,Teatime Funky Flower Backpack For 2,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22518,Childs Garden Brush Blue,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,84692,Box Of 24 Cocktail Parasols,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,79321,Chilli Lights,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,48194,Doormat Hearts,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,37333,"Retro ""tea For One""",1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22843,Biscuit Tin Vintage Green,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22842,Biscuit Tin Vintage Red,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22690,Doormat Home Sweet Home Blue,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,85099B,Jumbo Bag Red Retrospot,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22685,French Blue Metal Door Sign 0,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22684,French Blue Metal Door Sign 9,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22686,French Blue Metal Door Sign No,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22682,French Blue Metal Door Sign 7,3,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22683,French Blue Metal Door Sign 8,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22681,French Blue Metal Door Sign 6,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22679,French Blue Metal Door Sign 4,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22678,French Blue Metal Door Sign 3,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22680,French Blue Metal Door Sign 5,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22677,French Blue Metal Door Sign 2,6,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22676,French Blue Metal Door Sign 1,5,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22666,Recipe Box Pantry Yellow Design,7,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22665,Recipe Box Blue Sketchbook Design,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22650,Ceramic Pirate Chest Money Bank,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22647,Ceramic Love Heart Money Bank,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22626,Black Kitchen Scales,3,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22625,Red Kitchen Scales,7,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22624,Ivory Kitchen Scales,3,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22619,Set Of 6 Soldier Skittles,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22526,Wheelbarrow For Children,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22525,Childrens Garden Gloves Pink,3,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22524,Childrens Garden Gloves Blue,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22514,Childs Garden Spade Blue,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22512,Doorstop Racing Car Design,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22475,Skull Design Tv Dinner Tray,5,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22431,Watering Can Blue Elephant,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22428,Enamel Fire Bucket Cream,4,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22426,Enamel Wash Bowl Cream,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22374,Airline Bag Vintage Jet Set Red,3,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22375,Airline Bag Vintage Jet Set Brown,3,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22372,Airline Bag Vintage World Champion,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22371,Airline Bag Vintage Tokyo 78,3,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22367,Childrens Apron Spaceboy Design,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22361,Glass Jar Daisy Fresh Cotton Wool,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22360,Glass Jar English Confectionery,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22357,Kings Choice Biscuit Tin,7,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22350,Illustrated Cat Bowl,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22327,Round Snack Boxes Set Of 4 Skulls,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22072,Red Retrospot Tea Cup And Saucer,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,21912,Vintage Snakes & Ladders,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,21791,Vintage Heads And Tails Card Game,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,22550,Holiday Fun Ludo,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,21888,Bingo Set,2,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,21539,Red Retrospot Butter Dish,3,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,21258,Victorian Sewing Box Large,3,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,21116,Owl Doorstop,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539856,20719,Woodland Charlotte Bag,1,2010-12-22 14:41:00,0.0,Unknown,United Kingdom
+539980,35001W,Unknown,-36,2010-12-23 14:34:00,0.0,Unknown,United Kingdom
+539994,22830,Unknown,-1,2011-01-04 10:09:00,0.0,Unknown,United Kingdom
+539995,85064,Unknown,-12,2011-01-04 10:12:00,0.0,Unknown,United Kingdom
+539996,21784,Unknown,-10,2011-01-04 10:12:00,0.0,Unknown,United Kingdom
+539997,84689,Unknown,5,2011-01-04 10:15:00,0.0,Unknown,United Kingdom
+539998,84675,Unknown,2,2011-01-04 10:16:00,0.0,Unknown,United Kingdom
+539999,20892,Unknown,-1,2011-01-04 10:16:00,0.0,Unknown,United Kingdom
+540000,84499,Unknown,-9,2011-01-04 10:17:00,0.0,Unknown,United Kingdom
+540008,85230F,Unknown,-48,2011-01-04 11:10:00,0.0,Unknown,United Kingdom
+540009,22158,Unknown,-120,2011-01-04 11:10:00,0.0,Unknown,United Kingdom
+540010,22501,Reverse 21/5/10 Adjustment,-100,2011-01-04 11:13:00,0.0,Unknown,United Kingdom
+540011,22501,Unknown,30,2011-01-04 11:13:00,0.0,Unknown,United Kingdom
+540012,22502,Reverse 21/5/10 Adjustment,-100,2011-01-04 11:14:00,0.0,Unknown,United Kingdom
+540018,90112,Unknown,2,2011-01-04 12:07:00,0.0,Unknown,United Kingdom
+540100,22837,?,-106,2011-01-04 16:53:00,0.0,Unknown,United Kingdom
+540119,22865,Unknown,-60,2011-01-05 10:07:00,0.0,Unknown,United Kingdom
+540241,35957,Unknown,-939,2011-01-05 15:17:00,0.0,Unknown,United Kingdom
+540252,22198,Unknown,-100,2011-01-05 16:25:00,0.0,Unknown,United Kingdom
+540256,35957,Unknown,35,2011-01-05 17:21:00,0.0,Unknown,United Kingdom
+540272,90096,Unknown,-54,2011-01-06 11:57:00,0.0,Unknown,United Kingdom
+540355,20724,Red Retrospot Charlotte Bag,1,2011-01-06 15:11:00,0.0,Unknown,United Kingdom
+540356,20724,Red Retrospot Charlotte Bag,1,2011-01-06 15:12:00,0.0,Unknown,United Kingdom
+540369,47591D,Unknown,-201,2011-01-06 16:20:00,0.0,Unknown,United Kingdom
+540372,22090,Paper Bunting Retrospot,24,2011-01-06 16:41:00,0.0,13081.0,United Kingdom
+540372,22553,Plasters In Tin Skulls,24,2011-01-06 16:41:00,0.0,13081.0,United Kingdom
+540549,21587,Unknown,-53,2011-01-10 09:07:00,0.0,Unknown,United Kingdom
+540558,21258,?,-29,2011-01-10 10:04:00,0.0,Unknown,United Kingdom
+540560,21589,Unknown,-14,2011-01-10 10:08:00,0.0,Unknown,United Kingdom
+540564,22617,"Mouldy, Thrown Away.",-2600,2011-01-10 10:36:00,0.0,Unknown,United Kingdom
+540637,21275,Unknown,-5,2011-01-10 12:13:00,0.0,Unknown,United Kingdom
+540638,72038P,Damages,-990,2011-01-10 12:14:00,0.0,Unknown,United Kingdom
+540650,85124C,Unknown,-8,2011-01-10 14:59:00,0.0,Unknown,United Kingdom
+540651,82599,?,-290,2011-01-10 15:00:00,0.0,Unknown,United Kingdom
+540673,21644,Found,144,2011-01-10 16:04:00,0.0,Unknown,United Kingdom
+540674,22837,Found,26,2011-01-10 16:05:00,0.0,Unknown,United Kingdom
+540675,20748,Found,40,2011-01-10 16:05:00,0.0,Unknown,United Kingdom
+540676,84534B,Unknown,12,2011-01-10 16:05:00,0.0,Unknown,United Kingdom
+540677,21667,Unknown,1,2011-01-10 16:20:00,0.0,Unknown,United Kingdom
+540678,21667,Unknown,-1,2011-01-10 16:21:00,0.0,Unknown,United Kingdom
+540679,21667,Unknown,-1,2011-01-10 16:21:00,0.0,Unknown,United Kingdom
+540683,84546,Unknown,-45,2011-01-10 17:00:00,0.0,Unknown,United Kingdom
+540684,35271S,Unknown,-13,2011-01-10 17:01:00,0.0,Unknown,United Kingdom
+540693,82605,Unknown,1,2011-01-11 09:13:00,0.0,Unknown,United Kingdom
+540694,71477,Unknown,1,2011-01-11 09:13:00,0.0,Unknown,United Kingdom
+540695,21661,Unknown,1,2011-01-11 09:14:00,0.0,Unknown,United Kingdom
+540696,84562A,Unknown,1,2011-01-11 09:14:00,0.0,Unknown,United Kingdom
+540699,POST,Unknown,1000,2011-01-11 09:32:00,0.0,Unknown,United Kingdom
+540778,84029E,Unknown,-50,2011-01-11 11:15:00,0.0,Unknown,United Kingdom
+540832,21670,Blue Spot Ceramic Drawer Knob,2,2011-01-11 14:42:00,0.0,Unknown,United Kingdom
+540832,21673,White Spot Blue Ceramic Drawer Knob,1,2011-01-11 14:42:00,0.0,Unknown,United Kingdom
+540832,84692,Box Of 24 Cocktail Parasols,1,2011-01-11 14:42:00,0.0,Unknown,United Kingdom
+540832,20724,Red Retrospot Charlotte Bag,1,2011-01-11 14:42:00,0.0,Unknown,United Kingdom
+540832,22423,Regency Cakestand 3 Tier,1,2011-01-11 14:42:00,0.0,Unknown,United Kingdom
+540978,84050,Counted,-310,2011-01-12 15:04:00,0.0,Unknown,United Kingdom
+540982,22323,Unknown,1,2011-01-12 15:35:00,0.0,Unknown,United Kingdom
+540987,17011A,Unknown,-61,2011-01-12 16:15:00,0.0,Unknown,United Kingdom
+541000,21632,Unknown,-41,2011-01-13 10:11:00,0.0,Unknown,United Kingdom
+541109,22168,Organiser Wood Antique White,1,2011-01-13 15:10:00,0.0,15107.0,United Kingdom
+541482,22837,Unknown,-35,2011-01-18 12:32:00,0.0,Unknown,United Kingdom
+541487,85118,Unknown,-35,2011-01-18 13:19:00,0.0,Unknown,United Kingdom
+541519,21429,Unknown,-15,2011-01-19 09:11:00,0.0,Unknown,United Kingdom
+541600,22866,Unknown,-64,2011-01-19 16:48:00,0.0,Unknown,United Kingdom
+541601,22632,Unknown,-84,2011-01-19 16:48:00,0.0,Unknown,United Kingdom
+541685,22351,Given Away,-1400,2011-01-20 15:41:00,0.0,Unknown,United Kingdom
+541687,46000S,Dotcom,-300,2011-01-20 15:42:00,0.0,Unknown,United Kingdom
+541697,21632,Unknown,8,2011-01-20 18:09:00,0.0,Unknown,United Kingdom
+541702,22451,Unknown,-30,2011-01-21 09:44:00,0.0,Unknown,United Kingdom
+541802,20854,Unknown,-80,2011-01-21 14:45:00,0.0,Unknown,United Kingdom
+541882,48185,?,-57,2011-01-24 10:54:00,0.0,Unknown,United Kingdom
+541967,84823,Unknown,-3,2011-01-24 13:35:00,0.0,Unknown,United Kingdom
+542156,21348,Unknown,8,2011-01-26 10:52:00,0.0,Unknown,United Kingdom
+542225,85096,Label Mix Up,-59,2011-01-26 13:10:00,0.0,Unknown,United Kingdom
+542361,85161,Samples/damages,-20,2011-01-27 12:47:00,0.0,Unknown,United Kingdom
+542362,20699,Unknown,-16,2011-01-27 12:49:00,0.0,Unknown,United Kingdom
+542363,84823,Unknown,1,2011-01-27 12:50:00,0.0,Unknown,United Kingdom
+542364,21324,Unknown,5,2011-01-27 12:50:00,0.0,Unknown,United Kingdom
+542365,21897,Unknown,-22,2011-01-27 12:51:00,0.0,Unknown,United Kingdom
+542367,82583,Unknown,-30,2011-01-27 12:57:00,0.0,Unknown,United Kingdom
+542368,85188B,Unknown,-70,2011-01-27 12:59:00,0.0,Unknown,United Kingdom
+542378,84279B,Unknown,192,2011-01-27 13:56:00,0.0,Unknown,United Kingdom
+542379,35922,Unknown,-30,2011-01-27 13:58:00,0.0,Unknown,United Kingdom
+542380,84917,Unknown,-50,2011-01-27 13:59:00,0.0,Unknown,United Kingdom
+542391,84455,Unknown,-31,2011-01-27 14:54:00,0.0,Unknown,United Kingdom
+542392,84227,Unknown,-2,2011-01-27 14:56:00,0.0,Unknown,United Kingdom
+542394,84452,Unknown,65,2011-01-27 15:11:00,0.0,Unknown,United Kingdom
+542396,22146,Unknown,-4,2011-01-27 15:12:00,0.0,Unknown,United Kingdom
+542414,84967A,Unknown,-2,2011-01-27 17:15:00,0.0,Unknown,United Kingdom
+542415,84967B,Unknown,-1,2011-01-27 17:15:00,0.0,Unknown,United Kingdom
+542417,84966B,Unknown,-11,2011-01-27 17:38:00,0.0,Unknown,United Kingdom
+542418,84966A,Unknown,-17,2011-01-27 17:39:00,0.0,Unknown,United Kingdom
+542504,37413,Unknown,5568,2011-01-28 12:03:00,0.0,Unknown,United Kingdom
+542505,79063D,Unknown,2560,2011-01-28 12:04:00,0.0,Unknown,United Kingdom
+542507,20798,Unknown,5,2011-01-28 12:06:00,0.0,Unknown,United Kingdom
+542508,37467,Unknown,136,2011-01-28 12:06:00,0.0,Unknown,United Kingdom
+542509,85049B,Unknown,3,2011-01-28 12:07:00,0.0,Unknown,United Kingdom
+542510,21667,Unknown,2,2011-01-28 12:07:00,0.0,Unknown,United Kingdom
+542512,22830,Unknown,2,2011-01-28 12:07:00,0.0,Unknown,United Kingdom
+542513,75013B,Unknown,2,2011-01-28 12:08:00,0.0,Unknown,United Kingdom
+542514,22866,Unknown,1,2011-01-28 12:08:00,0.0,Unknown,United Kingdom
+542515,35607A,Unknown,1,2011-01-28 12:08:00,0.0,Unknown,United Kingdom
+542516,71477,Unknown,4,2011-01-28 12:08:00,0.0,Unknown,United Kingdom
+542518,22184,Unknown,-13,2011-01-28 12:17:00,0.0,Unknown,United Kingdom
+542529,DCGS0055,Unknown,-1,2011-01-28 13:08:00,0.0,Unknown,United Kingdom
+542531,DCGS0072,Unknown,-1,2011-01-28 13:08:00,0.0,Unknown,United Kingdom
+542532,DCGS0074,Unknown,-1,2011-01-28 13:09:00,0.0,Unknown,United Kingdom
+542544,17165D,Unknown,-10,2011-01-28 14:43:00,0.0,Unknown,United Kingdom
+542545,17165D,Unknown,9,2011-01-28 14:44:00,0.0,Unknown,United Kingdom
+542546,20734,Unknown,-1,2011-01-28 14:44:00,0.0,Unknown,United Kingdom
+542547,20864,Unknown,-1,2011-01-28 14:45:00,0.0,Unknown,United Kingdom
+542548,20892,Unknown,-1,2011-01-28 14:45:00,0.0,Unknown,United Kingdom
+542550,20910,Unknown,-1,2011-01-28 14:45:00,0.0,Unknown,United Kingdom
+542551,21282,Unknown,-1,2011-01-28 14:46:00,0.0,Unknown,United Kingdom
+542552,21645,Unknown,-1,2011-01-28 14:47:00,0.0,Unknown,United Kingdom
+542553,21805,Unknown,-1,2011-01-28 14:49:00,0.0,Unknown,United Kingdom
+542554,21836,Unknown,-1,2011-01-28 14:49:00,0.0,Unknown,United Kingdom
+542555,21841,Unknown,-1,2011-01-28 14:50:00,0.0,Unknown,United Kingdom
+542556,22143,Unknown,-1,2011-01-28 14:50:00,0.0,Unknown,United Kingdom
+542557,22765,Unknown,-1,2011-01-28 14:50:00,0.0,Unknown,United Kingdom
+542558,35644,Unknown,-1,2011-01-28 14:51:00,0.0,Unknown,United Kingdom
+542559,35991,Unknown,-1,2011-01-28 14:51:00,0.0,Unknown,United Kingdom
+542560,47579,Unknown,-1,2011-01-28 14:51:00,0.0,Unknown,United Kingdom
+542561,84424A,Unknown,-1,2011-01-28 14:52:00,0.0,Unknown,United Kingdom
+542562,84499,Unknown,-1,2011-01-28 14:52:00,0.0,Unknown,United Kingdom
+542563,84509F,Unknown,-1,2011-01-28 14:52:00,0.0,Unknown,United Kingdom
+542564,84526,Unknown,-1,2011-01-28 14:52:00,0.0,Unknown,United Kingdom
+542565,84664,Unknown,-1,2011-01-28 14:52:00,0.0,Unknown,United Kingdom
+542566,84964B,Unknown,-1,2011-01-28 14:53:00,0.0,Unknown,United Kingdom
+542567,84975,Unknown,-1,2011-01-28 14:53:00,0.0,Unknown,United Kingdom
+542569,85028L,Unknown,-1,2011-01-28 14:53:00,0.0,Unknown,United Kingdom
+542570,85028S,Unknown,-1,2011-01-28 14:53:00,0.0,Unknown,United Kingdom
+542571,85031C,Unknown,-1,2011-01-28 14:54:00,0.0,Unknown,United Kingdom
+542572,85064,Unknown,-1,2011-01-28 14:54:00,0.0,Unknown,United Kingdom
+542573,85110,Unknown,-1,2011-01-28 14:55:00,0.0,Unknown,United Kingdom
+542574,85119,Unknown,-1,2011-01-28 14:55:00,0.0,Unknown,United Kingdom
+542575,85126,Unknown,-1,2011-01-28 14:55:00,0.0,Unknown,United Kingdom
+542576,85179B,Unknown,-1,2011-01-28 14:56:00,0.0,Unknown,United Kingdom
+542577,85232B,Unknown,-1,2011-01-28 14:56:00,0.0,Unknown,United Kingdom
+542579,90000C,Unknown,-1,2011-01-28 14:57:00,0.0,Unknown,United Kingdom
+542580,90095,Unknown,-1,2011-01-28 14:58:00,0.0,Unknown,United Kingdom
+542581,90091,Unknown,-1,2011-01-28 14:58:00,0.0,Unknown,United Kingdom
+542582,DCGS0057,Unknown,-6,2011-01-28 15:01:00,0.0,Unknown,United Kingdom
+542783,21690,Unknown,4,2011-02-01 10:02:00,0.0,Unknown,United Kingdom
+542784,84795C,Unknown,3,2011-02-01 10:04:00,0.0,Unknown,United Kingdom
+542861,47591B,?,-207,2011-02-01 11:47:00,0.0,Unknown,United Kingdom
+542879,22242,Unknown,-19,2011-02-01 12:52:00,0.0,Unknown,United Kingdom
+542880,22242,Unknown,10,2011-02-01 12:53:00,0.0,Unknown,United Kingdom
+542882,22162,Unknown,-40,2011-02-01 12:55:00,0.0,Unknown,United Kingdom
+542883,21448,Unknown,-40,2011-02-01 13:07:00,0.0,Unknown,United Kingdom
+542884,84748,Unknown,-52,2011-02-01 13:08:00,0.0,Unknown,United Kingdom
+542885,84465,Unknown,-6,2011-02-01 13:08:00,0.0,Unknown,United Kingdom
+542965,35400,Unknown,2,2011-02-02 11:22:00,0.0,Unknown,United Kingdom
+543014,47591B,Unknown,1,2011-02-02 13:36:00,0.0,Unknown,United Kingdom
+543034,85049F,Unknown,-130,2011-02-02 15:50:00,0.0,Unknown,United Kingdom
+543035,35004C,Unknown,-206,2011-02-02 15:51:00,0.0,Unknown,United Kingdom
+543049,79063C,Unknown,320,2011-02-03 10:09:00,0.0,Unknown,United Kingdom
+543051,79062D,Unknown,960,2011-02-03 10:15:00,0.0,Unknown,United Kingdom
+543176,22353,Unknown,60,2011-02-04 09:52:00,0.0,Unknown,United Kingdom
+543194,21355,Unknown,-217,2011-02-04 12:25:00,0.0,Unknown,United Kingdom
+543238,22833,Unknown,1,2011-02-04 13:42:00,0.0,Unknown,United Kingdom
+543254,35645,Unknown,18,2011-02-04 15:40:00,0.0,Unknown,United Kingdom
+543257,84611B,Thrown Away,-1430,2011-02-04 16:06:00,0.0,Unknown,United Kingdom
+543258,84611B,Unknown,1287,2011-02-04 16:06:00,0.0,Unknown,United Kingdom
+543259,84612B,Thrown Away,-162,2011-02-04 16:07:00,0.0,Unknown,United Kingdom
+543260,84613A,Thrown Away,-230,2011-02-04 16:07:00,0.0,Unknown,United Kingdom
+543261,84613C,Unknown,-173,2011-02-04 16:08:00,0.0,Unknown,United Kingdom
+543262,84614A,Thrown Away,-390,2011-02-04 16:08:00,0.0,Unknown,United Kingdom
+543265,84872A,Unknown,-4,2011-02-04 17:23:00,0.0,Unknown,United Kingdom
+543266,82095,Unknown,-5,2011-02-04 17:24:00,0.0,Unknown,United Kingdom
+543267,35645,Unknown,3,2011-02-04 17:24:00,0.0,Unknown,United Kingdom
+543268,84306,Unknown,3,2011-02-04 17:24:00,0.0,Unknown,United Kingdom
+543269,84638,Unknown,-18,2011-02-04 17:25:00,0.0,Unknown,United Kingdom
+543270,84631,Unknown,-19,2011-02-04 17:25:00,0.0,Unknown,United Kingdom
+543271,21087,Unknown,-6,2011-02-04 17:26:00,0.0,Unknown,United Kingdom
+543308,35969,Unknown,-3,2011-02-07 12:04:00,0.0,Unknown,United Kingdom
+543310,35954,Unknown,-234,2011-02-07 12:10:00,0.0,Unknown,United Kingdom
+543386,16207B,Unknown,4,2011-02-08 09:22:00,0.0,Unknown,United Kingdom
+543390,84880,Unknown,-5,2011-02-08 10:02:00,0.0,Unknown,United Kingdom
+543453,21429,Unknown,1,2011-02-08 12:15:00,0.0,Unknown,United Kingdom
+543471,85150,Unknown,118,2011-02-08 15:00:00,0.0,Unknown,United Kingdom
+543472,22451,Unknown,1,2011-02-08 15:01:00,0.0,Unknown,United Kingdom
+543473,21661,Unknown,1,2011-02-08 15:01:00,0.0,Unknown,United Kingdom
+543521,22769,Unknown,-6,2011-02-09 11:49:00,0.0,Unknown,United Kingdom
+543545,22627,Unknown,-11,2011-02-09 15:50:00,0.0,Unknown,United Kingdom
+543552,22847,Unknown,-10,2011-02-10 10:05:00,0.0,Unknown,United Kingdom
+543599,84535B,Fairy Cakes Notebook A6 Size,16,2011-02-10 13:08:00,0.0,17560.0,United Kingdom
+543654,22525,Unknown,-57,2011-02-11 10:29:00,0.0,Unknown,United Kingdom
+543655,21717,Unknown,-42,2011-02-11 10:30:00,0.0,Unknown,United Kingdom
+543656,84801B,Unknown,-44,2011-02-11 10:30:00,0.0,Unknown,United Kingdom
+543781,21655,Unknown,19,2011-02-11 16:36:00,0.0,Unknown,United Kingdom
+543782,85232B,Unknown,6,2011-02-11 16:36:00,0.0,Unknown,United Kingdom
+543783,20966,Unknown,-41,2011-02-11 16:45:00,0.0,Unknown,United Kingdom
+543827,84406B,Incorrectly Made-thrown Away.,-64,2011-02-14 09:44:00,0.0,Unknown,United Kingdom
+544046,21785,Unknown,-140,2011-02-15 12:34:00,0.0,Unknown,United Kingdom
+544063,22837,Unknown,-9,2011-02-15 13:37:00,0.0,Unknown,United Kingdom
+544072,22837,Unknown,26,2011-02-15 14:32:00,0.0,Unknown,United Kingdom
+544086,21785,Unknown,-7,2011-02-15 16:49:00,0.0,Unknown,United Kingdom
+544321,16033,Unknown,120,2011-02-17 15:42:00,0.0,Unknown,United Kingdom
+544342,22633,Unknown,-53,2011-02-18 09:44:00,0.0,Unknown,United Kingdom
+544343,22867,Unknown,-99,2011-02-18 09:45:00,0.0,Unknown,United Kingdom
+544344,22865,Unknown,51,2011-02-18 09:47:00,0.0,Unknown,United Kingdom
+544345,22866,Unknown,1,2011-02-18 09:49:00,0.0,Unknown,United Kingdom
+544346,22114,Unknown,-21,2011-02-18 09:50:00,0.0,Unknown,United Kingdom
+544347,22114,Unknown,-4,2011-02-18 09:51:00,0.0,Unknown,United Kingdom
+544348,84029E,Unknown,13,2011-02-18 09:52:00,0.0,Unknown,United Kingdom
+544396,62094B,Unknown,-92,2011-02-18 12:16:00,0.0,Unknown,United Kingdom
+544410,84997C,?,-741,2011-02-18 13:54:00,0.0,Unknown,United Kingdom
+544554,22588,Unknown,-41,2011-02-21 12:12:00,0.0,Unknown,United Kingdom
+544579,21651,Unknown,-6,2011-02-21 14:05:00,0.0,Unknown,United Kingdom
+544649,21621,?,-400,2011-02-22 12:37:00,0.0,Unknown,United Kingdom
+544703,22202,Unknown,-114,2011-02-23 10:35:00,0.0,Unknown,United Kingdom
+544832,62096A,Unknown,-88,2011-02-24 10:05:00,0.0,Unknown,United Kingdom
+544834,90200C,Unknown,-33,2011-02-24 10:15:00,0.0,Unknown,United Kingdom
+545127,22024,Unknown,-50,2011-02-28 12:04:00,0.0,Unknown,United Kingdom
+545135,22028,Unknown,-30,2011-02-28 12:06:00,0.0,Unknown,United Kingdom
+545160,22666,Recipe Box Pantry Yellow Design,1,2011-02-28 13:31:00,0.0,Unknown,United Kingdom
+545160,22627,Mint Kitchen Scales,1,2011-02-28 13:31:00,0.0,Unknown,United Kingdom
+545160,22625,Red Kitchen Scales,1,2011-02-28 13:31:00,0.0,Unknown,United Kingdom
+545160,22559,Seaside Flying Disc,1,2011-02-28 13:31:00,0.0,Unknown,United Kingdom
+545176,22470,Heart Of Wicker Large,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22374,Airline Bag Vintage Jet Set Red,2,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22371,Airline Bag Vintage Tokyo 78,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22365,Doormat Respectable House,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22363,Glass Jar Marmalade,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22360,Glass Jar English Confectionery,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22364,Glass Jar Digestive Biscuits,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22359,Glass Jar Kings Choice,2,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22357,Kings Choice Biscuit Tin,3,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22350,Illustrated Cat Bowl,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22300,Coffee Mug Dog + Ball Design,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22064,Pink Doughnut Trinket Pot,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,21888,Bingo Set,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,21116,Owl Doorstop,5,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,20724,Red Retrospot Charlotte Bag,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,20685,Doormat Red Retrospot,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,20652,Blue Polkadot Luggage Tag,3,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,20615,Blue Polkadot Passport Cover,3,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,18098C,Porcelain Butterfly Oil Burner,6,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22383,Lunch Bag Suki Design,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,85099F,Jumbo Bag Strawberry,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,84968E,Set Of 16 Vintage Black Cutlery,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,84872A,Teatime Funky Flower Backpack For 2,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22676,French Blue Metal Door Sign 1,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,21899,"Key Fob , Garage Design",1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22524,Childrens Garden Gloves Blue,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,84692,Box Of 24 Cocktail Parasols,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,79321,Chilli Lights,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,37333,"Retro ""tea For One""",3,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22697,Green Regency Teacup And Saucer,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22699,Roses Regency Teacup And Saucer,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22698,Pink Regency Teacup And Saucer,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22689,Doormat Merry Christmas Red,3,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22681,French Blue Metal Door Sign 6,2,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22678,French Blue Metal Door Sign 3,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22686,French Blue Metal Door Sign No,2,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22681,French Blue Metal Door Sign 6,3,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22677,French Blue Metal Door Sign 2,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22683,French Blue Metal Door Sign 8,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22676,French Blue Metal Door Sign 1,2,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22665,Recipe Box Blue Sketchbook Design,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22649,Strawberry Fairy Cake Teapot,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22627,Mint Kitchen Scales,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22625,Red Kitchen Scales,4,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22624,Ivory Kitchen Scales,8,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22619,Set Of 6 Soldier Skittles,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22550,Holiday Fun Ludo,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22473,Tv Dinner Tray Vintage Paisley,1,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545176,22475,Skull Design Tv Dinner Tray,3,2011-02-28 14:19:00,0.0,Unknown,United Kingdom
+545219,20738,Unknown,-36,2011-02-28 17:04:00,0.0,Unknown,United Kingdom
+545236,22797,Damages,-15,2011-03-01 10:32:00,0.0,Unknown,United Kingdom
+545401,21769,Showroom,-5,2011-03-02 12:03:00,0.0,Unknown,United Kingdom
+545402,22862,Unknown,-33,2011-03-02 12:07:00,0.0,Unknown,United Kingdom
+545546,84249A,Check,-150,2011-03-03 15:03:00,0.0,Unknown,United Kingdom
+545547,85061W,Unknown,-391,2011-03-03 15:07:00,0.0,Unknown,United Kingdom
+545548,77101A,Unknown,-87,2011-03-03 15:08:00,0.0,Unknown,United Kingdom
+545549,15058B,Unknown,-61,2011-03-03 15:10:00,0.0,Unknown,United Kingdom
+545551,15058A,Unknown,20,2011-03-03 15:11:00,0.0,Unknown,United Kingdom
+545552,22021,Unknown,-20,2011-03-03 15:11:00,0.0,Unknown,United Kingdom
+545553,84459B,Unknown,16,2011-03-03 15:12:00,0.0,Unknown,United Kingdom
+545554,22988,Unknown,-70,2011-03-03 15:12:00,0.0,Unknown,United Kingdom
+545560,37464,Unknown,-2,2011-03-03 16:12:00,0.0,Unknown,United Kingdom
+545561,37379A,Unknown,-9,2011-03-03 16:12:00,0.0,Unknown,United Kingdom
+545562,20689,Unknown,-5,2011-03-03 16:12:00,0.0,Unknown,United Kingdom
+545563,20671,Unknown,-22,2011-03-03 16:13:00,0.0,Unknown,United Kingdom
+545564,85092,Unknown,-9,2011-03-03 16:13:00,0.0,Unknown,United Kingdom
+545565,47563B,Unknown,-10,2011-03-03 16:14:00,0.0,Unknown,United Kingdom
+545566,37477D,Unknown,-9,2011-03-03 16:14:00,0.0,Unknown,United Kingdom
+545567,37444B,Unknown,-3,2011-03-03 16:14:00,0.0,Unknown,United Kingdom
+545598,22080,Unknown,-278,2011-03-04 11:16:00,0.0,Unknown,United Kingdom
+545599,22272,Unknown,-140,2011-03-04 11:17:00,0.0,Unknown,United Kingdom
+545600,85160A,Unknown,-21,2011-03-04 11:45:00,0.0,Unknown,United Kingdom
+545651,21973,Unknown,140,2011-03-04 13:14:00,0.0,Unknown,United Kingdom
+545666,37468,Unknown,67,2011-03-04 15:33:00,0.0,Unknown,United Kingdom
+545857,20681,Mia,-154,2011-03-07 13:56:00,0.0,Unknown,United Kingdom
+545875,21736,Adjustment,34,2011-03-07 15:18:00,0.0,Unknown,United Kingdom
+545990,84598,Check,-3000,2011-03-08 13:07:00,0.0,Unknown,United Kingdom
+546010,22423,Damages,-19,2011-03-08 15:55:00,0.0,Unknown,United Kingdom
+546016,85172,Dotcom Set,-675,2011-03-08 17:21:00,0.0,Unknown,United Kingdom
+546018,85172,Wrongly Sold As Sets,-600,2011-03-08 17:23:00,0.0,Unknown,United Kingdom
+546020,85175,Amazon Sold Sets,-210,2011-03-08 17:27:00,0.0,Unknown,United Kingdom
+546021,85175,Dotcom Sold Sets,-345,2011-03-08 17:27:00,0.0,Unknown,United Kingdom
+546023,85175,Wrongly Sold Sets,-975,2011-03-08 17:29:00,0.0,Unknown,United Kingdom
+546024,85175,? Sold As Sets?,-1200,2011-03-08 17:31:00,0.0,Unknown,United Kingdom
+546025,85172,?sold As Sets?,-600,2011-03-08 17:31:00,0.0,Unknown,United Kingdom
+546026,90200C,Unknown,4,2011-03-08 17:43:00,0.0,Unknown,United Kingdom
+546085,84535A,Unknown,144,2011-03-09 11:32:00,0.0,Unknown,United Kingdom
+546114,84247K,Unknown,47,2011-03-09 13:47:00,0.0,Unknown,United Kingdom
+546124,35610C,Thrown Away.,-1121,2011-03-09 14:50:00,0.0,Unknown,United Kingdom
+546126,35611B,Thrown Away,-27,2011-03-09 14:52:00,0.0,Unknown,United Kingdom
+546129,35610B,Thrown Away,-541,2011-03-09 15:07:00,0.0,Unknown,United Kingdom
+546130,35610A,Thrown Away,-1277,2011-03-09 15:08:00,0.0,Unknown,United Kingdom
+546137,20893,Damages/display,-197,2011-03-09 16:33:00,0.0,Unknown,United Kingdom
+546138,21815,?,-300,2011-03-09 16:34:00,0.0,Unknown,United Kingdom
+546139,84988,?,3000,2011-03-09 16:35:00,0.0,Unknown,United Kingdom
+546140,21527,Damages,-30,2011-03-09 16:35:00,0.0,Unknown,United Kingdom
+546141,79302M,Unknown,73,2011-03-09 16:36:00,0.0,Unknown,United Kingdom
+546142,40016,Damaged Stock,-1100,2011-03-09 16:37:00,0.0,Unknown,United Kingdom
+546145,21537,?,-80,2011-03-09 16:39:00,0.0,Unknown,United Kingdom
+546146,20752,Unknown,-40,2011-03-09 16:41:00,0.0,Unknown,United Kingdom
+546147,21320,Broken,-63,2011-03-09 16:42:00,0.0,Unknown,United Kingdom
+546148,85049D,?,-100,2011-03-09 16:43:00,0.0,Unknown,United Kingdom
+546149,20866,?,-230,2011-03-09 17:02:00,0.0,Unknown,United Kingdom
+546150,21503,Unknown,-140,2011-03-09 17:03:00,0.0,Unknown,United Kingdom
+546151,21504,Unknown,-80,2011-03-09 17:04:00,0.0,Unknown,United Kingdom
+546152,72140F,Throw Away,-5368,2011-03-09 17:25:00,0.0,Unknown,United Kingdom
+546240,85045,Unknown,20,2011-03-10 13:00:00,0.0,Unknown,United Kingdom
+546244,21484,Unknown,219,2011-03-10 13:24:00,0.0,Unknown,United Kingdom
+546245,85185B,?,-259,2011-03-10 13:26:00,0.0,Unknown,United Kingdom
+546307,84029G,Unknown,280,2011-03-10 16:22:00,0.0,Unknown,United Kingdom
+546308,21555,Unknown,232,2011-03-10 16:23:00,0.0,Unknown,United Kingdom
+546309,85185B,Unknown,180,2011-03-10 16:24:00,0.0,Unknown,United Kingdom
+546375,85096,Unknown,48,2011-03-11 12:07:00,0.0,Unknown,United Kingdom
+546379,72225C,Unknown,-82,2011-03-11 12:21:00,0.0,Unknown,United Kingdom
+546406,46000S,Polyester Filler Pad 40x40cm,70,2011-03-11 16:21:00,0.0,Unknown,United Kingdom
+546406,46000M,Polyester Filler Pad 45x45cm,60,2011-03-11 16:21:00,0.0,Unknown,United Kingdom
+546407,22719,Wrong Barcode (22467),-178,2011-03-11 16:24:00,0.0,Unknown,United Kingdom
+546408,22467,Wrongly Sold (22719) Barcode,170,2011-03-11 16:25:00,0.0,Unknown,United Kingdom
+546409,21833,Damages,-110,2011-03-11 16:27:00,0.0,Unknown,United Kingdom
+546551,84563A,Unknown,-10,2011-03-14 17:33:00,0.0,Unknown,United Kingdom
+546661,22777,Unknown,-25,2011-03-15 14:33:00,0.0,Unknown,United Kingdom
+546666,79321,Unknown,72,2011-03-15 15:14:00,0.0,Unknown,United Kingdom
+546672,85206A,Unknown,-77,2011-03-15 15:47:00,0.0,Unknown,United Kingdom
+546673,23348,Unknown,48,2011-03-15 16:11:00,0.0,Unknown,United Kingdom
+546756,79067,Unknown,-5,2011-03-16 13:31:00,0.0,Unknown,United Kingdom
+546933,85123A,White Hanging Heart T-light Holder,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,85099B,Jumbo Bag Red Retrospot,2,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,48184,Doormat English Rose,2,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22692,Doormat Welcome To Our Home,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22683,French Blue Metal Door Sign 8,2,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22686,French Blue Metal Door Sign No,3,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22681,French Blue Metal Door Sign 6,7,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22682,French Blue Metal Door Sign 7,3,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22685,French Blue Metal Door Sign 0,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22680,French Blue Metal Door Sign 5,3,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22684,French Blue Metal Door Sign 9,3,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22678,French Blue Metal Door Sign 3,3,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22679,French Blue Metal Door Sign 4,4,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22676,French Blue Metal Door Sign 1,3,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22666,Recipe Box Pantry Yellow Design,9,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22627,Mint Kitchen Scales,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22626,Black Kitchen Scales,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22625,Red Kitchen Scales,3,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22623,Box Of Vintage Jigsaw Blocks,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22521,Childs Garden Trowel Pink,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22430,Enamel Watering Can Cream,3,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22375,Airline Bag Vintage Jet Set Brown,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22374,Airline Bag Vintage Jet Set Red,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22366,Doormat Airmail,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22364,Glass Jar Digestive Biscuits,2,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22631,Circus Parade Lunch Box,3,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,21556,Ceramic Strawberry Money Box,2,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22666,Recipe Box Pantry Yellow Design,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,22372,Airline Bag Vintage World Champion,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+546933,20719,Woodland Charlotte Bag,1,2011-03-18 11:02:00,0.0,Unknown,United Kingdom
+547328,22272,Unknown,45,2011-03-22 11:37:00,0.0,Unknown,United Kingdom
+547329,20681,Unknown,-1,2011-03-22 11:38:00,0.0,Unknown,United Kingdom
+547330,21894,Unknown,-40,2011-03-22 11:40:00,0.0,Unknown,United Kingdom
+547331,17013D,Unknown,-20,2011-03-22 11:41:00,0.0,Unknown,United Kingdom
+547332,21613,Unknown,-47,2011-03-22 11:42:00,0.0,Unknown,United Kingdom
+547333,22791,Unknown,-70,2011-03-22 11:43:00,0.0,Unknown,United Kingdom
+547335,20934,Unknown,-15,2011-03-22 11:44:00,0.0,Unknown,United Kingdom
+547336,21689,Wrong Barcode,-323,2011-03-22 11:45:00,0.0,Unknown,United Kingdom
+547337,85025C,Barcode Problem,-230,2011-03-22 11:47:00,0.0,Unknown,United Kingdom
+547338,22245,Unknown,-110,2011-03-22 11:49:00,0.0,Unknown,United Kingdom
+547339,84406B,?,-450,2011-03-22 11:51:00,0.0,Unknown,United Kingdom
+547341,85049D,Unknown,-20,2011-03-22 11:53:00,0.0,Unknown,United Kingdom
+547343,77101A,Unknown,4,2011-03-22 11:54:00,0.0,Unknown,United Kingdom
+547344,22838,Unknown,5,2011-03-22 11:55:00,0.0,Unknown,United Kingdom
+547345,22838,Unknown,-10,2011-03-22 11:55:00,0.0,Unknown,United Kingdom
+547346,21000,Unknown,-41,2011-03-22 11:56:00,0.0,Unknown,United Kingdom
+547347,22470,Unknown,-6,2011-03-22 11:56:00,0.0,Unknown,United Kingdom
+547348,85206A,Unknown,4,2011-03-22 11:57:00,0.0,Unknown,United Kingdom
+547363,22459,?lost,-232,2011-03-22 12:33:00,0.0,Unknown,United Kingdom
+547369,21898,Unknown,-83,2011-03-22 13:24:00,0.0,Unknown,United Kingdom
+547394,71477,Unknown,1,2011-03-22 16:38:00,0.0,Unknown,United Kingdom
+547395,84977,Unknown,1,2011-03-22 16:38:00,0.0,Unknown,United Kingdom
+547396,79321,Chilli Lights,1,2011-03-22 16:54:00,0.0,Unknown,United Kingdom
+547402,85028L,Unknown,12,2011-03-22 17:04:00,0.0,Unknown,United Kingdom
+547403,85028L,Unknown,-2,2011-03-22 17:05:00,0.0,Unknown,United Kingdom
+547404,85028S,Unknown,24,2011-03-22 17:05:00,0.0,Unknown,United Kingdom
+547417,22062,Ceramic Bowl With Love Heart Design,36,2011-03-23 10:25:00,0.0,13239.0,United Kingdom
+547487,84596E,Unknown,-153,2011-03-23 11:29:00,0.0,Unknown,United Kingdom
+547505,22198,Unknown,-9,2011-03-23 13:36:00,0.0,Unknown,United Kingdom
+547506,21538,Unknown,-2,2011-03-23 13:38:00,0.0,Unknown,United Kingdom
+547522,21717,Unknown,5,2011-03-23 15:02:00,0.0,Unknown,United Kingdom
+547523,85197,Unknown,5,2011-03-23 15:03:00,0.0,Unknown,United Kingdom
+547524,22451,Unknown,4,2011-03-23 15:03:00,0.0,Unknown,United Kingdom
+547525,21258,Unknown,3,2011-03-23 15:04:00,0.0,Unknown,United Kingdom
+547526,22627,Unknown,3,2011-03-23 15:04:00,0.0,Unknown,United Kingdom
+547527,21826,Unknown,2,2011-03-23 15:04:00,0.0,Unknown,United Kingdom
+547528,84840,Unknown,2,2011-03-23 15:05:00,0.0,Unknown,United Kingdom
+547529,21841,Unknown,1,2011-03-23 15:05:00,0.0,Unknown,United Kingdom
+547530,22764,Unknown,3,2011-03-23 15:05:00,0.0,Unknown,United Kingdom
+547531,82605,Unknown,1,2011-03-23 15:06:00,0.0,Unknown,United Kingdom
+547532,84227,Unknown,1,2011-03-23 15:06:00,0.0,Unknown,United Kingdom
+547533,84968B,Unknown,2,2011-03-23 15:06:00,0.0,Unknown,United Kingdom
+547534,90084,Unknown,1,2011-03-23 15:06:00,0.0,Unknown,United Kingdom
+547536,90005A,Unknown,1,2011-03-23 15:07:00,0.0,Unknown,United Kingdom
+547557,22866,Unknown,2,2011-03-23 16:53:00,0.0,Unknown,United Kingdom
+547559,72759,Thrown Away-can't Sell.,-524,2011-03-23 17:27:00,0.0,Unknown,United Kingdom
+547560,72732,Thrown Away-can't Sell,-2472,2011-03-23 17:28:00,0.0,Unknown,United Kingdom
+547575,85025C,Unknown,144,2011-03-24 10:18:00,0.0,Unknown,United Kingdom
+547593,20785,Unknown,-2,2011-03-24 11:18:00,0.0,Unknown,United Kingdom
+547595,82483,Unknown,-12,2011-03-24 11:20:00,0.0,Unknown,United Kingdom
+547596,84306,Unknown,-5,2011-03-24 11:20:00,0.0,Unknown,United Kingdom
+547597,17011F,Unknown,-18,2011-03-24 11:21:00,0.0,Unknown,United Kingdom
+547598,21332,Unknown,-25,2011-03-24 11:24:00,0.0,Unknown,United Kingdom
+547599,21361,Unknown,-10,2011-03-24 11:24:00,0.0,Unknown,United Kingdom
+547606,22173,Unknown,-22,2011-03-24 11:26:00,0.0,Unknown,United Kingdom
+547611,84631,Unknown,-9,2011-03-24 11:26:00,0.0,Unknown,United Kingdom
+547618,21547,Unknown,-12,2011-03-24 11:28:00,0.0,Unknown,United Kingdom
+547626,20973,Unknown,60,2011-03-24 11:30:00,0.0,Unknown,United Kingdom
+547646,84849D,Unknown,-80,2011-03-24 11:42:00,0.0,Unknown,United Kingdom
+547673,47593A,Found,13,2011-03-24 13:57:00,0.0,Unknown,United Kingdom
+547696,35809B,Unknown,12,2011-03-24 16:07:00,0.0,Unknown,United Kingdom
+547699,21143,Unknown,-32,2011-03-24 16:38:00,0.0,Unknown,United Kingdom
+547700,21147,Unknown,-105,2011-03-24 16:39:00,0.0,Unknown,United Kingdom
+547701,84559D,Unknown,-7,2011-03-24 16:42:00,0.0,Unknown,United Kingdom
+547704,21621,Rcvd Be Air Temp Fix For Dotcom Sit,100,2011-03-24 17:51:00,0.0,Unknown,United Kingdom
+547813,84840,Unknown,1,2011-03-25 14:11:00,0.0,Unknown,United Kingdom
+547827,22444,Unknown,82,2011-03-25 15:10:00,0.0,Unknown,United Kingdom
+547916,22459,Unknown,-36,2011-03-28 12:46:00,0.0,Unknown,United Kingdom
+547917,21898,Unknown,6,2011-03-28 12:46:00,0.0,Unknown,United Kingdom
+547927,37444C,Unknown,5,2011-03-28 13:59:00,0.0,Unknown,United Kingdom
+547928,37444B,Unknown,1,2011-03-28 14:00:00,0.0,Unknown,United Kingdom
+547929,21393,Unknown,3,2011-03-28 14:00:00,0.0,Unknown,United Kingdom
+547932,85197,Unknown,24,2011-03-28 14:01:00,0.0,Unknown,United Kingdom
+547933,21445,Unknown,1,2011-03-28 14:02:00,0.0,Unknown,United Kingdom
+547943,21357,Unknown,1,2011-03-28 14:58:00,0.0,Unknown,United Kingdom
+547948,71038,Unknown,167,2011-03-28 15:06:00,0.0,Unknown,United Kingdom
+547950,35241,Damages?,-40,2011-03-28 15:11:00,0.0,Unknown,United Kingdom
+547957,20713,Unknown,32,2011-03-28 15:16:00,0.0,Unknown,United Kingdom
+547959,20713,Unknown,23,2011-03-28 15:19:00,0.0,Unknown,United Kingdom
+547966,DOT,Unknown,1000,2011-03-28 15:49:00,0.0,Unknown,United Kingdom
+547989,21621,Re Dotcom Quick Fix.,-100,2011-03-29 09:36:00,0.0,Unknown,United Kingdom
+547994,21228,Unknown,-7,2011-03-29 10:18:00,0.0,Unknown,United Kingdom
+547995,35823P,Unknown,-12,2011-03-29 10:20:00,0.0,Unknown,United Kingdom
+547996,84534B,Unknown,-10,2011-03-29 10:22:00,0.0,Unknown,United Kingdom
+547997,20857,Unknown,-34,2011-03-29 10:22:00,0.0,Unknown,United Kingdom
+547998,20854,Unknown,-2,2011-03-29 10:23:00,0.0,Unknown,United Kingdom
+547999,20860,Unknown,-7,2011-03-29 10:24:00,0.0,Unknown,United Kingdom
+548000,85224,Unknown,-7,2011-03-29 10:24:00,0.0,Unknown,United Kingdom
+548001,22451,Unknown,11,2011-03-29 10:26:00,0.0,Unknown,United Kingdom
+548002,21051,Unknown,-25,2011-03-29 10:27:00,0.0,Unknown,United Kingdom
+548008,21190,Unknown,-80,2011-03-29 10:52:00,0.0,Unknown,United Kingdom
+548069,20713,Unknown,-22,2011-03-29 12:10:00,0.0,Unknown,United Kingdom
+548095,20850,Unknown,-3,2011-03-29 12:17:00,0.0,Unknown,United Kingdom
+548098,21283,Unknown,-15,2011-03-29 12:17:00,0.0,Unknown,United Kingdom
+548104,84854,Unknown,-3,2011-03-29 12:18:00,0.0,Unknown,United Kingdom
+548110,21911,Unknown,-27,2011-03-29 12:20:00,0.0,Unknown,United Kingdom
+548149,72821,Unknown,-2,2011-03-29 12:36:00,0.0,Unknown,United Kingdom
+548161,20734,Unknown,2,2011-03-29 13:40:00,0.0,Unknown,United Kingdom
+548173,85067,Unknown,-3,2011-03-29 14:17:00,0.0,Unknown,United Kingdom
+548175,46115B,Unknown,-2,2011-03-29 14:19:00,0.0,Unknown,United Kingdom
+548195,79321,Unknown,27,2011-03-29 15:36:00,0.0,Unknown,United Kingdom
+548205,21614,Unknown,48,2011-03-29 16:51:00,0.0,Unknown,United Kingdom
+548206,22469,Unknown,-53,2011-03-29 16:56:00,0.0,Unknown,United Kingdom
+548207,20713,Unknown,25,2011-03-29 17:11:00,0.0,Unknown,United Kingdom
+548209,21621,Unknown,-30,2011-03-29 17:21:00,0.0,Unknown,United Kingdom
+548220,79321,Unknown,14,2011-03-30 09:47:00,0.0,Unknown,United Kingdom
+548221,85049B,Unknown,1,2011-03-30 09:47:00,0.0,Unknown,United Kingdom
+548224,47593A,Unknown,2,2011-03-30 10:23:00,0.0,Unknown,United Kingdom
+548227,90099,Unknown,-19,2011-03-30 10:24:00,0.0,Unknown,United Kingdom
+548261,90104,Unknown,2,2011-03-30 11:19:00,0.0,Unknown,United Kingdom
+548269,22036,Unknown,-45,2011-03-30 11:35:00,0.0,Unknown,United Kingdom
+548286,10002,Unknown,180,2011-03-30 11:47:00,0.0,Unknown,United Kingdom
+548318,22055,Mini Cake Stand Hanging Strawbery,5,2011-03-30 12:45:00,0.0,13113.0,United Kingdom
+548328,21527,Unknown,-21,2011-03-30 13:11:00,0.0,Unknown,United Kingdom
+548339,21827,Unknown,-42,2011-03-30 14:08:00,0.0,Unknown,United Kingdom
+548364,21095,Unknown,53,2011-03-30 15:49:00,0.0,Unknown,United Kingdom
+548365,79172D,Unknown,-7,2011-03-30 15:49:00,0.0,Unknown,United Kingdom
+548366,84678,Unknown,-33,2011-03-30 15:50:00,0.0,Unknown,United Kingdom
+548369,84683,Unknown,-6,2011-03-30 16:00:00,0.0,Unknown,United Kingdom
+548376,22533,Unknown,-80,2011-03-30 16:39:00,0.0,Unknown,United Kingdom
+548377,85016,Unknown,-46,2011-03-30 16:40:00,0.0,Unknown,United Kingdom
+548378,22052,Unknown,-75,2011-03-30 16:41:00,0.0,Unknown,United Kingdom
+548379,20702,Unknown,11,2011-03-30 16:41:00,0.0,Unknown,United Kingdom
+548380,22127,Dotcom Sold In 6's,-60,2011-03-30 16:44:00,0.0,Unknown,United Kingdom
+548381,22127,Sold In Set?,-690,2011-03-30 16:45:00,0.0,Unknown,United Kingdom
+548382,84898F,Unknown,-2,2011-03-30 16:46:00,0.0,Unknown,United Kingdom
+548383,84906,Unknown,5,2011-03-30 16:46:00,0.0,Unknown,United Kingdom
+548385,22168,Unknown,-19,2011-03-30 16:47:00,0.0,Unknown,United Kingdom
+548394,82494L,Cracked,-39,2011-03-30 17:18:00,0.0,Unknown,United Kingdom
+548395,22194,Unknown,-9,2011-03-30 17:20:00,0.0,Unknown,United Kingdom
+548396,22719,Sold As 22467,-25,2011-03-30 17:21:00,0.0,Unknown,United Kingdom
+548397,21195,Unknown,-30,2011-03-30 17:23:00,0.0,Unknown,United Kingdom
+548398,22482,Unknown,-66,2011-03-30 17:24:00,0.0,Unknown,United Kingdom
+548399,15030,Unknown,150,2011-03-30 17:25:00,0.0,Unknown,United Kingdom
+548402,21040,Unknown,-5,2011-03-31 09:26:00,0.0,Unknown,United Kingdom
+548535,90010A,Unknown,25,2011-03-31 17:33:00,0.0,Unknown,United Kingdom
+548536,90010B,Unknown,-50,2011-03-31 17:34:00,0.0,Unknown,United Kingdom
+548537,90173,Unknown,-28,2011-03-31 17:35:00,0.0,Unknown,United Kingdom
+548538,90082B,Unknown,3,2011-03-31 17:36:00,0.0,Unknown,United Kingdom
+548539,90005A,Unknown,2,2011-03-31 17:37:00,0.0,Unknown,United Kingdom
+548540,90035A,Unknown,-9,2011-03-31 17:51:00,0.0,Unknown,United Kingdom
+548615,16010,Unknown,-7,2011-04-01 11:47:00,0.0,Unknown,United Kingdom
+548620,84313B,Damaged,-32,2011-04-01 11:53:00,0.0,Unknown,United Kingdom
+548637,84596E,Unknown,5,2011-04-01 12:32:00,0.0,Unknown,United Kingdom
+548638,21258,Unknown,4,2011-04-01 12:34:00,0.0,Unknown,United Kingdom
+548639,22627,Unknown,1,2011-04-01 12:34:00,0.0,Unknown,United Kingdom
+548646,21472,Unknown,-140,2011-04-01 13:15:00,0.0,Unknown,United Kingdom
+548662,82494L,Unknown,-180,2011-04-01 14:31:00,0.0,Unknown,United Kingdom
+548675,85185D,Unknown,-2,2011-04-01 16:39:00,0.0,Unknown,United Kingdom
+548676,72800F,Unknown,-5,2011-04-01 16:40:00,0.0,Unknown,United Kingdom
+548677,72781,Unknown,-30,2011-04-01 16:40:00,0.0,Unknown,United Kingdom
+548678,35015,Unknown,-9,2011-04-01 16:41:00,0.0,Unknown,United Kingdom
+548679,72793,Unknown,-3,2011-04-01 16:42:00,0.0,Unknown,United Kingdom
+548680,72800D,Unknown,-18,2011-04-01 16:43:00,0.0,Unknown,United Kingdom
+548681,72800D,Unknown,3,2011-04-01 16:43:00,0.0,Unknown,United Kingdom
+548682,72789,Unknown,-2,2011-04-01 16:44:00,0.0,Unknown,United Kingdom
+548683,72801G,Unknown,47,2011-04-01 16:45:00,0.0,Unknown,United Kingdom
+548684,72798C,Unknown,-2,2011-04-01 16:46:00,0.0,Unknown,United Kingdom
+548685,85018B,Unknown,-2,2011-04-01 16:47:00,0.0,Unknown,United Kingdom
+548693,22720,Unknown,-60,2011-04-01 17:25:00,0.0,Unknown,United Kingdom
+548694,22720,Unknown,10,2011-04-01 17:28:00,0.0,Unknown,United Kingdom
+548871,22162,Heart Garland Rustic Padded,2,2011-04-04 14:42:00,0.0,14410.0,United Kingdom
+548886,85118,Unknown,-6,2011-04-04 15:23:00,0.0,Unknown,United Kingdom
+548887,35824B,Unknown,-8,2011-04-04 15:24:00,0.0,Unknown,United Kingdom
+548888,84726,Unknown,-14,2011-04-04 15:25:00,0.0,Unknown,United Kingdom
+548889,84875A,Unknown,-17,2011-04-04 15:26:00,0.0,Unknown,United Kingdom
+548890,84876C,Unknown,-19,2011-04-04 15:26:00,0.0,Unknown,United Kingdom
+548897,47570B,Unknown,-70,2011-04-04 16:22:00,0.0,Unknown,United Kingdom
+548980,22114,Unknown,-194,2011-04-05 12:21:00,0.0,Unknown,United Kingdom
+548986,21210,Unknown,-177,2011-04-05 12:46:00,0.0,Unknown,United Kingdom
+548989,72799F,Unknown,-46,2011-04-05 13:19:00,0.0,Unknown,United Kingdom
+548997,84507B,Unknown,20,2011-04-05 14:33:00,0.0,Unknown,United Kingdom
+548998,84741C,Unknown,8,2011-04-05 14:34:00,0.0,Unknown,United Kingdom
+548999,84743C,Damages,-26,2011-04-05 14:34:00,0.0,Unknown,United Kingdom
+549000,35972,Unknown,-45,2011-04-05 14:35:00,0.0,Unknown,United Kingdom
+549001,84845D,Unknown,-5,2011-04-05 14:35:00,0.0,Unknown,United Kingdom
+549002,21278,Unknown,17,2011-04-05 14:36:00,0.0,Unknown,United Kingdom
+549003,21279,Unknown,14,2011-04-05 14:36:00,0.0,Unknown,United Kingdom
+549004,21274,Unknown,-3,2011-04-05 14:37:00,0.0,Unknown,United Kingdom
+549005,16020C,Unknown,-5,2011-04-05 14:37:00,0.0,Unknown,United Kingdom
+549006,84508B,Unknown,-23,2011-04-05 14:38:00,0.0,Unknown,United Kingdom
+549008,21281,Unknown,-31,2011-04-05 14:38:00,0.0,Unknown,United Kingdom
+549009,21474,Unknown,-8,2011-04-05 14:39:00,0.0,Unknown,United Kingdom
+549010,21684,Unknown,-62,2011-04-05 14:39:00,0.0,Unknown,United Kingdom
+549011,62096B,Unknown,-8,2011-04-05 14:41:00,0.0,Unknown,United Kingdom
+549028,84569A,Unknown,-18,2011-04-05 17:02:00,0.0,Unknown,United Kingdom
+549029,84569B,Unknown,-17,2011-04-05 17:03:00,0.0,Unknown,United Kingdom
+549030,84520B,Unknown,-61,2011-04-05 17:03:00,0.0,Unknown,United Kingdom
+549031,10134,Unknown,-19,2011-04-05 17:04:00,0.0,Unknown,United Kingdom
+549032,20778,Unknown,-6,2011-04-05 17:06:00,0.0,Unknown,United Kingdom
+549033,16254,Unknown,-5,2011-04-05 17:08:00,0.0,Unknown,United Kingdom
+549034,16248B,Unknown,2,2011-04-05 17:08:00,0.0,Unknown,United Kingdom
+549035,72051S,Unknown,-15,2011-04-05 17:09:00,0.0,Unknown,United Kingdom
+549036,84993B,Unknown,-54,2011-04-05 17:09:00,0.0,Unknown,United Kingdom
+549037,84569C,Unknown,-37,2011-04-05 17:09:00,0.0,Unknown,United Kingdom
+549038,84569D,Unknown,-70,2011-04-05 17:10:00,0.0,Unknown,United Kingdom
+549042,21681,Unknown,-2,2011-04-05 17:24:00,0.0,Unknown,United Kingdom
+549043,84990,Unknown,-24,2011-04-05 17:26:00,0.0,Unknown,United Kingdom
+549100,21484,Chick Grey Hot Water Bottle,1,2011-04-06 11:14:00,0.0,Unknown,United Kingdom
+549103,82494L,Unknown,167,2011-04-06 11:39:00,0.0,Unknown,United Kingdom
+549132,20756,Unknown,-70,2011-04-06 15:22:00,0.0,Unknown,United Kingdom
+549133,20759,Unknown,-52,2011-04-06 15:22:00,0.0,Unknown,United Kingdom
+549134,20758,Unknown,-54,2011-04-06 15:22:00,0.0,Unknown,United Kingdom
+549135,20760,Unknown,31,2011-04-06 15:23:00,0.0,Unknown,United Kingdom
+549136,21414,Unknown,-3,2011-04-06 15:23:00,0.0,Unknown,United Kingdom
+549137,84459B,Unknown,-7,2011-04-06 15:24:00,0.0,Unknown,United Kingdom
+549138,22988,Unknown,12,2011-04-06 15:25:00,0.0,Unknown,United Kingdom
+549139,22988,Unknown,-91,2011-04-06 15:26:00,0.0,Unknown,United Kingdom
+549140,35819B,Unknown,7,2011-04-06 15:26:00,0.0,Unknown,United Kingdom
+549141,35819B,Unknown,70,2011-04-06 15:26:00,0.0,Unknown,United Kingdom
+549142,35650,Unknown,-24,2011-04-06 15:26:00,0.0,Unknown,United Kingdom
+549143,84597C,Unknown,-17,2011-04-06 15:27:00,0.0,Unknown,United Kingdom
+549144,21416,Unknown,-14,2011-04-06 15:28:00,0.0,Unknown,United Kingdom
+549145,21421,Unknown,26,2011-04-06 15:28:00,0.0,Unknown,United Kingdom
+549146,85017A,Unknown,-10,2011-04-06 15:29:00,0.0,Unknown,United Kingdom
+549147,20773,Unknown,-4,2011-04-06 15:30:00,0.0,Unknown,United Kingdom
+549149,35649,Unknown,-43,2011-04-06 15:31:00,0.0,Unknown,United Kingdom
+549150,79336,Unknown,-47,2011-04-06 15:32:00,0.0,Unknown,United Kingdom
+549151,21664,Unknown,20,2011-04-06 15:33:00,0.0,Unknown,United Kingdom
+549156,17013D,Unknown,-9,2011-04-06 17:11:00,0.0,Unknown,United Kingdom
+549157,21511,Unknown,-9,2011-04-06 17:13:00,0.0,Unknown,United Kingdom
+549158,21910,Unknown,-1,2011-04-06 17:13:00,0.0,Unknown,United Kingdom
+549159,22052,Unknown,-25,2011-04-06 17:14:00,0.0,Unknown,United Kingdom
+549160,81953P,Unknown,-7,2011-04-06 17:15:00,0.0,Unknown,United Kingdom
+549161,21518,Unknown,-31,2011-04-06 17:15:00,0.0,Unknown,United Kingdom
+549163,84247L,Unknown,8,2011-04-06 17:18:00,0.0,Unknown,United Kingdom
+549164,16169P,Unknown,-75,2011-04-06 17:20:00,0.0,Unknown,United Kingdom
+549165,35815P,Unknown,-63,2011-04-06 17:20:00,0.0,Unknown,United Kingdom
+549166,44265,Unknown,3,2011-04-06 17:21:00,0.0,Unknown,United Kingdom
+549167,84846A,Unknown,-8,2011-04-06 17:24:00,0.0,Unknown,United Kingdom
+549168,21161,Unknown,-10,2011-04-06 17:24:00,0.0,Unknown,United Kingdom
+549170,82545A,Unknown,-4,2011-04-06 17:25:00,0.0,Unknown,United Kingdom
+549171,84251F,Unknown,-2,2011-04-06 17:26:00,0.0,Unknown,United Kingdom
+549172,21637,Unknown,-139,2011-04-06 17:27:00,0.0,Unknown,United Kingdom
+549173,84218,Unknown,-2,2011-04-06 17:28:00,0.0,Unknown,United Kingdom
+549174,21160,Unknown,-7,2011-04-06 17:30:00,0.0,Unknown,United Kingdom
+549175,21171,Unknown,-30,2011-04-06 17:30:00,0.0,Unknown,United Kingdom
+549176,35603B,Unknown,-12,2011-04-06 17:31:00,0.0,Unknown,United Kingdom
+549177,20821,Unknown,9,2011-04-06 17:32:00,0.0,Unknown,United Kingdom
+549178,47502,Unknown,-19,2011-04-06 17:33:00,0.0,Unknown,United Kingdom
+549179,84007,Unknown,-3,2011-04-06 17:34:00,0.0,Unknown,United Kingdom
+549180,84522,Unknown,-30,2011-04-06 17:34:00,0.0,Unknown,United Kingdom
+549244,79331,Unknown,-3,2011-04-07 11:53:00,0.0,Unknown,United Kingdom
+549264,21337,Unknown,-21,2011-04-07 12:45:00,0.0,Unknown,United Kingdom
+549266,84593,Unknown,-5,2011-04-07 12:45:00,0.0,Unknown,United Kingdom
+549267,46037A,Unknown,-5,2011-04-07 12:46:00,0.0,Unknown,United Kingdom
+549268,84856S,Unknown,-7,2011-04-07 12:47:00,0.0,Unknown,United Kingdom
+549270,84856L,Unknown,-27,2011-04-07 12:48:00,0.0,Unknown,United Kingdom
+549271,62096B,Unknown,-2,2011-04-07 12:48:00,0.0,Unknown,United Kingdom
+549326,21738,Unknown,-5,2011-04-08 10:45:00,0.0,Unknown,United Kingdom
+549327,84912A,Unknown,70,2011-04-08 10:46:00,0.0,Unknown,United Kingdom
+549328,51008,Unknown,-110,2011-04-08 10:49:00,0.0,Unknown,United Kingdom
+549329,84989A,Unknown,-1,2011-04-08 10:49:00,0.0,Unknown,United Kingdom
+549330,84251J,Unknown,-28,2011-04-08 10:53:00,0.0,Unknown,United Kingdom
+549331,40018F,Unknown,-22,2011-04-08 10:54:00,0.0,Unknown,United Kingdom
+549332,84864A,Unknown,-2,2011-04-08 10:55:00,0.0,Unknown,United Kingdom
+549340,20774,Unknown,-11,2011-04-08 11:02:00,0.0,Unknown,United Kingdom
+549342,35818B,Unknown,-53,2011-04-08 11:06:00,0.0,Unknown,United Kingdom
+549343,72815,Unknown,-3,2011-04-08 11:07:00,0.0,Unknown,United Kingdom
+549344,21825,Unknown,-14,2011-04-08 11:08:00,0.0,Unknown,United Kingdom
+549345,20748,Unknown,12,2011-04-08 11:10:00,0.0,Unknown,United Kingdom
+549346,22033,Unknown,-50,2011-04-08 11:10:00,0.0,Unknown,United Kingdom
+549347,35914,Unknown,10,2011-04-08 11:11:00,0.0,Unknown,United Kingdom
+549348,84251B,Unknown,-60,2011-04-08 11:13:00,0.0,Unknown,United Kingdom
+549349,10123G,Unknown,-38,2011-04-08 11:13:00,0.0,Unknown,United Kingdom
+549350,84597B,Unknown,-13,2011-04-08 11:14:00,0.0,Unknown,United Kingdom
+549351,85006,Unknown,-21,2011-04-08 11:14:00,0.0,Unknown,United Kingdom
+549355,84899F,Unknown,-5,2011-04-08 11:21:00,0.0,Unknown,United Kingdom
+549371,84921,Unknown,-17,2011-04-08 11:27:00,0.0,Unknown,United Kingdom
+549373,85008,Unknown,-2,2011-04-08 11:28:00,0.0,Unknown,United Kingdom
+549374,20775,Unknown,-29,2011-04-08 11:29:00,0.0,Unknown,United Kingdom
+549375,20863,Unknown,-6,2011-04-08 11:29:00,0.0,Unknown,United Kingdom
+549376,17014A,Unknown,11,2011-04-08 11:29:00,0.0,Unknown,United Kingdom
+549426,22078,Unknown,-201,2011-04-08 11:55:00,0.0,Unknown,United Kingdom
+549427,22797,Damages,-12,2011-04-08 11:56:00,0.0,Unknown,United Kingdom
+549453,84857C,Unknown,24,2011-04-08 14:18:00,0.0,Unknown,United Kingdom
+549454,84858C,Unknown,46,2011-04-08 14:18:00,0.0,Unknown,United Kingdom
+549455,84858C,Unknown,-10,2011-04-08 14:18:00,0.0,Unknown,United Kingdom
+549456,47341A,Unknown,-6,2011-04-08 14:19:00,0.0,Unknown,United Kingdom
+549457,47344B,Unknown,-16,2011-04-08 14:19:00,0.0,Unknown,United Kingdom
+549458,62097B,Unknown,-6,2011-04-08 14:19:00,0.0,Unknown,United Kingdom
+549459,62043B,Unknown,7,2011-04-08 14:20:00,0.0,Unknown,United Kingdom
+549460,20716,Unknown,-82,2011-04-08 14:20:00,0.0,Unknown,United Kingdom
+549461,20731,Unknown,-16,2011-04-08 14:20:00,0.0,Unknown,United Kingdom
+549462,84910A,Unknown,-16,2011-04-08 14:21:00,0.0,Unknown,United Kingdom
+549463,84919,Unknown,-17,2011-04-08 14:21:00,0.0,Unknown,United Kingdom
+549464,20701,Unknown,-6,2011-04-08 14:21:00,0.0,Unknown,United Kingdom
+549465,84415B,Unknown,-5,2011-04-08 14:22:00,0.0,Unknown,United Kingdom
+549466,20816,Unknown,-11,2011-04-08 14:22:00,0.0,Unknown,United Kingdom
+549470,46775D,Unknown,-8,2011-04-08 14:28:00,0.0,Unknown,United Kingdom
+549489,85146,Unknown,8,2011-04-08 15:05:00,0.0,Unknown,United Kingdom
+549492,21736,Unknown,5,2011-04-08 15:06:00,0.0,Unknown,United Kingdom
+549494,22168,Unknown,6,2011-04-08 15:06:00,0.0,Unknown,United Kingdom
+549497,21527,Unknown,3,2011-04-08 15:06:00,0.0,Unknown,United Kingdom
+549498,22847,Unknown,1,2011-04-08 15:06:00,0.0,Unknown,United Kingdom
+549500,79321,Unknown,1,2011-04-08 15:06:00,0.0,Unknown,United Kingdom
+549502,84459B,Unknown,1,2011-04-08 15:07:00,0.0,Unknown,United Kingdom
+549506,22415,Unknown,-31,2011-04-08 15:07:00,0.0,Unknown,United Kingdom
+549510,84559B,Unknown,-158,2011-04-08 15:08:00,0.0,Unknown,United Kingdom
+549514,20820,Unknown,-3,2011-04-08 15:09:00,0.0,Unknown,United Kingdom
+549527,21620,Mystery! Only Ever Imported 1800,-1479,2011-04-08 16:03:00,0.0,Unknown,United Kingdom
+549528,21422,Unknown,-55,2011-04-08 16:44:00,0.0,Unknown,United Kingdom
+549529,21830,"Merchant Chandler Credit Error, Sto",-576,2011-04-08 16:56:00,0.0,Unknown,United Kingdom
+549531,21622,Possible Damages Or Lost?,-750,2011-04-08 17:05:00,0.0,Unknown,United Kingdom
+549695,84751B,Unknown,-24,2011-04-11 13:50:00,0.0,Unknown,United Kingdom
+549846,21100,Damaged,-6,2011-04-12 14:30:00,0.0,Unknown,United Kingdom
+549848,84531A,Unknown,-34,2011-04-12 14:51:00,0.0,Unknown,United Kingdom
+549849,84531B,Unknown,-23,2011-04-12 14:51:00,0.0,Unknown,United Kingdom
+549935,35915C,Damaged,-43,2011-04-13 11:16:00,0.0,Unknown,United Kingdom
+549948,37488A,Damaged,-1,2011-04-13 12:55:00,0.0,Unknown,United Kingdom
+549950,37487B,Damaged,-6,2011-04-13 12:57:00,0.0,Unknown,United Kingdom
+549952,37482P,Damaged,-93,2011-04-13 13:05:00,0.0,Unknown,United Kingdom
+550133,85099F,Unknown,-1092,2011-04-14 13:49:00,0.0,Unknown,United Kingdom
+550153,85167B,Damaged,-1,2011-04-14 14:44:00,0.0,Unknown,United Kingdom
+550188,22636,Childs Breakfast Set Circus Parade,1,2011-04-14 18:57:00,0.0,12457.0,Switzerland
+550460,47556B,Did A Credit And Did Not Tick Ret,1300,2011-04-18 13:18:00,0.0,Unknown,United Kingdom
+550501,35915C,Unknown,30,2011-04-18 15:28:00,0.0,Unknown,United Kingdom
+550502,84535A,Unknown,320,2011-04-18 15:29:00,0.0,Unknown,United Kingdom
+550753,84763,Display,-150,2011-04-20 11:53:00,0.0,Unknown,United Kingdom
+550757,16202B,Unknown,-9,2011-04-20 12:08:00,0.0,Unknown,United Kingdom
+550758,85017A,Unknown,-8,2011-04-20 12:09:00,0.0,Unknown,United Kingdom
+550759,21087,Unknown,-7,2011-04-20 12:09:00,0.0,Unknown,United Kingdom
+550760,84750B,Unknown,-4,2011-04-20 12:09:00,0.0,Unknown,United Kingdom
+550761,84388,Unknown,6,2011-04-20 12:10:00,0.0,Unknown,United Kingdom
+550762,85030,Unknown,-9,2011-04-20 12:10:00,0.0,Unknown,United Kingdom
+550763,84666,Unknown,-5,2011-04-20 12:11:00,0.0,Unknown,United Kingdom
+550800,22458,Missing,-65,2011-04-20 14:48:00,0.0,Unknown,United Kingdom
+550815,85027L,Unknown,8,2011-04-20 16:42:00,0.0,Unknown,United Kingdom
+550908,20827,Damages,-68,2011-04-21 12:39:00,0.0,Unknown,United Kingdom
+550922,22784,Damages,-25,2011-04-21 14:29:00,0.0,Unknown,United Kingdom
+550926,22469,Unknown,8,2011-04-21 14:39:00,0.0,Unknown,United Kingdom
+550927,84990,Unknown,1,2011-04-21 14:40:00,0.0,Unknown,United Kingdom
+550928,22867,Unknown,3,2011-04-21 14:41:00,0.0,Unknown,United Kingdom
+550929,22470,Unknown,2,2011-04-21 14:41:00,0.0,Unknown,United Kingdom
+550930,22988,Unknown,2,2011-04-21 14:41:00,0.0,Unknown,United Kingdom
+550943,21316,Unknown,-5,2011-04-21 15:51:00,0.0,Unknown,United Kingdom
+550945,79329,Unknown,-2,2011-04-21 15:52:00,0.0,Unknown,United Kingdom
+550947,21319,Adjustment,3,2011-04-21 15:55:00,0.0,Unknown,United Kingdom
+550948,17109D,Adjustment,14,2011-04-21 15:56:00,0.0,Unknown,United Kingdom
+550950,17091A,Found,84,2011-04-21 16:14:00,0.0,Unknown,United Kingdom
+550951,84531A,Returned,2,2011-04-21 16:15:00,0.0,Unknown,United Kingdom
+550952,84531B,Returned,2,2011-04-21 16:16:00,0.0,Unknown,United Kingdom
+550954,47013A,Damaged,-2,2011-04-21 16:18:00,0.0,Unknown,United Kingdom
+550970,82599,Unknown,-11,2011-04-21 17:02:00,0.0,Unknown,United Kingdom
+550975,20941,Unknown,20,2011-04-21 17:28:00,0.0,Unknown,United Kingdom
+550976,84921,Unknown,6,2011-04-21 17:28:00,0.0,Unknown,United Kingdom
+550977,85200,Unknown,6,2011-04-21 17:29:00,0.0,Unknown,United Kingdom
+550979,85145,Unknown,9,2011-04-21 17:31:00,0.0,Unknown,United Kingdom
+550980,21445,Unknown,1,2011-04-21 17:31:00,0.0,Unknown,United Kingdom
+550981,21911,Unknown,1,2011-04-21 17:32:00,0.0,Unknown,United Kingdom
+550982,22632,Unknown,5,2011-04-21 17:33:00,0.0,Unknown,United Kingdom
+550983,22866,Unknown,4,2011-04-21 17:34:00,0.0,Unknown,United Kingdom
+550984,85008,Unknown,1,2011-04-21 17:35:00,0.0,Unknown,United Kingdom
+550985,22777,Unknown,4,2011-04-21 17:40:00,0.0,Unknown,United Kingdom
+551019,22467,Wrong Code?,-100,2011-04-26 11:19:00,0.0,Unknown,United Kingdom
+551020,22719,Wrong Code,-110,2011-04-26 11:19:00,0.0,Unknown,United Kingdom
+551126,82483,Unknown,18,2011-04-26 12:47:00,0.0,Unknown,United Kingdom
+551168,85068,Unknown,-4,2011-04-26 16:06:00,0.0,Unknown,United Kingdom
+551201,16015,Unknown,-620,2011-04-27 11:33:00,0.0,Unknown,United Kingdom
+551240,51020A,Adjustment,41,2011-04-27 11:48:00,0.0,Unknown,United Kingdom
+551243,51020B,Adjust,-53,2011-04-27 11:49:00,0.0,Unknown,United Kingdom
+551302,48189,Damaged,-18,2011-04-27 14:55:00,0.0,Unknown,United Kingdom
+551304,48189,Adjustment,2,2011-04-27 14:56:00,0.0,Unknown,United Kingdom
+551318,21898,Unknown,60,2011-04-27 15:25:00,0.0,Unknown,United Kingdom
+551319,22459,Unknown,65,2011-04-27 15:25:00,0.0,Unknown,United Kingdom
+551320,21897,Unknown,60,2011-04-27 15:25:00,0.0,Unknown,United Kingdom
+551321,22719,Unknown,36,2011-04-27 15:26:00,0.0,Unknown,United Kingdom
+551322,85099F,Unknown,101,2011-04-27 15:28:00,0.0,Unknown,United Kingdom
+551323,21398,Damages,-9,2011-04-27 15:31:00,0.0,Unknown,United Kingdom
+551324,85017C,Found,13,2011-04-27 15:47:00,0.0,Unknown,United Kingdom
+551326,85017A,Unknown,-2,2011-04-27 15:51:00,0.0,Unknown,United Kingdom
+551327,84228,Crushed,-4,2011-04-27 16:01:00,0.0,Unknown,United Kingdom
+551328,21320,Unknown,-23,2011-04-27 16:08:00,0.0,Unknown,United Kingdom
+551394,16015,Unknown,400,2011-04-28 12:37:00,0.0,Unknown,United Kingdom
+551422,22084,Unknown,-150,2011-04-28 14:11:00,0.0,Unknown,United Kingdom
+551429,10002,Unknown,-3,2011-04-28 15:05:00,0.0,Unknown,United Kingdom
+551430,20966,Unknown,-3,2011-04-28 15:06:00,0.0,Unknown,United Kingdom
+551431,44091A,Unknown,-2,2011-04-28 15:06:00,0.0,Unknown,United Kingdom
+551432,21923,Unknown,-5,2011-04-28 15:06:00,0.0,Unknown,United Kingdom
+551433,21784,Unknown,-2,2011-04-28 15:07:00,0.0,Unknown,United Kingdom
+551434,20896,Unknown,-5,2011-04-28 15:07:00,0.0,Unknown,United Kingdom
+551435,20825,Unknown,-5,2011-04-28 15:08:00,0.0,Unknown,United Kingdom
+551441,85136B,Unknown,-4,2011-04-28 15:50:00,0.0,Unknown,United Kingdom
+551442,85060,Unknown,-4,2011-04-28 15:50:00,0.0,Unknown,United Kingdom
+551443,35920,Unknown,-4,2011-04-28 15:51:00,0.0,Unknown,United Kingdom
+551444,35809B,Unknown,-4,2011-04-28 15:58:00,0.0,Unknown,United Kingdom
+551446,35594,Unknown,-4,2011-04-28 15:58:00,0.0,Unknown,United Kingdom
+551447,35004C,Unknown,-4,2011-04-28 15:59:00,0.0,Unknown,United Kingdom
+551448,22734,Unknown,-4,2011-04-28 15:59:00,0.0,Unknown,United Kingdom
+551449,22525,Unknown,-4,2011-04-28 16:00:00,0.0,Unknown,United Kingdom
+551450,21410,Unknown,-4,2011-04-28 16:00:00,0.0,Unknown,United Kingdom
+551451,21330,Unknown,-4,2011-04-28 16:01:00,0.0,Unknown,United Kingdom
+551452,84715,Unknown,-3,2011-04-28 16:01:00,0.0,Unknown,United Kingdom
+551453,82494L,Unknown,-3,2011-04-28 16:01:00,0.0,Unknown,United Kingdom
+551454,78027,Unknown,-3,2011-04-28 16:02:00,0.0,Unknown,United Kingdom
+551455,37333,Unknown,-1,2011-04-28 16:03:00,0.0,Unknown,United Kingdom
+551456,22795,Unknown,-3,2011-04-28 16:03:00,0.0,Unknown,United Kingdom
+551457,22719,Unknown,-3,2011-04-28 16:04:00,0.0,Unknown,United Kingdom
+551458,22451,Unknown,3,2011-04-28 16:04:00,0.0,Unknown,United Kingdom
+551459,22173,Unknown,-30,2011-04-28 16:04:00,0.0,Unknown,United Kingdom
+551460,22173,Unknown,27,2011-04-28 16:05:00,0.0,Unknown,United Kingdom
+551461,21806,Unknown,-3,2011-04-28 16:05:00,0.0,Unknown,United Kingdom
+551553,22521,Unknown,-90,2011-05-03 10:15:00,0.0,Unknown,United Kingdom
+551554,22720,Unknown,-4,2011-05-03 10:19:00,0.0,Unknown,United Kingdom
+551565,85135A,Unknown,-7,2011-05-03 11:10:00,0.0,Unknown,United Kingdom
+551567,21269,Unknown,13,2011-05-03 11:12:00,0.0,Unknown,United Kingdom
+551568,21038,Unknown,-6,2011-05-03 11:12:00,0.0,Unknown,United Kingdom
+551569,85226C,Unknown,-6,2011-05-03 11:13:00,0.0,Unknown,United Kingdom
+551570,85189,Unknown,-6,2011-05-03 11:13:00,0.0,Unknown,United Kingdom
+551571,47591A,Unknown,-6,2011-05-03 11:14:00,0.0,Unknown,United Kingdom
+551572,37424,Unknown,-6,2011-05-03 11:15:00,0.0,Unknown,United Kingdom
+551573,22726,Unknown,-5,2011-05-03 11:15:00,0.0,Unknown,United Kingdom
+551574,21692,Unknown,-6,2011-05-03 11:16:00,0.0,Unknown,United Kingdom
+551575,21412,Unknown,-6,2011-05-03 11:16:00,0.0,Unknown,United Kingdom
+551577,90100,Unknown,-5,2011-05-03 11:19:00,0.0,Unknown,United Kingdom
+551578,90037D,Unknown,-5,2011-05-03 11:19:00,0.0,Unknown,United Kingdom
+551579,85098B,Unknown,-5,2011-05-03 11:20:00,0.0,Unknown,United Kingdom
+551580,85084,Unknown,-5,2011-05-03 11:20:00,0.0,Unknown,United Kingdom
+551581,84873A,Unknown,5,2011-05-03 11:20:00,0.0,Unknown,United Kingdom
+551582,84857A,Unknown,-5,2011-05-03 11:21:00,0.0,Unknown,United Kingdom
+551583,84482,Unknown,-5,2011-05-03 11:21:00,0.0,Unknown,United Kingdom
+551586,21120,Unknown,-6,2011-05-03 11:24:00,0.0,Unknown,United Kingdom
+551589,21854,Unknown,-2,2011-05-03 11:30:00,0.0,Unknown,United Kingdom
+551663,84548,Unknown,-70,2011-05-03 12:34:00,0.0,Unknown,United Kingdom
+551664,20933,Unknown,-3,2011-05-03 12:34:00,0.0,Unknown,United Kingdom
+551666,84750A,Unknown,-10,2011-05-03 12:35:00,0.0,Unknown,United Kingdom
+551667,84539,Unknown,6,2011-05-03 12:36:00,0.0,Unknown,United Kingdom
+551668,22444,Unknown,-10,2011-05-03 12:37:00,0.0,Unknown,United Kingdom
+551669,21355,Unknown,90,2011-05-03 12:38:00,0.0,Unknown,United Kingdom
+551671,20734,Unknown,-10,2011-05-03 12:38:00,0.0,Unknown,United Kingdom
+551672,84631,Unknown,-4,2011-05-03 12:39:00,0.0,Unknown,United Kingdom
+551673,79192A,Unknown,-9,2011-05-03 12:39:00,0.0,Unknown,United Kingdom
+551689,22625,Unknown,-9,2011-05-03 13:35:00,0.0,Unknown,United Kingdom
+551690,21143,Unknown,-9,2011-05-03 13:35:00,0.0,Unknown,United Kingdom
+551691,18098C,Unknown,10,2011-05-03 13:36:00,0.0,Unknown,United Kingdom
+551692,84685,Unknown,14,2011-05-03 13:36:00,0.0,Unknown,United Kingdom
+551694,47589,Unknown,2,2011-05-03 13:36:00,0.0,Unknown,United Kingdom
+551695,22467,Unknown,-8,2011-05-03 13:37:00,0.0,Unknown,United Kingdom
+551700,85144,Unknown,-38,2011-05-03 14:13:00,0.0,Unknown,United Kingdom
+551701,84683,Unknown,-2,2011-05-03 14:15:00,0.0,Unknown,United Kingdom
+551704,22656,Unknown,-2,2011-05-03 14:33:00,0.0,Unknown,United Kingdom
+551705,22655,Damages/showroom Etc,-11,2011-05-03 14:35:00,0.0,Unknown,United Kingdom
+551722,20975,Unknown,-170,2011-05-03 16:50:00,0.0,Unknown,United Kingdom
+551723,22136,Unknown,-23,2011-05-03 16:51:00,0.0,Unknown,United Kingdom
+551735,21656,Samples,-19,2011-05-04 10:25:00,0.0,Unknown,United Kingdom
+551837,79164,Damages/credits From Asos.,-1512,2011-05-04 13:23:00,0.0,Unknown,United Kingdom
+551838,35609A,Unknown,-51,2011-05-04 13:31:00,0.0,Unknown,United Kingdom
+551900,20778,Unknown,2,2011-05-05 10:45:00,0.0,Unknown,United Kingdom
+551964,20851,Unknown,1,2011-05-05 13:13:00,0.0,Unknown,United Kingdom
+551965,21429,Unknown,1,2011-05-05 13:13:00,0.0,Unknown,United Kingdom
+552050,84916,Unknown,-32,2011-05-06 10:08:00,0.0,Unknown,United Kingdom
+552052,84917,Unknown,-8,2011-05-06 10:10:00,0.0,Unknown,United Kingdom
+552175,23200,Mailout,100,2011-05-06 13:25:00,0.0,Unknown,United Kingdom
+552177,23202,Mailout,100,2011-05-06 13:28:00,0.0,Unknown,United Kingdom
+552178,23203,Mailout,100,2011-05-06 13:29:00,0.0,Unknown,United Kingdom
+552187,23209,Mailout,100,2011-05-06 13:59:00,0.0,Unknown,United Kingdom
+552214,84872A,Unknown,-12,2011-05-06 15:11:00,0.0,Unknown,United Kingdom
+552215,17096,Unknown,-41,2011-05-06 15:12:00,0.0,Unknown,United Kingdom
+552216,21363,Unknown,-19,2011-05-06 15:12:00,0.0,Unknown,United Kingdom
+552218,84406B,Unknown,-38,2011-05-06 15:15:00,0.0,Unknown,United Kingdom
+552219,22073,Unknown,-56,2011-05-06 15:16:00,0.0,Unknown,United Kingdom
+552220,22202,Unknown,1,2011-05-06 15:20:00,0.0,Unknown,United Kingdom
+552221,21043,Unknown,-38,2011-05-06 15:20:00,0.0,Unknown,United Kingdom
+552222,21974,Unknown,-45,2011-05-06 15:22:00,0.0,Unknown,United Kingdom
+552223,22524,Unknown,-49,2011-05-06 15:24:00,0.0,Unknown,United Kingdom
+552224,84766,Unknown,-37,2011-05-06 15:25:00,0.0,Unknown,United Kingdom
+552225,22775,Unknown,-40,2011-05-06 15:26:00,0.0,Unknown,United Kingdom
+552226,22035,Unknown,-160,2011-05-06 15:26:00,0.0,Unknown,United Kingdom
+552227,84596J,Unknown,70,2011-05-06 15:27:00,0.0,Unknown,United Kingdom
+552228,84912B,Unknown,-93,2011-05-06 15:29:00,0.0,Unknown,United Kingdom
+552230,20735,Black Mini Tape Measure,1,2011-05-06 15:43:00,0.0,Unknown,United Kingdom
+552230,22617,Baking Set Spaceboy Design,1,2011-05-06 15:43:00,0.0,Unknown,United Kingdom
+552230,37327,Asstd Multicolour Circles Mug,1,2011-05-06 15:43:00,0.0,Unknown,United Kingdom
+552230,84375,Set Of 20 Kids Cookie Cutters,1,2011-05-06 15:43:00,0.0,Unknown,United Kingdom
+552230,84969,Box Of 6 Assorted Colour Teaspoons,1,2011-05-06 15:43:00,0.0,Unknown,United Kingdom
+552230,DOT,Dotcom Postage,1,2011-05-06 15:43:00,0.0,Unknown,United Kingdom
+552331,22667,Damaged,-30,2011-05-09 10:24:00,0.0,Unknown,United Kingdom
+552443,22796,Not Rcvd In 10/11/2010 Delivery,-360,2011-05-09 13:05:00,0.0,Unknown,United Kingdom
+552527,20964,Unknown,2,2011-05-09 16:48:00,0.0,Unknown,United Kingdom
+552653,22926,Unknown,-48,2011-05-10 14:12:00,0.0,Unknown,United Kingdom
+552733,23059,Thrown Away-rusty,-2376,2011-05-11 10:48:00,0.0,Unknown,United Kingdom
+552763,21137,Unknown,-25,2011-05-11 11:33:00,0.0,Unknown,United Kingdom
+552766,22084,Unknown,-56,2011-05-11 11:41:00,0.0,Unknown,United Kingdom
+552767,79164,Unknown,-47,2011-05-11 11:42:00,0.0,Unknown,United Kingdom
+552768,22087,Unknown,-26,2011-05-11 11:43:00,0.0,Unknown,United Kingdom
+552979,35970,Unknown,-217,2011-05-12 14:49:00,0.0,Unknown,United Kingdom
+553000,47566,Party Bunting,4,2011-05-12 15:21:00,0.0,17667.0,United Kingdom
+553041,22521,Unknown,-9,2011-05-13 09:01:00,0.0,Unknown,United Kingdom
+553147,84879,Damaged,-160,2011-05-13 13:58:00,0.0,Unknown,United Kingdom
+553163,22726,Unknown,1,2011-05-13 16:10:00,0.0,Unknown,United Kingdom
+553349,22719,Unknown,1,2011-05-16 13:31:00,0.0,Unknown,United Kingdom
+553391,37370,Sold As Set/6 By Dotcom,-786,2011-05-16 16:42:00,0.0,Unknown,United Kingdom
+553394,15058A,Wet/rusty,-30,2011-05-16 16:47:00,0.0,Unknown,United Kingdom
+553395,15058C,Wet/rusty,-30,2011-05-16 16:47:00,0.0,Unknown,United Kingdom
+553396,22423,Damages,-21,2011-05-16 16:48:00,0.0,Unknown,United Kingdom
+553398,37370,Damages/dotcom?,-590,2011-05-16 17:07:00,0.0,Unknown,United Kingdom
+553399,84789,Unknown,-2,2011-05-16 17:08:00,0.0,Unknown,United Kingdom
+553400,20803,Damages,-40,2011-05-16 17:09:00,0.0,Unknown,United Kingdom
+553401,22060,Unknown,-16,2011-05-16 17:10:00,0.0,Unknown,United Kingdom
+553413,21259,Unknown,-51,2011-05-17 09:45:00,0.0,Unknown,United Kingdom
+553480,21143,Unknown,24,2011-05-17 11:51:00,0.0,Unknown,United Kingdom
+553481,21181,On Cargo Order,192,2011-05-17 12:06:00,0.0,Unknown,United Kingdom
+553521,85099F,Jumbo Bag Strawberry,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,48184,Doormat English Rose,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22692,Doormat Welcome To Our Home,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22684,French Blue Metal Door Sign 9,2,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22682,French Blue Metal Door Sign 7,3,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22686,French Blue Metal Door Sign No,11,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22683,French Blue Metal Door Sign 8,5,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22679,French Blue Metal Door Sign 4,4,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22678,French Blue Metal Door Sign 3,5,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22680,French Blue Metal Door Sign 5,2,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22677,French Blue Metal Door Sign 2,4,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22676,French Blue Metal Door Sign 1,2,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22666,Recipe Box Pantry Yellow Design,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22665,Recipe Box Blue Sketchbook Design,2,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22649,Strawberry Fairy Cake Teapot,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22646,Ceramic Strawberry Cake Money Bank,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22644,Ceramic Cherry Cake Money Bank,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22645,Ceramic Heart Fairy Cake Money Bank,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22637,Piggy Bank Retrospot,2,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22626,Black Kitchen Scales,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22559,Seaside Flying Disc,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22524,Childrens Garden Gloves Blue,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22520,Childs Garden Trowel Blue,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22518,Childs Garden Brush Blue,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22519,Childs Garden Brush Pink,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22515,Childs Garden Spade Pink,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22514,Childs Garden Spade Blue,2,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22430,Enamel Watering Can Cream,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22427,Enamel Flower Jug Cream,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22414,Doormat Neighbourhood Witch,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22365,Doormat Respectable House,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22363,Glass Jar Marmalade,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22362,Glass Jar Peacock Bath Salts,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22359,Glass Jar Kings Choice,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22356,Charlotte Bag Pink Polkadot,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22301,Coffee Mug Cat + Bird Design,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,22203,Milk Pan Red Retrospot,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,21889,Wooden Box Of Dominoes,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553521,21116,Owl Doorstop,1,2011-05-17 14:35:00,0.0,Unknown,United Kingdom
+553539,22425,Enamel Colander Cream,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22414,Doormat Neighbourhood Witch,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22301,Coffee Mug Cat + Bird Design,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22201,Frying Pan Blue Polkadot,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,21922,Union Stripe With Fringe Hammock,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22692,Doormat Welcome To Our Home,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,21559,Strawberry Lunch Box With Cutlery,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,21116,Owl Doorstop,2,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,20711,Jumbo Bag Toys,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,20682,Red Retrospot Childrens Umbrella,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22843,Biscuit Tin Vintage Green,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22682,French Blue Metal Door Sign 7,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22679,French Blue Metal Door Sign 4,2,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22678,French Blue Metal Door Sign 3,5,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22677,French Blue Metal Door Sign 2,2,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22683,French Blue Metal Door Sign 8,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22666,Recipe Box Pantry Yellow Design,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22665,Recipe Box Blue Sketchbook Design,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22685,French Blue Metal Door Sign 0,2,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22676,French Blue Metal Door Sign 1,4,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22646,Ceramic Strawberry Cake Money Bank,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22520,Childs Garden Trowel Blue,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22523,Childs Garden Fork Pink,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22522,Childs Garden Fork Blue,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22519,Childs Garden Brush Pink,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22514,Childs Garden Spade Blue,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22515,Childs Garden Spade Pink,2,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22501,Picnic Basket Wicker Large,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22474,Spaceboy Tv Dinner Tray,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22430,Enamel Watering Can Cream,2,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553539,22426,Enamel Wash Bowl Cream,1,2011-05-17 15:27:00,0.0,Unknown,United Kingdom
+553548,75131,Unknown,-48,2011-05-17 15:57:00,0.0,Unknown,United Kingdom
+553651,46126A,Unknown,-23,2011-05-18 11:06:00,0.0,Unknown,United Kingdom
+553652,20826,Unknown,-168,2011-05-18 11:06:00,0.0,Unknown,United Kingdom
+553659,20967,Unknown,-77,2011-05-18 11:47:00,0.0,Unknown,United Kingdom
+553688,22078,Unknown,4,2011-05-18 14:05:00,0.0,Unknown,United Kingdom
+553716,37444A,Unknown,3,2011-05-18 16:07:00,0.0,Unknown,United Kingdom
+553717,22087,Unknown,2,2011-05-18 16:07:00,0.0,Unknown,United Kingdom
+553719,85017C,Adjustment,1,2011-05-18 16:18:00,0.0,Unknown,United Kingdom
+553728,21324,Unknown,2,2011-05-18 17:17:00,0.0,Unknown,United Kingdom
+553729,82599,Unknown,2,2011-05-18 17:17:00,0.0,Unknown,United Kingdom
+553743,21318,Unknown,-62,2011-05-19 09:44:00,0.0,Unknown,United Kingdom
+553744,85141,Unknown,-7,2011-05-19 09:44:00,0.0,Unknown,United Kingdom
+553745,84760S,Unknown,2,2011-05-19 09:46:00,0.0,Unknown,United Kingdom
+553746,84990,Unknown,1,2011-05-19 09:46:00,0.0,Unknown,United Kingdom
+553769,23444,Unknown,200,2011-05-19 10:48:00,0.0,Unknown,United Kingdom
+554017,22520,Unknown,-101,2011-05-20 13:15:00,0.0,Unknown,United Kingdom
+554020,22518,Unknown,-30,2011-05-20 13:17:00,0.0,Unknown,United Kingdom
+554021,20886,Unknown,-65,2011-05-20 13:18:00,0.0,Unknown,United Kingdom
+554022,20886,Unknown,10,2011-05-20 13:19:00,0.0,Unknown,United Kingdom
+554023,82613B,Unknown,-71,2011-05-20 13:20:00,0.0,Unknown,United Kingdom
+554024,20998,Unknown,-11,2011-05-20 13:21:00,0.0,Unknown,United Kingdom
+554037,22619,Set Of 6 Soldier Skittles,80,2011-05-20 14:13:00,0.0,12415.0,Australia
+554128,84563A,Damaged,-4,2011-05-23 09:26:00,0.0,Unknown,United Kingdom
+554133,84596J,Unknown,-3,2011-05-23 09:46:00,0.0,Unknown,United Kingdom
+554143,79030G,Damages,-413,2011-05-23 10:40:00,0.0,Unknown,United Kingdom
+554144,79030D,Damages,-664,2011-05-23 10:42:00,0.0,Unknown,United Kingdom
+554145,84313C,Unknown,-12,2011-05-23 10:43:00,0.0,Unknown,United Kingdom
+554148,20966,Unknown,1,2011-05-23 10:53:00,0.0,Unknown,United Kingdom
+554149,85185D,Unknown,1,2011-05-23 10:53:00,0.0,Unknown,United Kingdom
+554267,84313C,Unknown,6,2011-05-23 12:56:00,0.0,Unknown,United Kingdom
+554276,22966,Unknown,-58,2011-05-23 13:19:00,0.0,Unknown,United Kingdom
+554287,22700,Smashed,-48,2011-05-23 14:17:00,0.0,Unknown,United Kingdom
+554299,20975,Unknown,-39,2011-05-23 14:28:00,0.0,Unknown,United Kingdom
+554311,84743C,Unknown,-16,2011-05-23 15:28:00,0.0,Unknown,United Kingdom
+554312,84741C,Unknown,-2,2011-05-23 15:28:00,0.0,Unknown,United Kingdom
+554313,21144,Unknown,-63,2011-05-23 15:28:00,0.0,Unknown,United Kingdom
+554314,85195,Unknown,-13,2011-05-23 15:29:00,0.0,Unknown,United Kingdom
+554316,21195,Unknown,-1,2011-05-23 15:29:00,0.0,Unknown,United Kingdom
+554317,85198,Unknown,-11,2011-05-23 15:29:00,0.0,Unknown,United Kingdom
+554318,84535A,Unknown,-65,2011-05-23 15:30:00,0.0,Unknown,United Kingdom
+554319,47574B,Unknown,-13,2011-05-23 15:31:00,0.0,Unknown,United Kingdom
+554320,16053,Unknown,-102,2011-05-23 15:32:00,0.0,Unknown,United Kingdom
+554321,16244B,Unknown,-5,2011-05-23 15:32:00,0.0,Unknown,United Kingdom
+554328,21609,Unknown,-46,2011-05-23 16:49:00,0.0,Unknown,United Kingdom
+554352,22720,Unknown,4,2011-05-24 08:57:00,0.0,Unknown,United Kingdom
+554360,22524,Unknown,-13,2011-05-24 09:59:00,0.0,Unknown,United Kingdom
+554377,79164,Unknown,47,2011-05-24 11:34:00,0.0,Unknown,United Kingdom
+554378,20975,Unknown,3,2011-05-24 11:35:00,0.0,Unknown,United Kingdom
+554432,85132A,Damaged,-97,2011-05-24 12:16:00,0.0,Unknown,United Kingdom
+554488,84913A,Unknown,-75,2011-05-24 13:35:00,0.0,Unknown,United Kingdom
+554550,47566B,Incorrectly Credited C550456 See 47,1300,2011-05-25 09:57:00,0.0,Unknown,United Kingdom
+554551,47566B,Reverse Previous Adjustment,-1300,2011-05-25 09:58:00,0.0,Unknown,United Kingdom
+554553,47566B,Incorrectly Credited C550456 See 47,-1300,2011-05-25 09:59:00,0.0,Unknown,United Kingdom
+554559,16151A,Unknown,-2,2011-05-25 10:28:00,0.0,Unknown,United Kingdom
+554627,84746,Unknown,67,2011-05-25 11:26:00,0.0,Unknown,United Kingdom
+554634,85214,Unknown,64,2011-05-25 11:44:00,0.0,Unknown,United Kingdom
+554673,35653,Unknown,24,2011-05-25 16:01:00,0.0,Unknown,United Kingdom
+554675,20903,Unknown,-33,2011-05-25 16:01:00,0.0,Unknown,United Kingdom
+554676,71143,Unknown,-31,2011-05-25 16:03:00,0.0,Unknown,United Kingdom
+554677,20664,Unknown,9,2011-05-25 16:03:00,0.0,Unknown,United Kingdom
+554678,85086A,Unknown,-30,2011-05-25 16:03:00,0.0,Unknown,United Kingdom
+554679,35916A,Unknown,-21,2011-05-25 16:04:00,0.0,Unknown,United Kingdom
+554680,35916B,Unknown,-21,2011-05-25 16:04:00,0.0,Unknown,United Kingdom
+554681,35916C,Unknown,-32,2011-05-25 16:04:00,0.0,Unknown,United Kingdom
+554696,85016,Unknown,5,2011-05-25 17:14:00,0.0,Unknown,United Kingdom
+554828,16049,Unknown,74,2011-05-26 15:21:00,0.0,Unknown,United Kingdom
+554829,20801,Unknown,6,2011-05-26 15:22:00,0.0,Unknown,United Kingdom
+554830,21904,Unknown,3,2011-05-26 15:22:00,0.0,Unknown,United Kingdom
+554831,84906,Unknown,2,2011-05-26 15:22:00,0.0,Unknown,United Kingdom
+554852,21272,?,-212,2011-05-27 09:24:00,0.0,Unknown,United Kingdom
+554857,POST,Unknown,800,2011-05-27 10:08:00,0.0,Unknown,United Kingdom
+554907,40003,Unknown,-11,2011-05-27 11:45:00,0.0,Unknown,United Kingdom
+554928,21763,Unknown,-3,2011-05-27 13:03:00,0.0,Unknown,United Kingdom
+554962,84691,Unknown,2,2011-05-27 15:24:00,0.0,Unknown,United Kingdom
+555330,84804A,Wet Damaged,-125,2011-06-02 11:11:00,0.0,Unknown,United Kingdom
+555331,84800L,Wet Damaged,-144,2011-06-02 11:11:00,0.0,Unknown,United Kingdom
+555332,84801A,Wet Damaged,-48,2011-06-02 11:11:00,0.0,Unknown,United Kingdom
+555333,84805B,Wet Damaged,-96,2011-06-02 11:12:00,0.0,Unknown,United Kingdom
+555334,84805A,Wet Damaged,-96,2011-06-02 11:12:00,0.0,Unknown,United Kingdom
+555335,84804B,Unknown,-96,2011-06-02 11:13:00,0.0,Unknown,United Kingdom
+555387,22276,Unknown,-59,2011-06-02 15:30:00,0.0,Unknown,United Kingdom
+555390,22501,Unknown,50,2011-06-02 16:29:00,0.0,Unknown,United Kingdom
+555391,22501,Unknown,-10,2011-06-02 16:29:00,0.0,Unknown,United Kingdom
+555402,22501,Unknown,10,2011-06-02 17:55:00,0.0,Unknown,United Kingdom
+555469,84917,Unknown,1,2011-06-03 11:11:00,0.0,Unknown,United Kingdom
+555503,84313C,Damaged,-1,2011-06-03 15:39:00,0.0,Unknown,United Kingdom
+555505,79030G,Water Damaged,-16,2011-06-03 15:48:00,0.0,Unknown,United Kingdom
+555506,21397,Damaged,-57,2011-06-03 16:03:00,0.0,Unknown,United Kingdom
+555821,21399,Unknown,-116,2011-06-07 12:01:00,0.0,Unknown,United Kingdom
+555822,35809A,Unknown,-13,2011-06-07 12:04:00,0.0,Unknown,United Kingdom
+555823,47021G,Unknown,-52,2011-06-07 12:06:00,0.0,Unknown,United Kingdom
+555824,21043,Unknown,-12,2011-06-07 12:06:00,0.0,Unknown,United Kingdom
+555838,22966,Unknown,-6,2011-06-07 12:37:00,0.0,Unknown,United Kingdom
+556012,15044B,Unknown,-27,2011-06-08 11:45:00,0.0,Unknown,United Kingdom
+556013,21662,Unknown,-17,2011-06-08 11:46:00,0.0,Unknown,United Kingdom
+556014,37476,Unknown,-3,2011-06-08 11:46:00,0.0,Unknown,United Kingdom
+556015,37501,Unknown,-13,2011-06-08 11:50:00,0.0,Unknown,United Kingdom
+556046,21890,Missing,-140,2011-06-08 12:56:00,0.0,Unknown,United Kingdom
+556061,20906,Unknown,-21,2011-06-08 14:04:00,0.0,Unknown,United Kingdom
+556069,84226,Unknown,-34,2011-06-08 14:41:00,0.0,Unknown,United Kingdom
+556074,22519,Unknown,-19,2011-06-08 15:14:00,0.0,Unknown,United Kingdom
+556122,85019C,Damaged,-108,2011-06-09 10:12:00,0.0,Unknown,United Kingdom
+556123,22272,Damaged,-15,2011-06-09 10:13:00,0.0,Unknown,United Kingdom
+556124,17007B,Unknown,-4,2011-06-09 10:14:00,0.0,Unknown,United Kingdom
+556180,22502,Unknown,40,2011-06-09 11:29:00,0.0,Unknown,United Kingdom
+556200,84796B,Unknown,17,2011-06-09 12:42:00,0.0,Unknown,United Kingdom
+556231,85123A,?,4000,2011-06-09 15:04:00,0.0,Unknown,United Kingdom
+556232,21135,Sold As Set On Dotcom,-304,2011-06-09 15:15:00,0.0,Unknown,United Kingdom
+556233,21136,Sold As Set On Dotcom,-272,2011-06-09 15:20:00,0.0,Unknown,United Kingdom
+556242,21700,Sold As Set On Dotcom And Amazon,-1206,2011-06-09 16:06:00,0.0,Unknown,United Kingdom
+556260,37340,Sold As Set On Dotcom,-18,2011-06-09 18:02:00,0.0,Unknown,United Kingdom
+556261,79051A,Sold As Set On Dotcom,-6,2011-06-09 18:03:00,0.0,Unknown,United Kingdom
+556262,37327,Sold As Set On Dotcom,-95,2011-06-09 18:04:00,0.0,Unknown,United Kingdom
+556286,16052,Unknown,-16,2011-06-10 09:22:00,0.0,Unknown,United Kingdom
+556287,16043,Unknown,-45,2011-06-10 09:22:00,0.0,Unknown,United Kingdom
+556289,20823,Unknown,-102,2011-06-10 09:23:00,0.0,Unknown,United Kingdom
+556291,79164,Unknown,2,2011-06-10 09:24:00,0.0,Unknown,United Kingdom
+556292,21472,Unknown,-1,2011-06-10 09:24:00,0.0,Unknown,United Kingdom
+556299,21937,?,-161,2011-06-10 10:17:00,0.0,Unknown,United Kingdom
+556300,20735,Unknown,-472,2011-06-10 10:18:00,0.0,Unknown,United Kingdom
+556301,22968,Water Damage,-50,2011-06-10 10:18:00,0.0,Unknown,United Kingdom
+556306,37479B,Sold As Set By Dotcom,-30,2011-06-10 10:38:00,0.0,Unknown,United Kingdom
+556307,37479P,Sold As Set On Dotcom,-30,2011-06-10 10:39:00,0.0,Unknown,United Kingdom
+556308,22130,Sold As Set On Dotcom,-390,2011-06-10 10:43:00,0.0,Unknown,United Kingdom
+556309,22856,Sold As Set On Dotcom,-30,2011-06-10 10:44:00,0.0,Unknown,United Kingdom
+556310,22944,Sold As Set On Dotcom,-42,2011-06-10 10:44:00,0.0,Unknown,United Kingdom
+556311,37471,Sold As Set On Dotcom,-12,2011-06-10 10:45:00,0.0,Unknown,United Kingdom
+556312,22924,Sold As Set On Dotcom,-30,2011-06-10 10:46:00,0.0,Unknown,United Kingdom
+556313,22923,Sold As Set On Dotcom,-12,2011-06-10 10:46:00,0.0,Unknown,United Kingdom
+556314,23155,Sold As Set On Dotcom,-84,2011-06-10 10:47:00,0.0,Unknown,United Kingdom
+556315,22948,Sold As Set On Dotcom,-108,2011-06-10 10:47:00,0.0,Unknown,United Kingdom
+556316,22128,Sold As Set On Dotcom,-24,2011-06-10 10:48:00,0.0,Unknown,United Kingdom
+556317,22857,Sold As Set On Dotcom,-48,2011-06-10 10:48:00,0.0,Unknown,United Kingdom
+556319,22945,Sold As Set On Dotcom,-618,2011-06-10 10:49:00,0.0,Unknown,United Kingdom
+556320,22922,Sold As Set On Dotcom,-42,2011-06-10 10:50:00,0.0,Unknown,United Kingdom
+556321,79163,Sold As Set On Dotcom,-24,2011-06-10 10:50:00,0.0,Unknown,United Kingdom
+556322,22915,Sold As Set On Dotcom,-204,2011-06-10 10:51:00,0.0,Unknown,United Kingdom
+556326,20731,Unknown,10,2011-06-10 11:21:00,0.0,Unknown,United Kingdom
+556328,21027,Unknown,47,2011-06-10 11:23:00,0.0,Unknown,United Kingdom
+556418,47021G,Unknown,288,2011-06-10 12:26:00,0.0,Unknown,United Kingdom
+556430,22968,Unknown,19,2011-06-10 13:24:00,0.0,Unknown,United Kingdom
+556438,37479B,Unknown,8,2011-06-10 14:36:00,0.0,Unknown,United Kingdom
+556687,23003,Printing Smudges/thrown Away,-9058,2011-06-14 10:36:00,0.0,Unknown,United Kingdom
+556690,23005,Printing Smudges/thrown Away,-9600,2011-06-14 10:37:00,0.0,Unknown,United Kingdom
+556691,23005,Printing Smudges/thrown Away,-9600,2011-06-14 10:37:00,0.0,Unknown,United Kingdom
+556884,22698,Unknown,-61,2011-06-15 12:27:00,0.0,Unknown,United Kingdom
+556933,22783,Unknown,2,2011-06-15 15:42:00,0.0,Unknown,United Kingdom
+556934,37479B,Unknown,1,2011-06-15 15:43:00,0.0,Unknown,United Kingdom
+556939,46000M,Polyester Filler Pad 45x45cm,80,2011-06-15 16:34:00,0.0,Unknown,United Kingdom
+556939,46000S,Polyester Filler Pad 40x40cm,160,2011-06-15 16:34:00,0.0,Unknown,United Kingdom
+556943,84809A,Unknown,-126,2011-06-15 16:54:00,0.0,Unknown,United Kingdom
+556944,84800L,Unknown,-29,2011-06-15 16:54:00,0.0,Unknown,United Kingdom
+556945,21614,Unknown,3,2011-06-15 16:55:00,0.0,Unknown,United Kingdom
+556946,37444A,Unknown,2,2011-06-15 16:55:00,0.0,Unknown,United Kingdom
+556947,22444,Unknown,1,2011-06-15 16:55:00,0.0,Unknown,United Kingdom
+556948,90104,Unknown,1,2011-06-15 16:56:00,0.0,Unknown,United Kingdom
+556949,85185D,Unknown,1,2011-06-15 16:56:00,0.0,Unknown,United Kingdom
+556950,84548,Unknown,1,2011-06-15 16:56:00,0.0,Unknown,United Kingdom
+556951,20975,Unknown,2,2011-06-15 16:57:00,0.0,Unknown,United Kingdom
+556952,21784,Unknown,1,2011-06-15 16:57:00,0.0,Unknown,United Kingdom
+556955,gift_0001_20,To Push Order Througha S Stock Was,10,2011-06-16 09:04:00,0.0,Unknown,United Kingdom
+556962,35965,Unknown,12,2011-06-16 09:40:00,0.0,Unknown,United Kingdom
+556963,35965,Found Some More On Shelf,-9,2011-06-16 09:40:00,0.0,Unknown,United Kingdom
+557025,22192,Unknown,-9,2011-06-16 13:09:00,0.0,Unknown,United Kingdom
+557028,79071B,Unknown,-4,2011-06-16 13:25:00,0.0,Unknown,United Kingdom
+557029,22480,Unknown,-24,2011-06-16 13:29:00,0.0,Unknown,United Kingdom
+557030,21446,Unknown,-50,2011-06-16 13:30:00,0.0,Unknown,United Kingdom
+557031,21447,Unknown,-65,2011-06-16 13:31:00,0.0,Unknown,United Kingdom
+557035,82583,?,-220,2011-06-16 13:52:00,0.0,Unknown,United Kingdom
+557036,20867,?,-271,2011-06-16 13:53:00,0.0,Unknown,United Kingdom
+557108,23113,Damaged,-1440,2011-06-16 15:58:00,0.0,Unknown,United Kingdom
+557137,85141,Unknown,3,2011-06-17 09:32:00,0.0,Unknown,United Kingdom
+557138,21095,Unknown,2,2011-06-17 09:33:00,0.0,Unknown,United Kingdom
+557139,35965,Unknown,2,2011-06-17 09:34:00,0.0,Unknown,United Kingdom
+557390,21360,Show Samples,-4,2011-06-20 11:12:00,0.0,Unknown,United Kingdom
+557412,35965,Unknown,5,2011-06-20 11:38:00,0.0,Unknown,United Kingdom
+557415,21937,Unknown,12,2011-06-20 11:48:00,0.0,Unknown,United Kingdom
+557417,84809B,Damaged,-324,2011-06-20 11:51:00,0.0,Unknown,United Kingdom
+557486,22084,Unknown,44,2011-06-20 14:42:00,0.0,Unknown,United Kingdom
+557491,85213,Unknown,66,2011-06-20 15:08:00,0.0,Unknown,United Kingdom
+557596,23114,Damaged,-1440,2011-06-21 11:33:00,0.0,Unknown,United Kingdom
+557597,23115,Damaged,-1440,2011-06-21 11:33:00,0.0,Unknown,United Kingdom
+557599,23116,Damaged,-1440,2011-06-21 11:34:00,0.0,Unknown,United Kingdom
+557600,23117,Damaged,-1440,2011-06-21 11:35:00,0.0,Unknown,United Kingdom
+557613,21841,Unknown,80,2011-06-21 13:12:00,0.0,Unknown,United Kingdom
+557756,22567,Unknown,-14,2011-06-22 13:18:00,0.0,Unknown,United Kingdom
+557777,44265,Unknown,-5,2011-06-22 15:11:00,0.0,Unknown,United Kingdom
+557778,21161,Unknown,-38,2011-06-22 15:11:00,0.0,Unknown,United Kingdom
+557784,21421,Damaged,-5,2011-06-22 15:49:00,0.0,Unknown,United Kingdom
+557806,84706D,Unknown,-5,2011-06-23 10:32:00,0.0,Unknown,United Kingdom
+557847,84387A,Unknown,11,2011-06-23 10:49:00,0.0,Unknown,United Kingdom
+557851,85130A,Unknown,-23,2011-06-23 10:57:00,0.0,Unknown,United Kingdom
+558032,22443,Unknown,-7,2011-06-24 12:14:00,0.0,Unknown,United Kingdom
+558033,84876B,Unknown,-59,2011-06-24 12:15:00,0.0,Unknown,United Kingdom
+558034,20658,Unknown,-78,2011-06-24 12:17:00,0.0,Unknown,United Kingdom
+558238,22722,Unknown,-21,2011-06-27 15:04:00,0.0,Unknown,United Kingdom
+558244,84796B,Unknown,-2,2011-06-27 15:52:00,0.0,Unknown,United Kingdom
+558245,22734,Found,8,2011-06-27 16:28:00,0.0,Unknown,United Kingdom
+558268,21351,Damaged,-220,2011-06-28 10:17:00,0.0,Unknown,United Kingdom
+558305,21027,Unknown,7,2011-06-28 10:59:00,0.0,Unknown,United Kingdom
+558306,85232D,Mix Up With C,-118,2011-06-28 10:59:00,0.0,Unknown,United Kingdom
+558307,22088,Unknown,-39,2011-06-28 11:02:00,0.0,Unknown,United Kingdom
+558308,84576,Unknown,-10,2011-06-28 11:02:00,0.0,Unknown,United Kingdom
+558309,85132B,Unknown,-42,2011-06-28 11:03:00,0.0,Unknown,United Kingdom
+558318,85232A,Unknown,-14,2011-06-28 11:52:00,0.0,Unknown,United Kingdom
+558340,22514,Childs Garden Spade Blue,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,85123A,White Hanging Heart T-light Holder,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22431,Watering Can Blue Elephant,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22430,Enamel Watering Can Cream,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22414,Doormat Neighbourhood Witch,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22385,Jumbo Bag Spaceboy Design,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22380,Toy Tidy Spaceboy,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22364,Glass Jar Digestive Biscuits,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22362,Glass Jar Peacock Bath Salts,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22357,Kings Choice Biscuit Tin,3,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22301,Coffee Mug Cat + Bird Design,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,21556,Ceramic Strawberry Money Box,2,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,21116,Owl Doorstop,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,85099F,Jumbo Bag Strawberry,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,85099B,Jumbo Bag Red Retrospot,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22627,Mint Kitchen Scales,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,84692,Box Of 24 Cocktail Parasols,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,48184,Doormat English Rose,3,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22692,Doormat Welcome To Our Home,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22684,French Blue Metal Door Sign 9,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22685,French Blue Metal Door Sign 0,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22683,French Blue Metal Door Sign 8,2,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22679,French Blue Metal Door Sign 4,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22678,French Blue Metal Door Sign 3,2,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22686,French Blue Metal Door Sign No,4,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22680,French Blue Metal Door Sign 5,4,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22676,French Blue Metal Door Sign 1,3,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22666,Recipe Box Pantry Yellow Design,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22665,Recipe Box Blue Sketchbook Design,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22649,Strawberry Fairy Cake Teapot,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22626,Black Kitchen Scales,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22526,Wheelbarrow For Children,1,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558340,22515,Childs Garden Spade Pink,3,2011-06-28 14:01:00,0.0,Unknown,United Kingdom
+558342,20731,Unknown,1,2011-06-28 14:36:00,0.0,Unknown,United Kingdom
+558343,84709B,Unknown,6,2011-06-28 14:44:00,0.0,Unknown,United Kingdom
+558344,47013C,Unknown,4,2011-06-28 14:44:00,0.0,Unknown,United Kingdom
+558345,21784,Unknown,6,2011-06-28 14:45:00,0.0,Unknown,United Kingdom
+558346,35965,Unknown,3,2011-06-28 14:45:00,0.0,Unknown,United Kingdom
+558369,21082,Found,3,2011-06-28 15:40:00,0.0,Unknown,United Kingdom
+558377,37423,Unknown,-17,2011-06-28 16:24:00,0.0,Unknown,United Kingdom
+558378,79161A,Unknown,-13,2011-06-28 16:27:00,0.0,Unknown,United Kingdom
+558379,22618,"Mouldy, Unsaleable.",-1681,2011-06-28 16:34:00,0.0,Unknown,United Kingdom
+558445,22034,Unknown,-18,2011-06-29 13:39:00,0.0,Unknown,United Kingdom
+558446,22164,Unknown,-80,2011-06-29 13:40:00,0.0,Unknown,United Kingdom
+558448,22163,Unknown,-90,2011-06-29 13:40:00,0.0,Unknown,United Kingdom
+558449,21807,Unknown,-35,2011-06-29 13:40:00,0.0,Unknown,United Kingdom
+558450,21145,Unknown,40,2011-06-29 13:41:00,0.0,Unknown,United Kingdom
+558451,21817,Unknown,-80,2011-06-29 13:41:00,0.0,Unknown,United Kingdom
+558457,21147,?,-95,2011-06-29 13:59:00,0.0,Unknown,United Kingdom
+558464,35966,Unknown,-20,2011-06-29 15:17:00,0.0,Unknown,United Kingdom
+558476,84597B,Damages,-6,2011-06-29 16:04:00,0.0,Unknown,United Kingdom
+558477,84597C,Unknown,-1,2011-06-29 16:04:00,0.0,Unknown,United Kingdom
+558520,21896,Unknown,-38,2011-06-30 10:25:00,0.0,Unknown,United Kingdom
+558663,23574,Unknown,100,2011-07-01 10:44:00,0.0,Unknown,United Kingdom
+558723,84865,Damaged,-7,2011-07-01 14:28:00,0.0,Unknown,United Kingdom
+558724,35966,Unknown,14,2011-07-01 14:30:00,0.0,Unknown,United Kingdom
+558725,84944,Found,37,2011-07-01 14:31:00,0.0,Unknown,United Kingdom
+558728,20826,Unknown,-1,2011-07-01 14:50:00,0.0,Unknown,United Kingdom
+558730,22060,Damaged,-1,2011-07-01 14:51:00,0.0,Unknown,United Kingdom
+558732,47341A,Unknown,-1,2011-07-01 14:55:00,0.0,Unknown,United Kingdom
+558741,37444C,Unknown,-1,2011-07-01 15:52:00,0.0,Unknown,United Kingdom
+558742,62043B,Unknown,-1,2011-07-01 15:56:00,0.0,Unknown,United Kingdom
+558743,35810B,Unknown,-4,2011-07-01 15:56:00,0.0,Unknown,United Kingdom
+558889,84857B,Unknown,24,2011-07-04 15:32:00,0.0,Unknown,United Kingdom
+558890,84857C,Unknown,-24,2011-07-04 15:34:00,0.0,Unknown,United Kingdom
+558913,84548,Unknown,11,2011-07-05 09:32:00,0.0,Unknown,United Kingdom
+558914,84686,Unknown,11,2011-07-05 09:32:00,0.0,Unknown,United Kingdom
+558915,20716,Unknown,4,2011-07-05 09:33:00,0.0,Unknown,United Kingdom
+559037,82583,Unknown,10,2011-07-05 15:29:00,0.0,Unknown,United Kingdom
+559147,84944,Unknown,147,2011-07-06 14:32:00,0.0,Unknown,United Kingdom
+559296,23001,Travel Card Wallet Dotcomgiftshop,200,2011-07-07 12:35:00,0.0,Unknown,United Kingdom
+559296,22616,Pack Of 12 London Tissues,204,2011-07-07 12:35:00,0.0,Unknown,United Kingdom
+559296,23298,Spotty Bunting,170,2011-07-07 12:35:00,0.0,Unknown,United Kingdom
+559314,84584,?,-50,2011-07-07 13:51:00,0.0,Unknown,United Kingdom
+559335,21147,Found,72,2011-07-07 15:57:00,0.0,Unknown,United Kingdom
+559365,22451,Unknown,-3,2011-07-08 08:53:00,0.0,Unknown,United Kingdom
+559373,16156S,Unknown,-110,2011-07-08 10:36:00,0.0,Unknown,United Kingdom
+559374,22050,Unknown,-100,2011-07-08 10:37:00,0.0,Unknown,United Kingdom
+559375,22051,?,-300,2011-07-08 10:37:00,0.0,Unknown,United Kingdom
+559376,48116,Unknown,-35,2011-07-08 10:38:00,0.0,Unknown,United Kingdom
+559377,23283,Unknown,17,2011-07-08 10:39:00,0.0,Unknown,United Kingdom
+559378,21781,Damages?,-39,2011-07-08 10:40:00,0.0,Unknown,United Kingdom
+559379,79337,Unknown,-8,2011-07-08 10:42:00,0.0,Unknown,United Kingdom
+559390,21700,Unknown,-110,2011-07-08 10:46:00,0.0,Unknown,United Kingdom
+559398,21169,Unknown,-70,2011-07-08 10:48:00,0.0,Unknown,United Kingdom
+559402,21635,Unknown,-8,2011-07-08 10:49:00,0.0,Unknown,United Kingdom
+559405,22863,Unknown,-7,2011-07-08 10:50:00,0.0,Unknown,United Kingdom
+559410,84341B,Unknown,-179,2011-07-08 10:51:00,0.0,Unknown,United Kingdom
+559414,22855,Unknown,-4,2011-07-08 10:52:00,0.0,Unknown,United Kingdom
+559423,71143,Unknown,-14,2011-07-08 12:06:00,0.0,Unknown,United Kingdom
+559503,21763,Unknown,1,2011-07-08 15:06:00,0.0,Unknown,United Kingdom
+559602,84686,Unknown,23,2011-07-11 11:26:00,0.0,Unknown,United Kingdom
+559603,79337,Unknown,1,2011-07-11 11:27:00,0.0,Unknown,United Kingdom
+559604,22084,Unknown,3,2011-07-11 11:27:00,0.0,Unknown,United Kingdom
+559655,21166,?,-124,2011-07-11 12:57:00,0.0,Unknown,United Kingdom
+559792,21067,Unknown,-66,2011-07-12 12:31:00,0.0,Unknown,United Kingdom
+559825,21067,Unknown,23,2011-07-12 17:41:00,0.0,Unknown,United Kingdom
+559943,21578,?,-251,2011-07-14 10:21:00,0.0,Unknown,United Kingdom
+559946,21578,Unknown,200,2011-07-14 10:26:00,0.0,Unknown,United Kingdom
+560037,22242,Unknown,-34,2011-07-14 14:00:00,0.0,Unknown,United Kingdom
+560039,20713,Wrongly Marked. 23343 In Box,-3100,2011-07-14 14:27:00,0.0,Unknown,United Kingdom
+560040,23343,Came Coded As 20713,3100,2011-07-14 14:28:00,0.0,Unknown,United Kingdom
+560091,44236,Unknown,-10,2011-07-14 17:03:00,0.0,Unknown,United Kingdom
+560110,21673,Unknown,-40,2011-07-15 09:51:00,0.0,Unknown,United Kingdom
+560111,84874B,Unknown,-3,2011-07-15 09:52:00,0.0,Unknown,United Kingdom
+560112,21683,Unknown,-38,2011-07-15 09:52:00,0.0,Unknown,United Kingdom
+560113,21865,Unknown,-40,2011-07-15 09:52:00,0.0,Unknown,United Kingdom
+560114,75172,Unknown,-35,2011-07-15 09:53:00,0.0,Unknown,United Kingdom
+560116,22084,Unknown,15,2011-07-15 10:09:00,0.0,Unknown,United Kingdom
+560213,10123C,Unknown,-18,2011-07-15 15:05:00,0.0,Unknown,United Kingdom
+560214,16162L,Unknown,-54,2011-07-15 15:07:00,0.0,Unknown,United Kingdom
+560215,16162M,Unknown,-84,2011-07-15 15:08:00,0.0,Unknown,United Kingdom
+560216,16162L,Unknown,30,2011-07-15 15:11:00,0.0,Unknown,United Kingdom
+560218,16162M,Alan Hodge Cant Mamage This Section,30,2011-07-15 15:12:00,0.0,Unknown,United Kingdom
+560283,22624,Ivory Kitchen Scales,12,2011-07-18 08:32:00,0.0,Unknown,EIRE
+560283,23196,Vintage Leaf Magnetic Notepad,12,2011-07-18 08:32:00,0.0,Unknown,EIRE
+560328,35968,Found,63,2011-07-18 11:00:00,0.0,Unknown,United Kingdom
+560329,35965,Found,6,2011-07-18 11:07:00,0.0,Unknown,United Kingdom
+560358,35965,Dotcom,26,2011-07-18 11:46:00,0.0,Unknown,United Kingdom
+560388,21635,Unknown,1,2011-07-18 13:12:00,0.0,Unknown,United Kingdom
+560389,37444A,Unknown,1,2011-07-18 13:13:00,0.0,Unknown,United Kingdom
+560399,82583,Unknown,17,2011-07-18 14:18:00,0.0,Unknown,United Kingdom
+560400,21069,Unknown,6,2011-07-18 14:19:00,0.0,Unknown,United Kingdom
+560401,84925F,Unknown,15,2011-07-18 14:19:00,0.0,Unknown,United Kingdom
+560402,21067,Unknown,2,2011-07-18 14:19:00,0.0,Unknown,United Kingdom
+560403,21272,Unknown,17,2011-07-18 14:19:00,0.0,Unknown,United Kingdom
+560404,21472,Unknown,1,2011-07-18 14:20:00,0.0,Unknown,United Kingdom
+560405,22080,Unknown,1,2011-07-18 14:20:00,0.0,Unknown,United Kingdom
+560406,22088,Unknown,1,2011-07-18 14:21:00,0.0,Unknown,United Kingdom
+560407,35653,Unknown,9,2011-07-18 14:21:00,0.0,Unknown,United Kingdom
+560423,16169K,Unknown,-25,2011-07-18 15:15:00,0.0,Unknown,United Kingdom
+560424,21503,Unknown,-84,2011-07-18 15:15:00,0.0,Unknown,United Kingdom
+560425,81950B,Unknown,-23,2011-07-18 15:15:00,0.0,Unknown,United Kingdom
+560427,84629,Unknown,-2,2011-07-18 15:16:00,0.0,Unknown,United Kingdom
+560428,21634,Unknown,-169,2011-07-18 15:17:00,0.0,Unknown,United Kingdom
+560429,85086A,Unknown,6,2011-07-18 15:17:00,0.0,Unknown,United Kingdom
+560440,84029E,Unknown,-1,2011-07-18 16:36:00,0.0,Unknown,United Kingdom
+560565,82583,Fba,160,2011-07-19 13:44:00,0.0,Unknown,United Kingdom
+560578,22034,Unknown,12,2011-07-19 15:12:00,0.0,Unknown,United Kingdom
+560583,17096,Unknown,-7,2011-07-19 15:31:00,0.0,Unknown,United Kingdom
+560600,18007,Unknown,-2834,2011-07-19 17:04:00,0.0,Unknown,United Kingdom
+560717,84576,Damaged,-3,2011-07-20 13:28:00,0.0,Unknown,United Kingdom
+560719,84877A,Unknown,-21,2011-07-20 13:30:00,0.0,Unknown,United Kingdom
+560722,16049,Unknown,-31,2011-07-20 13:37:00,0.0,Unknown,United Kingdom
+560730,84797B,Unknown,-2,2011-07-20 14:53:00,0.0,Unknown,United Kingdom
+560737,84798B,Unknown,-109,2011-07-20 15:34:00,0.0,Unknown,United Kingdom
+560819,21686,Unknown,2,2011-07-21 10:53:00,0.0,Unknown,United Kingdom
+560830,81953B,Unknown,-6,2011-07-21 12:03:00,0.0,Unknown,United Kingdom
+560831,81950V,Unknown,-1,2011-07-21 12:04:00,0.0,Unknown,United Kingdom
+560857,35819P,Unknown,108,2011-07-21 13:21:00,0.0,Unknown,United Kingdom
+560867,21891,Unknown,-21,2011-07-21 14:10:00,0.0,Unknown,United Kingdom
+560889,84789,Unknown,1,2011-07-21 16:42:00,0.0,Unknown,United Kingdom
+560890,84402B,Unknown,1,2011-07-21 16:43:00,0.0,Unknown,United Kingdom
+560923,22777,Unknown,-14,2011-07-22 08:54:00,0.0,Unknown,United Kingdom
+560939,84907,Unknown,-3,2011-07-22 11:20:00,0.0,Unknown,United Kingdom
+560940,72127,Unknown,-53,2011-07-22 11:20:00,0.0,Unknown,United Kingdom
+560941,85230E,Unknown,-178,2011-07-22 11:21:00,0.0,Unknown,United Kingdom
+560986,23084,Unknown,24,2011-07-22 13:03:00,0.0,Unknown,United Kingdom
+561086,15036,Unknown,-530,2011-07-25 09:32:00,0.0,Unknown,United Kingdom
+561103,85103,Stock Creditted Wrongly,-32,2011-07-25 11:23:00,0.0,Unknown,United Kingdom
+561107,84763,Unknown,-5,2011-07-25 11:42:00,0.0,Unknown,United Kingdom
+561108,46775D,Unknown,-7,2011-07-25 11:43:00,0.0,Unknown,United Kingdom
+561110,85087,Unknown,-16,2011-07-25 11:44:00,0.0,Unknown,United Kingdom
+561249,DCGS0073,Ebay,-4,2011-07-26 11:51:00,0.0,Unknown,United Kingdom
+561250,DCGS0071,Unknown,-2,2011-07-26 11:51:00,0.0,Unknown,United Kingdom
+561251,DCGS0070,Unknown,-8,2011-07-26 11:51:00,0.0,Unknown,United Kingdom
+561252,DCGS0069,Ebay,-5,2011-07-26 11:52:00,0.0,Unknown,United Kingdom
+561253,DCGS0068,Ebay,-10,2011-07-26 11:52:00,0.0,Unknown,United Kingdom
+561254,DCGS0067,Ebay,-11,2011-07-26 11:52:00,0.0,Unknown,United Kingdom
+561255,DCGS0066P,Unknown,-3,2011-07-26 11:52:00,0.0,Unknown,United Kingdom
+561256,DCGS0003,Ebay,-7,2011-07-26 11:53:00,0.0,Unknown,United Kingdom
+561271,10080,Unknown,170,2011-07-26 12:18:00,0.0,Unknown,United Kingdom
+561282,21868,Unknown,13,2011-07-26 12:24:00,0.0,Unknown,United Kingdom
+561284,22167,Oval Wall Mirror Diamante,1,2011-07-26 12:24:00,0.0,16818.0,United Kingdom
+561323,81952B,Unknown,11,2011-07-26 13:03:00,0.0,Unknown,United Kingdom
+561326,21294,Damaged,-227,2011-07-26 13:50:00,0.0,Unknown,United Kingdom
+561327,85213,Unknown,36,2011-07-26 13:54:00,0.0,Unknown,United Kingdom
+561354,21792,Unknown,-8,2011-07-26 14:50:00,0.0,Unknown,United Kingdom
+561361,21294,Unknown,100,2011-07-26 15:40:00,0.0,Unknown,United Kingdom
+561362,84415A,Unknown,-11,2011-07-26 15:41:00,0.0,Unknown,United Kingdom
+561364,84415B,Unknown,-4,2011-07-26 15:42:00,0.0,Unknown,United Kingdom
+561365,84595E,Unknown,10,2011-07-26 15:44:00,0.0,Unknown,United Kingdom
+561392,79161A,Unknown,15,2011-07-27 10:09:00,0.0,Unknown,United Kingdom
+561475,84584,Unknown,-3,2011-07-27 13:29:00,0.0,Unknown,United Kingdom
+561476,21839,Unknown,-36,2011-07-27 13:29:00,0.0,Unknown,United Kingdom
+561477,40046A,Unknown,20,2011-07-27 13:30:00,0.0,Unknown,United Kingdom
+561478,20954,Unknown,-2,2011-07-27 13:32:00,0.0,Unknown,United Kingdom
+561479,21594,Unknown,-1,2011-07-27 13:32:00,0.0,Unknown,United Kingdom
+561480,21858,Unknown,-12,2011-07-27 13:32:00,0.0,Unknown,United Kingdom
+561481,20684,Unknown,-27,2011-07-27 13:38:00,0.0,Unknown,United Kingdom
+561482,21432,Unknown,-2,2011-07-27 13:39:00,0.0,Unknown,United Kingdom
+561483,77079,Unknown,4,2011-07-27 13:40:00,0.0,Unknown,United Kingdom
+561484,77081,Unknown,-39,2011-07-27 13:41:00,0.0,Unknown,United Kingdom
+561486,21765,Unknown,-2,2011-07-27 13:48:00,0.0,Unknown,United Kingdom
+561487,22168,Unknown,-1,2011-07-27 13:51:00,0.0,Unknown,United Kingdom
+561489,84905,Unknown,-2,2011-07-27 13:52:00,0.0,Unknown,United Kingdom
+561490,21275,Unknown,3,2011-07-27 13:54:00,0.0,Unknown,United Kingdom
+561491,21781,Unknown,-2,2011-07-27 13:56:00,0.0,Unknown,United Kingdom
+561492,22528,Unknown,-1,2011-07-27 13:57:00,0.0,Unknown,United Kingdom
+561493,84761,Unknown,-11,2011-07-27 13:59:00,0.0,Unknown,United Kingdom
+561494,18097A,Unknown,-23,2011-07-27 14:04:00,0.0,Unknown,United Kingdom
+561495,79336,Unknown,36,2011-07-27 14:06:00,0.0,Unknown,United Kingdom
+561496,17090D,Unknown,-10,2011-07-27 14:08:00,0.0,Unknown,United Kingdom
+561497,21609,Unknown,38,2011-07-27 14:09:00,0.0,Unknown,United Kingdom
+561498,21610,Unknown,-14,2011-07-27 14:10:00,0.0,Unknown,United Kingdom
+561499,72709,Unknown,52,2011-07-27 14:11:00,0.0,Unknown,United Kingdom
+561500,85040B,Unknown,-1,2011-07-27 14:12:00,0.0,Unknown,United Kingdom
+561501,21278,Unknown,-1,2011-07-27 14:13:00,0.0,Unknown,United Kingdom
+561503,22194,Unknown,-4,2011-07-27 14:14:00,0.0,Unknown,United Kingdom
+561504,21361,Unknown,-7,2011-07-27 14:15:00,0.0,Unknown,United Kingdom
+561505,84925D,Unknown,-12,2011-07-27 14:16:00,0.0,Unknown,United Kingdom
+561506,72051S,Unknown,-1,2011-07-27 14:18:00,0.0,Unknown,United Kingdom
+561523,20973,Unknown,-45,2011-07-27 17:38:00,0.0,Unknown,United Kingdom
+561524,16020C,Unknown,-2,2011-07-27 17:39:00,0.0,Unknown,United Kingdom
+561525,84466,Unknown,-1,2011-07-27 17:40:00,0.0,Unknown,United Kingdom
+561526,21051,Unknown,-2,2011-07-27 17:40:00,0.0,Unknown,United Kingdom
+561527,20666,Unknown,-5,2011-07-27 17:40:00,0.0,Unknown,United Kingdom
+561536,84927E,Unknown,-2,2011-07-28 09:58:00,0.0,Unknown,United Kingdom
+561538,84927D,Unknown,-1,2011-07-28 09:58:00,0.0,Unknown,United Kingdom
+561539,79026B,Unknown,-1,2011-07-28 10:08:00,0.0,Unknown,United Kingdom
+561540,84279B,Unknown,-1,2011-07-28 10:08:00,0.0,Unknown,United Kingdom
+561541,21658,Unknown,-1,2011-07-28 10:09:00,0.0,Unknown,United Kingdom
+561543,22202,Unknown,-1,2011-07-28 10:10:00,0.0,Unknown,United Kingdom
+561553,21392,Unknown,-29,2011-07-28 10:20:00,0.0,Unknown,United Kingdom
+561555,37477B,Unknown,-11,2011-07-28 10:21:00,0.0,Unknown,United Kingdom
+561557,37477C,Unknown,-31,2011-07-28 10:21:00,0.0,Unknown,United Kingdom
+561565,35965,Unknown,18,2011-07-28 10:23:00,0.0,Unknown,United Kingdom
+561609,47589,Unknown,-1,2011-07-28 12:24:00,0.0,Unknown,United Kingdom
+561639,84799,Unknown,-346,2011-07-28 14:58:00,0.0,Unknown,United Kingdom
+561640,84802B,Unknown,-125,2011-07-28 14:58:00,0.0,Unknown,United Kingdom
+561652,84847,Unknown,2,2011-07-28 15:50:00,0.0,Unknown,United Kingdom
+561660,22502,Unknown,1,2011-07-28 16:18:00,0.0,Unknown,United Kingdom
+561663,22501,Incorrectly Put Back Into Stock,-108,2011-07-28 16:40:00,0.0,Unknown,United Kingdom
+561665,22171,?,142,2011-07-28 16:55:00,0.0,Unknown,United Kingdom
+561666,22502,Unknown,30,2011-07-28 16:59:00,0.0,Unknown,United Kingdom
+561668,44091A,Unknown,-2,2011-07-28 17:03:00,0.0,Unknown,United Kingdom
+561669,22960,Jam Making Set With Jars,11,2011-07-28 17:09:00,0.0,12507.0,Spain
+561673,23134,Unknown,107,2011-07-28 17:20:00,0.0,Unknown,United Kingdom
+561674,21445,Unknown,1,2011-07-28 17:20:00,0.0,Unknown,United Kingdom
+561805,23284,Unknown,-15,2011-07-29 14:42:00,0.0,Unknown,United Kingdom
+561812,84944,Unknown,8,2011-07-29 15:25:00,0.0,Unknown,United Kingdom
+561916,M,Manual,1,2011-08-01 11:44:00,0.0,15581.0,United Kingdom
+561918,85127,Unknown,-6,2011-08-01 12:05:00,0.0,Unknown,United Kingdom
+561919,85017B,Unknown,-188,2011-08-01 12:08:00,0.0,Unknown,United Kingdom
+561920,84352,Damages/samples,-52,2011-08-01 12:10:00,0.0,Unknown,United Kingdom
+561921,22044,Unknown,-240,2011-08-01 12:11:00,0.0,Unknown,United Kingdom
+561924,22042,Unknown,-197,2011-08-01 12:27:00,0.0,Unknown,United Kingdom
+561927,22740,?,-1060,2011-08-01 12:49:00,0.0,Unknown,United Kingdom
+562134,22722,Unknown,1,2011-08-03 09:50:00,0.0,Unknown,United Kingdom
+562135,84847,Unknown,1,2011-08-03 09:50:00,0.0,Unknown,United Kingdom
+562164,21257,?,-94,2011-08-03 12:08:00,0.0,Unknown,United Kingdom
+562212,21187,Unknown,-97,2011-08-03 13:28:00,0.0,Unknown,United Kingdom
+562215,21147,Unknown,100,2011-08-03 13:45:00,0.0,Unknown,United Kingdom
+562278,21391,Sold As 1 On Dotcom,-342,2011-08-04 10:27:00,0.0,Unknown,United Kingdom
+562279,21391,Unknown,-26,2011-08-04 10:28:00,0.0,Unknown,United Kingdom
+562352,21735,Damages,-59,2011-08-04 13:12:00,0.0,Unknown,United Kingdom
+562382,22927,?,-40,2011-08-04 15:36:00,0.0,Unknown,United Kingdom
+562383,22523,?,-90,2011-08-04 15:37:00,0.0,Unknown,United Kingdom
+562384,23175,Unknown,-44,2011-08-04 15:41:00,0.0,Unknown,United Kingdom
+562385,47559B,Unknown,-84,2011-08-04 15:42:00,0.0,Unknown,United Kingdom
+562386,84596L,Unknown,-21,2011-08-04 15:43:00,0.0,Unknown,United Kingdom
+562390,21246,Unknown,-92,2011-08-04 16:00:00,0.0,Unknown,United Kingdom
+562391,22854,Unknown,-40,2011-08-04 16:02:00,0.0,Unknown,United Kingdom
+562463,85152,Unknown,-6,2011-08-05 11:30:00,0.0,Unknown,United Kingdom
+562464,20701,Unknown,-24,2011-08-05 11:31:00,0.0,Unknown,United Kingdom
+562544,84920,Unknown,-9,2011-08-05 15:46:00,0.0,Unknown,United Kingdom
+562546,20694,?,-110,2011-08-05 15:46:00,0.0,Unknown,United Kingdom
+562547,21918,Unknown,-343,2011-08-05 15:49:00,0.0,Unknown,United Kingdom
+562548,23084,Unknown,-84,2011-08-05 16:00:00,0.0,Unknown,United Kingdom
+562653,21359,Unknown,-30,2011-08-08 13:35:00,0.0,Unknown,United Kingdom
+562714,22501,Unknown,64,2011-08-08 15:23:00,0.0,Unknown,United Kingdom
+562785,21033,Unknown,-455,2011-08-09 13:32:00,0.0,Unknown,United Kingdom
+562855,84800M,Unknown,-124,2011-08-10 10:16:00,0.0,Unknown,United Kingdom
+562945,79000,Unknown,425,2011-08-11 09:35:00,0.0,Unknown,United Kingdom
+562973,23157,Set Of 6 Nativity Magnets,240,2011-08-11 11:42:00,0.0,14911.0,EIRE
+563015,46000M,Polyester Filler Pad 45x45cm,160,2011-08-11 12:24:00,0.0,Unknown,United Kingdom
+563015,46000S,Polyester Filler Pad 40x40cm,220,2011-08-11 12:24:00,0.0,Unknown,United Kingdom
+563101,22084,Unknown,1,2011-08-12 10:07:00,0.0,Unknown,United Kingdom
+563102,21359,Unknown,1,2011-08-12 10:07:00,0.0,Unknown,United Kingdom
+563105,22194,Unknown,2,2011-08-12 10:15:00,0.0,Unknown,United Kingdom
+563106,21658,Unknown,3,2011-08-12 10:15:00,0.0,Unknown,United Kingdom
+563108,21033,Unknown,37,2011-08-12 10:18:00,0.0,Unknown,United Kingdom
+563148,21033,Unknown,-37,2011-08-12 11:35:00,0.0,Unknown,United Kingdom
+A563186,B,Adjust Bad Debt,1,2011-08-12 14:51:00,-11062.06,Unknown,United Kingdom
+A563187,B,Adjust Bad Debt,1,2011-08-12 14:52:00,-11062.06,Unknown,United Kingdom
+563244,22740,Unknown,-36,2011-08-15 10:49:00,0.0,Unknown,United Kingdom
+563359,23084,Unknown,20,2011-08-15 14:56:00,0.0,Unknown,United Kingdom
+563445,85049D,Unknown,1,2011-08-16 14:18:00,0.0,Unknown,United Kingdom
+563447,21033,Unknown,50,2011-08-16 14:25:00,0.0,Unknown,United Kingdom
+563449,85152,Unknown,2,2011-08-16 14:28:00,0.0,Unknown,United Kingdom
+563452,21033,Unknown,12,2011-08-16 14:34:00,0.0,Unknown,United Kingdom
+563453,21033,Taig Adjust No Stock,-24,2011-08-16 14:34:00,0.0,Unknown,United Kingdom
+563568,20774,Unknown,12,2011-08-17 14:45:00,0.0,Unknown,United Kingdom
+563650,79163,Unknown,-156,2011-08-18 10:43:00,0.0,Unknown,United Kingdom
+563652,22461,Unknown,-36,2011-08-18 10:43:00,0.0,Unknown,United Kingdom
+563700,85106,Unknown,-553,2011-08-18 13:55:00,0.0,Unknown,United Kingdom
+563701,85106,Unknown,20,2011-08-18 13:55:00,0.0,Unknown,United Kingdom
+563702,85107,Unknown,65,2011-08-18 13:55:00,0.0,Unknown,United Kingdom
+563704,37342,Unknown,-66,2011-08-18 14:03:00,0.0,Unknown,United Kingdom
+563715,90120D,Unknown,-18,2011-08-18 16:08:00,0.0,Unknown,United Kingdom
+564220,20684,Unknown,1,2011-08-24 09:34:00,0.0,Unknown,United Kingdom
+564229,82583,Amazon,20,2011-08-24 10:20:00,0.0,Unknown,United Kingdom
+564530,22683,French Blue Metal Door Sign 8,3,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22682,French Blue Metal Door Sign 7,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22681,French Blue Metal Door Sign 6,3,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22680,French Blue Metal Door Sign 5,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22679,French Blue Metal Door Sign 4,3,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22678,French Blue Metal Door Sign 3,3,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22677,French Blue Metal Door Sign 2,4,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,21172,Party Metal Sign,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,21116,Owl Doorstop,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,20682,Red Retrospot Childrens Umbrella,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,85123A,White Hanging Heart T-light Holder,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22692,Doormat Welcome To Our Home,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22686,French Blue Metal Door Sign No,2,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22627,Mint Kitchen Scales,3,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22427,Enamel Flower Jug Cream,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22366,Doormat Airmail,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22365,Doormat Respectable House,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22362,Glass Jar Peacock Bath Salts,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22363,Glass Jar Marmalade,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22359,Glass Jar Kings Choice,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22357,Kings Choice Biscuit Tin,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,21899,Garage Key Fob,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,21900,"Key Fob , Shed",1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,21901,"Key Fob , Back Door",1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,21561,Dinosaur Lunch Box With Cutlery,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,21452,Toadstool Money Box,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22685,French Blue Metal Door Sign 0,3,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22676,French Blue Metal Door Sign 1,3,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564530,22684,French Blue Metal Door Sign 9,1,2011-08-25 14:57:00,0.0,Unknown,United Kingdom
+564533,23348,Unknown,100,2011-08-25 15:09:00,0.0,Unknown,United Kingdom
+564633,23084,Unknown,400,2011-08-26 12:14:00,0.0,Unknown,United Kingdom
+564644,82583,Unknown,5,2011-08-26 13:35:00,0.0,Unknown,United Kingdom
+564645,82583,Amazon,44,2011-08-26 13:38:00,0.0,Unknown,United Kingdom
+564651,23270,Set Of 2 Ceramic Painted Hearts,96,2011-08-26 14:19:00,0.0,14646.0,Netherlands
+564651,23268,Set Of 2 Ceramic Christmas Reindeer,192,2011-08-26 14:19:00,0.0,14646.0,Netherlands
+564651,22955,36 Foil Star Cake Cases,144,2011-08-26 14:19:00,0.0,14646.0,Netherlands
+564651,21786,Polkadot Rain Hat,144,2011-08-26 14:19:00,0.0,14646.0,Netherlands
+564667,23084,Unknown,-400,2011-08-26 15:08:00,0.0,Unknown,United Kingdom
+564761,gift_0001_30,Unknown,30,2011-08-30 10:48:00,0.0,Unknown,United Kingdom
+564762,gift_0001_10,Unknown,30,2011-08-30 10:48:00,0.0,Unknown,United Kingdom
+564914,85132C,Damages,-109,2011-08-31 12:40:00,0.0,Unknown,United Kingdom
+564915,21673,Unknown,26,2011-08-31 12:41:00,0.0,Unknown,United Kingdom
+564916,22157,Unknown,31,2011-08-31 12:42:00,0.0,Unknown,United Kingdom
+564917,79000,Unknown,245,2011-08-31 12:42:00,0.0,Unknown,United Kingdom
+564918,16046,Unknown,21,2011-08-31 12:42:00,0.0,Unknown,United Kingdom
+564919,23284,Unknown,8,2011-08-31 12:43:00,0.0,Unknown,United Kingdom
+564920,48116,Unknown,8,2011-08-31 12:43:00,0.0,Unknown,United Kingdom
+564921,85214,Unknown,6,2011-08-31 12:43:00,0.0,Unknown,United Kingdom
+564922,22084,Unknown,5,2011-08-31 12:43:00,0.0,Unknown,United Kingdom
+564923,21868,Unknown,2,2011-08-31 12:44:00,0.0,Unknown,United Kingdom
+564924,21272,Unknown,1,2011-08-31 12:44:00,0.0,Unknown,United Kingdom
+564925,21662,Unknown,1,2011-08-31 12:45:00,0.0,Unknown,United Kingdom
+564926,22968,Unknown,9,2011-08-31 12:45:00,0.0,Unknown,United Kingdom
+564927,23175,Unknown,2,2011-08-31 12:45:00,0.0,Unknown,United Kingdom
+564928,35966,Unknown,1,2011-08-31 12:46:00,0.0,Unknown,United Kingdom
+564929,37501,Unknown,1,2011-08-31 12:46:00,0.0,Unknown,United Kingdom
+565042,85185B,Unknown,-27,2011-08-31 17:01:00,0.0,Unknown,United Kingdom
+565043,22171,Unknown,8,2011-08-31 17:01:00,0.0,Unknown,United Kingdom
+565045,21670,Unknown,-115,2011-08-31 17:03:00,0.0,Unknown,United Kingdom
+565046,22606,Unknown,-49,2011-08-31 17:04:00,0.0,Unknown,United Kingdom
+565047,21257,Unknown,7,2011-08-31 17:04:00,0.0,Unknown,United Kingdom
+565048,84976,Unknown,-66,2011-08-31 17:06:00,0.0,Unknown,United Kingdom
+565049,21907,Unknown,-77,2011-08-31 17:09:00,0.0,Unknown,United Kingdom
+565052,21179,Unknown,-60,2011-08-31 17:11:00,0.0,Unknown,United Kingdom
+565055,21172,Unknown,-10,2011-08-31 17:11:00,0.0,Unknown,United Kingdom
+565057,82551,Unknown,-110,2011-08-31 17:12:00,0.0,Unknown,United Kingdom
+565060,21165,Unknown,-46,2011-08-31 17:15:00,0.0,Unknown,United Kingdom
+565063,21175,Unknown,-18,2011-08-31 17:15:00,0.0,Unknown,United Kingdom
+565069,20665,Unknown,-49,2011-08-31 17:18:00,0.0,Unknown,United Kingdom
+565070,85032D,Unknown,171,2011-08-31 17:18:00,0.0,Unknown,United Kingdom
+565071,84754,Unknown,-242,2011-08-31 17:21:00,0.0,Unknown,United Kingdom
+565072,21820,Unknown,-210,2011-08-31 17:22:00,0.0,Unknown,United Kingdom
+565081,21067,Unknown,1,2011-09-01 09:03:00,0.0,Unknown,United Kingdom
+565275,90209C,Unknown,-72,2011-09-02 11:08:00,0.0,Unknown,United Kingdom
+565288,23135,?,101,2011-09-02 11:43:00,0.0,Unknown,United Kingdom
+565296,84929,Code Mix Up? 84930,-967,2011-09-02 12:04:00,0.0,Unknown,United Kingdom
+565297,84877D,?,-203,2011-09-02 12:06:00,0.0,Unknown,United Kingdom
+565302,21682,?display?,-156,2011-09-02 12:16:00,0.0,Unknown,United Kingdom
+565304,16259,Unknown,-3167,2011-09-02 12:18:00,0.0,Unknown,United Kingdom
+565306,21830,Sold As 1,-252,2011-09-02 12:20:00,0.0,Unknown,United Kingdom
+565307,21830,?,-443,2011-09-02 12:20:00,0.0,Unknown,United Kingdom
+565308,21829,Sold As 1,-432,2011-09-02 12:22:00,0.0,Unknown,United Kingdom
+565310,21829,?missing,-1897,2011-09-02 12:26:00,0.0,Unknown,United Kingdom
+565314,84660C,Unknown,-21,2011-09-02 12:43:00,0.0,Unknown,United Kingdom
+565319,23348,Unknown,225,2011-09-02 13:07:00,0.0,Unknown,United Kingdom
+565368,21784,Unknown,1,2011-09-02 14:59:00,0.0,Unknown,United Kingdom
+565369,37342,Unknown,1,2011-09-02 15:02:00,0.0,Unknown,United Kingdom
+565370,82494L,Crushed Ctn,-33,2011-09-02 15:04:00,0.0,Unknown,United Kingdom
+565371,82483,Crushed,-13,2011-09-02 15:04:00,0.0,Unknown,United Kingdom
+565376,21682,Unknown,144,2011-09-02 15:10:00,0.0,Unknown,United Kingdom
+565385,22435,?missing,-434,2011-09-02 15:46:00,0.0,Unknown,United Kingdom
+565389,47343A,Unknown,-16,2011-09-02 16:19:00,0.0,Unknown,United Kingdom
+565543,22502,Unknown,8,2011-09-05 12:07:00,0.0,Unknown,United Kingdom
+565544,84989A,Unknown,1,2011-09-05 12:09:00,0.0,Unknown,United Kingdom
+565545,20973,Unknown,1,2011-09-05 12:09:00,0.0,Unknown,United Kingdom
+565556,POST,Unknown,750,2011-09-05 12:14:00,0.0,Unknown,United Kingdom
+565797,47570B,Unknown,1,2011-09-07 10:15:00,0.0,Unknown,United Kingdom
+565798,85232D,Unknown,1,2011-09-07 10:15:00,0.0,Unknown,United Kingdom
+565935,23064,Crushed,-8,2011-09-08 10:46:00,0.0,Unknown,United Kingdom
+565938,23066,Unknown,-13,2011-09-08 10:54:00,0.0,Unknown,United Kingdom
+566064,22355,Test,1,2011-09-08 15:53:00,0.0,Unknown,United Kingdom
+566065,84660C,Unknown,1,2011-09-08 16:14:00,0.0,Unknown,United Kingdom
+566066,15060B,Unknown,-52,2011-09-08 16:36:00,0.0,Unknown,United Kingdom
+566067,20686,Unknown,-95,2011-09-08 16:36:00,0.0,Unknown,United Kingdom
+566068,22268,Unknown,-86,2011-09-08 16:37:00,0.0,Unknown,United Kingdom
+566121,23306,Unknown,-682,2011-09-09 10:56:00,0.0,Unknown,United Kingdom
+566122,23084,Temp Adjustment,-484,2011-09-09 10:57:00,0.0,Unknown,United Kingdom
+566316,23306,Unknown,682,2011-09-12 10:07:00,0.0,Unknown,United Kingdom
+566323,22035,Unknown,1,2011-09-12 12:02:00,0.0,Unknown,United Kingdom
+566324,22035,Taig Adjust,1,2011-09-12 12:03:00,0.0,Unknown,United Kingdom
+566325,22035,Taig Adjust,36,2011-09-12 12:03:00,0.0,Unknown,United Kingdom
+566327,23084,Allocate Stock For Dotcom Orders Ta,4,2011-09-12 12:13:00,0.0,Unknown,United Kingdom
+566449,20856,??,-140,2011-09-12 16:07:00,0.0,Unknown,United Kingdom
+566476,23084,Add Stock To Allocate Online Orders,2,2011-09-13 09:01:00,0.0,Unknown,United Kingdom
+566478,23084,For Online Retail Orders,1,2011-09-13 09:03:00,0.0,Unknown,United Kingdom
+566493,23284,Unknown,1,2011-09-13 10:52:00,0.0,Unknown,United Kingdom
+566573,22823,Test,-22,2011-09-13 13:10:00,0.0,Unknown,United Kingdom
+566574,22823,Test,22,2011-09-13 13:14:00,0.0,Unknown,United Kingdom
+566593,22035,Unknown,18,2011-09-13 14:59:00,0.0,Unknown,United Kingdom
+566615,23084,Unknown,344,2011-09-13 17:30:00,0.0,Unknown,United Kingdom
+566710,16207B,Unknown,-4,2011-09-14 12:03:00,0.0,Unknown,United Kingdom
+566711,21578,Unknown,-31,2011-09-14 12:03:00,0.0,Unknown,United Kingdom
+566712,22030,??,-635,2011-09-14 12:04:00,0.0,Unknown,United Kingdom
+566762,85232D,Unknown,143,2011-09-14 17:35:00,0.0,Unknown,United Kingdom
+566763,84708B,Unknown,-5,2011-09-14 17:48:00,0.0,Unknown,United Kingdom
+566764,23065,Unknown,-13,2011-09-14 17:49:00,0.0,Unknown,United Kingdom
+566765,22244,Unknown,-9,2011-09-14 17:50:00,0.0,Unknown,United Kingdom
+566766,21311,Unknown,-117,2011-09-14 17:51:00,0.0,Unknown,United Kingdom
+566767,20977,Unknown,-188,2011-09-14 17:52:00,0.0,Unknown,United Kingdom
+566768,16045,Unknown,-3667,2011-09-14 17:53:00,0.0,Unknown,United Kingdom
+566924,79163,Unknown,15,2011-09-15 15:17:00,0.0,Unknown,United Kingdom
+566977,48173C,Unknown,-54,2011-09-16 09:47:00,0.0,Unknown,United Kingdom
+566982,85049B,Amazon,1,2011-09-16 10:15:00,0.0,Unknown,United Kingdom
+566983,23084,Amazon,1,2011-09-16 10:16:00,0.0,Unknown,United Kingdom
+567056,22050,Unknown,25,2011-09-16 11:39:00,0.0,Unknown,United Kingdom
+567057,84725,Unknown,-8,2011-09-16 11:39:00,0.0,Unknown,United Kingdom
+567058,22453,Unknown,-12,2011-09-16 11:40:00,0.0,Unknown,United Kingdom
+567059,22452,Unknown,-63,2011-09-16 11:41:00,0.0,Unknown,United Kingdom
+567060,22445,Unknown,-62,2011-09-16 11:41:00,0.0,Unknown,United Kingdom
+567061,84877B,Unknown,-27,2011-09-16 11:42:00,0.0,Unknown,United Kingdom
+567063,23135,Unknown,-27,2011-09-16 11:50:00,0.0,Unknown,United Kingdom
+567064,23135,Unknown,27,2011-09-16 11:51:00,0.0,Unknown,United Kingdom
+567113,85215,Damaged,-29,2011-09-16 13:39:00,0.0,Unknown,United Kingdom
+567125,21246,Damaged,-2,2011-09-16 13:49:00,0.0,Unknown,United Kingdom
+567127,85230E,Damaged,-48,2011-09-16 14:01:00,0.0,Unknown,United Kingdom
+567129,72127,Found Box,24,2011-09-16 14:05:00,0.0,Unknown,United Kingdom
+567131,21830,Damaged,192,2011-09-16 14:13:00,0.0,Unknown,United Kingdom
+567132,21830,Oops ! Adjustment,-384,2011-09-16 14:14:00,0.0,Unknown,United Kingdom
+567133,85185B,Found In W/hse,50,2011-09-16 14:17:00,0.0,Unknown,United Kingdom
+567137,84929,Found,600,2011-09-16 14:39:00,0.0,Unknown,United Kingdom
+567143,21179,Damaged,-14,2011-09-16 15:02:00,0.0,Unknown,United Kingdom
+567149,35607B,Thrown Away,-9,2011-09-16 15:29:00,0.0,Unknown,United Kingdom
+567150,35817P,Thrown Away,-44,2011-09-16 15:29:00,0.0,Unknown,United Kingdom
+567151,35815P,Unknown,34,2011-09-16 15:51:00,0.0,Unknown,United Kingdom
+567152,35598C,Found,3,2011-09-16 15:58:00,0.0,Unknown,United Kingdom
+567201,23084,Website Fixed,110,2011-09-19 10:28:00,0.0,Unknown,United Kingdom
+567207,35592T,Unknown,4,2011-09-19 11:01:00,0.0,Unknown,United Kingdom
+567208,35597D,Unknown,2,2011-09-19 11:01:00,0.0,Unknown,United Kingdom
+567335,35965,Unknown,6,2011-09-19 14:55:00,0.0,Unknown,United Kingdom
+567337,35965,Unknown,5,2011-09-19 14:56:00,0.0,Unknown,United Kingdom
+567363,23028,Unknown,-49,2011-09-19 16:58:00,0.0,Unknown,United Kingdom
+567364,22925,Unknown,-20,2011-09-19 16:58:00,0.0,Unknown,United Kingdom
+567366,21174,Unknown,-138,2011-09-19 16:59:00,0.0,Unknown,United Kingdom
+567367,17012A,Unknown,-86,2011-09-19 17:15:00,0.0,Unknown,United Kingdom
+567371,22084,Unknown,7,2011-09-20 09:24:00,0.0,Unknown,United Kingdom
+567629,40016,?,-752,2011-09-21 13:21:00,0.0,Unknown,United Kingdom
+567645,21447,Unknown,-53,2011-09-21 14:27:00,0.0,Unknown,United Kingdom
+567680,23284,Unknown,4,2011-09-21 16:17:00,0.0,Unknown,United Kingdom
+567693,85199L,?,-250,2011-09-21 17:26:00,0.0,Unknown,United Kingdom
+567694,22665,Unknown,-24,2011-09-21 17:30:00,0.0,Unknown,United Kingdom
+567695,22688,Unknown,-42,2011-09-21 17:31:00,0.0,Unknown,United Kingdom
+567696,23091,Unknown,-15,2011-09-21 17:32:00,0.0,Unknown,United Kingdom
+567719,20980,Unknown,-7,2011-09-22 10:32:00,0.0,Unknown,United Kingdom
+567861,35597A,Unknown,-14,2011-09-22 14:01:00,0.0,Unknown,United Kingdom
+567862,35591T,Unknown,-4,2011-09-22 14:02:00,0.0,Unknown,United Kingdom
+567863,35598A,Unknown,8,2011-09-22 14:03:00,0.0,Unknown,United Kingdom
+567918,79163,Damaged,-1,2011-09-22 17:20:00,0.0,Unknown,United Kingdom
+567920,84875D,Found,5,2011-09-22 17:21:00,0.0,Unknown,United Kingdom
+567921,21089,Damaged,-7,2011-09-22 17:24:00,0.0,Unknown,United Kingdom
+567923,37343,Damaged,-2,2011-09-22 17:24:00,0.0,Unknown,United Kingdom
+567925,84876D,Damaged,-2,2011-09-22 17:26:00,0.0,Unknown,United Kingdom
+567926,84877D,Found,1,2011-09-22 17:27:00,0.0,Unknown,United Kingdom
+567927,21654,Damaged,-3,2011-09-22 17:28:00,0.0,Unknown,United Kingdom
+567931,84563B,Damaged,-11,2011-09-22 17:38:00,0.0,Unknown,United Kingdom
+567932,85213,Unknown,-12,2011-09-22 17:39:00,0.0,Unknown,United Kingdom
+567933,84422,Dagamed,-30,2011-09-22 17:49:00,0.0,Unknown,United Kingdom
+568052,90209C,Unknown,-3,2011-09-23 12:42:00,0.0,Unknown,United Kingdom
+568053,90209C,Unknown,3,2011-09-23 12:44:00,0.0,Unknown,United Kingdom
+568079,85197,Unknown,-1,2011-09-23 14:35:00,0.0,Unknown,United Kingdom
+568080,44236,Unknown,-2,2011-09-23 14:35:00,0.0,Unknown,United Kingdom
+568081,84663A,Unknown,-9,2011-09-23 14:36:00,0.0,Unknown,United Kingdom
+568084,84927A,Unknown,-7,2011-09-23 14:38:00,0.0,Unknown,United Kingdom
+568085,84912A,Unknown,2,2011-09-23 14:39:00,0.0,Unknown,United Kingdom
+568087,85049D,Unknown,-8,2011-09-23 14:40:00,0.0,Unknown,United Kingdom
+568088,21641,Unknown,-49,2011-09-23 14:40:00,0.0,Unknown,United Kingdom
+568089,22245,Unknown,-37,2011-09-23 14:41:00,0.0,Unknown,United Kingdom
+568090,20793,Unknown,-5,2011-09-23 14:41:00,0.0,Unknown,United Kingdom
+568091,85211,Unknown,-3,2011-09-23 14:41:00,0.0,Unknown,United Kingdom
+568092,23134,Unknown,1,2011-09-23 14:42:00,0.0,Unknown,United Kingdom
+568093,20773,Unknown,-9,2011-09-23 14:42:00,0.0,Unknown,United Kingdom
+568102,35911A,Unknown,20,2011-09-23 15:34:00,0.0,Unknown,United Kingdom
+568158,PADS,Pads To Match All Cushions,1,2011-09-25 12:22:00,0.0,16133.0,United Kingdom
+568233,21586,Unknown,-147,2011-09-26 11:37:00,0.0,Unknown,United Kingdom
+568302,20700,?,-121,2011-09-26 12:46:00,0.0,Unknown,United Kingdom
+568365,84663A,Unknown,30,2011-09-26 15:45:00,0.0,Unknown,United Kingdom
+568371,22687,Unknown,-41,2011-09-26 16:48:00,0.0,Unknown,United Kingdom
+568372,90082D,Unknown,-19,2011-09-26 16:54:00,0.0,Unknown,United Kingdom
+568384,M,Manual,1,2011-09-27 09:46:00,0.0,12748.0,United Kingdom
+568401,21394,Damages,-35,2011-09-27 10:30:00,0.0,Unknown,United Kingdom
+568403,84905,Unknown,-3,2011-09-27 10:35:00,0.0,Unknown,United Kingdom
+568404,22497,Unknown,-17,2011-09-27 10:36:00,0.0,Unknown,United Kingdom
+568405,22893,Unknown,-42,2011-09-27 10:36:00,0.0,Unknown,United Kingdom
+568406,18094C,Unknown,-67,2011-09-27 10:37:00,0.0,Unknown,United Kingdom
+568407,84660A,Unknown,-8,2011-09-27 10:38:00,0.0,Unknown,United Kingdom
+568442,37327,Damages,-131,2011-09-27 11:31:00,0.0,Unknown,United Kingdom
+568543,84920,Unknown,-21,2011-09-27 14:33:00,0.0,Unknown,United Kingdom
+568544,84921,Unknown,5,2011-09-27 14:33:00,0.0,Unknown,United Kingdom
+568545,22548,Unknown,-70,2011-09-27 14:34:00,0.0,Unknown,United Kingdom
+568546,22409,Unknown,-20,2011-09-27 14:35:00,0.0,Unknown,United Kingdom
+568548,21830,Unknown,240,2011-09-27 14:40:00,0.0,Unknown,United Kingdom
+568567,46000S,Polyester Filler Pad 40x40cm,320,2011-09-27 18:41:00,0.0,Unknown,United Kingdom
+568567,46000M,Polyester Filler Pad 45x45cm,140,2011-09-27 18:41:00,0.0,Unknown,United Kingdom
+568724,84816,Damages,-21,2011-09-28 16:27:00,0.0,Unknown,United Kingdom
+568725,79000,Unknown,-209,2011-09-28 16:28:00,0.0,Unknown,United Kingdom
+568946,22740,Adjustment,89,2011-09-29 15:01:00,0.0,Unknown,United Kingdom
+568948,20984,Found,120,2011-09-29 15:13:00,0.0,Unknown,United Kingdom
+569083,23084,Unknown,3,2011-09-30 11:56:00,0.0,Unknown,United Kingdom
+569098,21098,Damages?,-231,2011-09-30 12:09:00,0.0,Unknown,United Kingdom
+569102,21098,Unknown,-129,2011-09-30 12:25:00,0.0,Unknown,United Kingdom
+569121,21244,Unknown,-38,2011-09-30 13:03:00,0.0,Unknown,United Kingdom
+569131,22927,Damaged,-5,2011-09-30 13:49:00,0.0,Unknown,United Kingdom
+569135,21349,Unknown,5,2011-09-30 14:20:00,0.0,Unknown,United Kingdom
+569256,20774,Damaged,-14,2011-10-03 11:15:00,0.0,Unknown,United Kingdom
+569335,84660A,Damaged,-15,2011-10-03 13:57:00,0.0,Unknown,United Kingdom
+569341,82600,Historic Computer Difference?....se,-458,2011-10-03 14:19:00,0.0,Unknown,United Kingdom
+569347,85086A,Unknown,-6,2011-10-03 14:38:00,0.0,Unknown,United Kingdom
+569375,22829,Unknown,3,2011-10-03 16:29:00,0.0,Unknown,United Kingdom
+569376,85106,Unknown,-9,2011-10-03 16:29:00,0.0,Unknown,United Kingdom
+569377,22784,Unknown,-14,2011-10-03 16:30:00,0.0,Unknown,United Kingdom
+569378,72799F,Unknown,-5,2011-10-03 16:31:00,0.0,Unknown,United Kingdom
+569379,16015,Unknown,-69,2011-10-03 16:33:00,0.0,Unknown,United Kingdom
+569380,21809,Unknown,-140,2011-10-03 16:40:00,0.0,Unknown,United Kingdom
+569381,84660A,Unknown,15,2011-10-03 16:44:00,0.0,Unknown,United Kingdom
+569391,84625C,Unknown,-32,2011-10-03 17:13:00,0.0,Unknown,United Kingdom
+569392,47504K,Unknown,-275,2011-10-03 17:15:00,0.0,Unknown,United Kingdom
+569393,23152,Unknown,-23,2011-10-03 17:15:00,0.0,Unknown,United Kingdom
+569394,21163,Unknown,-70,2011-10-03 17:16:00,0.0,Unknown,United Kingdom
+569458,20984,Unknown,58,2011-10-04 11:31:00,0.0,Unknown,United Kingdom
+569463,23268,Lighthouse Trading Zero Invc Incorr,192,2011-10-04 11:39:00,0.0,Unknown,United Kingdom
+569464,23268,Incorrect Stock Entry.,-1440,2011-10-04 11:40:00,0.0,Unknown,United Kingdom
+569465,23269,Incorrect Stock Entry.,-1440,2011-10-04 11:41:00,0.0,Unknown,United Kingdom
+569466,23270,Incorrect Stock Entry.,-2880,2011-10-04 11:42:00,0.0,Unknown,United Kingdom
+569517,23084,Unknown,14,2011-10-04 14:14:00,0.0,Unknown,United Kingdom
+569540,21586,Unknown,96,2011-10-04 16:05:00,0.0,Unknown,United Kingdom
+569541,21587,Unknown,48,2011-10-04 16:06:00,0.0,Unknown,United Kingdom
+569578,23084,Unknown,5,2011-10-05 11:06:00,0.0,Unknown,United Kingdom
+569657,84944,Michel Oops,22,2011-10-05 12:59:00,0.0,Unknown,United Kingdom
+569681,84944,Unknown,25,2011-10-05 14:31:00,0.0,Unknown,United Kingdom
+569716,22778,Glass Cloche Small,2,2011-10-06 08:17:00,0.0,15804.0,United Kingdom
+569817,21870,Unknown,-26,2011-10-06 12:09:00,0.0,Unknown,United Kingdom
+569830,23343,Wrongly Coded 20713,800,2011-10-06 12:38:00,0.0,Unknown,United Kingdom
+569831,20713,Wrongly Coded-23343,-800,2011-10-06 12:38:00,0.0,Unknown,United Kingdom
+569854,35954,Counted,-430,2011-10-06 14:26:00,0.0,Unknown,United Kingdom
+569855,23412,?,-30,2011-10-06 14:27:00,0.0,Unknown,United Kingdom
+569874,90180A,Stock Check,-32,2011-10-06 15:06:00,0.0,Unknown,United Kingdom
+569875,90195A,Check,-45,2011-10-06 15:07:00,0.0,Unknown,United Kingdom
+569876,90210D,Check,-28,2011-10-06 15:08:00,0.0,Unknown,United Kingdom
+569877,90210C,Unknown,-10,2011-10-06 15:09:00,0.0,Unknown,United Kingdom
+569878,90057,Crushed Boxes,-380,2011-10-06 15:12:00,0.0,Unknown,United Kingdom
+569879,90012B,Check,-5,2011-10-06 15:13:00,0.0,Unknown,United Kingdom
+569880,90012A,Stock Check,-18,2011-10-06 15:14:00,0.0,Unknown,United Kingdom
+569881,90014C,Unknown,-8,2011-10-06 15:14:00,0.0,Unknown,United Kingdom
+569882,90014B,Unknown,-1,2011-10-06 15:15:00,0.0,Unknown,United Kingdom
+569883,90014A,Check,-12,2011-10-06 15:16:00,0.0,Unknown,United Kingdom
+569884,90164B,Unknown,-14,2011-10-06 15:16:00,0.0,Unknown,United Kingdom
+569885,90164A,Unknown,-15,2011-10-06 15:17:00,0.0,Unknown,United Kingdom
+569886,90191,??,-60,2011-10-06 15:24:00,0.0,Unknown,United Kingdom
+569895,23348,Unknown,420,2011-10-06 15:55:00,0.0,Unknown,United Kingdom
+569924,22837,Unknown,9,2011-10-06 17:44:00,0.0,Unknown,United Kingdom
+569925,21067,Unknown,6,2011-10-06 17:45:00,0.0,Unknown,United Kingdom
+569926,35815P,Unknown,6,2011-10-06 17:45:00,0.0,Unknown,United Kingdom
+569927,22171,Unknown,9,2011-10-06 17:45:00,0.0,Unknown,United Kingdom
+569928,22062,Unknown,16,2011-10-06 17:49:00,0.0,Unknown,United Kingdom
+569929,22084,Unknown,2,2011-10-06 17:50:00,0.0,Unknown,United Kingdom
+569930,35914,Unknown,2,2011-10-06 17:50:00,0.0,Unknown,United Kingdom
+569931,37370,Unknown,18,2011-10-06 17:50:00,0.0,Unknown,United Kingdom
+569933,84849D,Unknown,101,2011-10-06 17:51:00,0.0,Unknown,United Kingdom
+569934,85049D,Unknown,1,2011-10-06 17:51:00,0.0,Unknown,United Kingdom
+569935,90209B,Unknown,1,2011-10-06 17:52:00,0.0,Unknown,United Kingdom
+569937,90209C,Unknown,1,2011-10-06 17:52:00,0.0,Unknown,United Kingdom
+569947,22062,Unknown,20,2011-10-06 18:20:00,0.0,Unknown,United Kingdom
+570013,21395,Unknown,-38,2011-10-07 09:55:00,0.0,Unknown,United Kingdom
+570015,21394,Unknown,42,2011-10-07 09:56:00,0.0,Unknown,United Kingdom
+570065,22688,Unknown,2,2011-10-07 11:07:00,0.0,Unknown,United Kingdom
+570110,22570,?,-74,2011-10-07 12:27:00,0.0,Unknown,United Kingdom
+570112,22569,?,-84,2011-10-07 12:29:00,0.0,Unknown,United Kingdom
+570120,22570,Unknown,6,2011-10-07 12:49:00,0.0,Unknown,United Kingdom
+570185,21090,Wet/mouldy,-192,2011-10-07 14:56:00,0.0,Unknown,United Kingdom
+570193,22449,Can't Find,-125,2011-10-07 15:32:00,0.0,Unknown,United Kingdom
+570198,47504K,Unknown,72,2011-10-07 15:50:00,0.0,Unknown,United Kingdom
+570259,22336,Unknown,-114,2011-10-10 09:59:00,0.0,Unknown,United Kingdom
+570260,35933,Unknown,-34,2011-10-10 10:00:00,0.0,Unknown,United Kingdom
+570261,35933,Unknown,10,2011-10-10 10:00:00,0.0,Unknown,United Kingdom
+570262,35954,Unknown,-80,2011-10-10 10:00:00,0.0,Unknown,United Kingdom
+570263,23412,Unknown,2,2011-10-10 10:00:00,0.0,Unknown,United Kingdom
+570264,21288,Unknown,-22,2011-10-10 10:03:00,0.0,Unknown,United Kingdom
+570294,84249A,Damaged,-25,2011-10-10 12:00:00,0.0,Unknown,United Kingdom
+570403,47574A,Check,-61,2011-10-10 12:45:00,0.0,Unknown,United Kingdom
+570440,21424,Damages,-40,2011-10-10 14:31:00,0.0,Unknown,United Kingdom
+570451,37467,Unknown,15,2011-10-10 15:15:00,0.0,Unknown,United Kingdom
+570518,23268,Unknown,4,2011-10-11 10:41:00,0.0,Unknown,United Kingdom
+570519,21244,Unknown,5,2011-10-11 10:42:00,0.0,Unknown,United Kingdom
+570520,23412,Unknown,2,2011-10-11 10:43:00,0.0,Unknown,United Kingdom
+570595,21823,Check,-94,2011-10-11 11:47:00,0.0,Unknown,United Kingdom
+570596,21803,Check,-38,2011-10-11 11:48:00,0.0,Unknown,United Kingdom
+570599,84596G,??,-365,2011-10-11 12:00:00,0.0,Unknown,United Kingdom
+570645,84247E,Unknown,24,2011-10-11 12:44:00,0.0,Unknown,United Kingdom
+570691,85231G,Check,-110,2011-10-11 16:44:00,0.0,Unknown,United Kingdom
+570709,21098,Unknown,19,2011-10-12 10:13:00,0.0,Unknown,United Kingdom
+570710,21918,Unknown,10,2011-10-12 10:13:00,0.0,Unknown,United Kingdom
+570711,21622,Damages,-45,2011-10-12 10:14:00,0.0,Unknown,United Kingdom
+570712,22121,?,-90,2011-10-12 10:15:00,0.0,Unknown,United Kingdom
+570822,22501,Found,24,2011-10-12 12:52:00,0.0,Unknown,United Kingdom
+570860,16168M,Found,44,2011-10-12 15:25:00,0.0,Unknown,United Kingdom
+570868,21311,Unknown,96,2011-10-12 16:18:00,0.0,Unknown,United Kingdom
+570869,79164,Unknown,36,2011-10-12 16:21:00,0.0,Unknown,United Kingdom
+570873,23322,Mouldy,-40,2011-10-12 16:41:00,0.0,Unknown,United Kingdom
+570874,23020,Smashed,-4,2011-10-12 16:42:00,0.0,Unknown,United Kingdom
+571010,22848,Unknown,-16,2011-10-13 12:13:00,0.0,Unknown,United Kingdom
+571011,21078,Unknown,-207,2011-10-13 12:13:00,0.0,Unknown,United Kingdom
+571012,21402,Unknown,-147,2011-10-13 12:15:00,0.0,Unknown,United Kingdom
+571013,23306,Unknown,-104,2011-10-13 12:16:00,0.0,Unknown,United Kingdom
+571016,84596G,Unknown,288,2011-10-13 12:17:00,0.0,Unknown,United Kingdom
+571024,22812,?,-270,2011-10-13 12:18:00,0.0,Unknown,United Kingdom
+571027,72816,Unknown,-36,2011-10-13 12:19:00,0.0,Unknown,United Kingdom
+571035,M,Manual,1,2011-10-13 12:50:00,0.0,12446.0,RSA
+571037,20669,Unknown,-25,2011-10-13 12:58:00,0.0,Unknown,United Kingdom
+571042,23306,Unknown,48,2011-10-13 13:04:00,0.0,Unknown,United Kingdom
+571112,22637,Damages,-65,2011-10-13 17:36:00,0.0,Unknown,United Kingdom
+571113,21407,Unknown,-19,2011-10-13 17:37:00,0.0,Unknown,United Kingdom
+571114,23159,Unknown,-99,2011-10-13 17:40:00,0.0,Unknown,United Kingdom
+571115,82567,Unknown,-73,2011-10-13 17:40:00,0.0,Unknown,United Kingdom
+571116,23131,?,-49,2011-10-13 17:46:00,0.0,Unknown,United Kingdom
+571124,72802A,Wet Pallet-thrown Away,-306,2011-10-14 09:36:00,0.0,Unknown,United Kingdom
+571126,72802A,?,-50,2011-10-14 09:53:00,0.0,Unknown,United Kingdom
+571128,72802A,Had Been Put Aside.,54,2011-10-14 10:03:00,0.0,Unknown,United Kingdom
+571130,72802C,Check,-37,2011-10-14 10:05:00,0.0,Unknown,United Kingdom
+571131,72802B,Check,-51,2011-10-14 10:13:00,0.0,Unknown,United Kingdom
+571198,21190,Unknown,48,2011-10-14 12:16:00,0.0,Unknown,United Kingdom
+571249,23084,Unknown,6,2011-10-14 16:25:00,0.0,Unknown,United Kingdom
+571254,23427,Damaged,-2,2011-10-14 17:07:00,0.0,Unknown,United Kingdom
+571458,21761,Damaged,-2,2011-10-17 14:02:00,0.0,Unknown,United Kingdom
+571459,20839,Damages,-80,2011-10-17 14:03:00,0.0,Unknown,United Kingdom
+571460,46775D,Unknown,6,2011-10-17 14:06:00,0.0,Unknown,United Kingdom
+571633,20713,Found,100,2011-10-18 11:27:00,0.0,Unknown,United Kingdom
+571674,23702,Unknown,100,2011-10-18 13:22:00,0.0,Unknown,United Kingdom
+571686,22149,Damages,-40,2011-10-18 14:22:00,0.0,Unknown,United Kingdom
+571687,22149,Check,-46,2011-10-18 14:23:00,0.0,Unknown,United Kingdom
+571688,22149,Unknown,46,2011-10-18 14:24:00,0.0,Unknown,United Kingdom
+571689,85135B,Unknown,-27,2011-10-18 14:28:00,0.0,Unknown,United Kingdom
+571704,23579,Sale Error,4,2011-10-18 15:15:00,0.0,Unknown,United Kingdom
+571718,21801,Unknown,5,2011-10-18 17:29:00,0.0,Unknown,United Kingdom
+571719,22729,Unknown,7,2011-10-18 17:29:00,0.0,Unknown,United Kingdom
+571720,85211,Unknown,3,2011-10-18 17:29:00,0.0,Unknown,United Kingdom
+571721,21738,Unknown,2,2011-10-18 17:30:00,0.0,Unknown,United Kingdom
+571722,22062,Unknown,1,2011-10-18 17:30:00,0.0,Unknown,United Kingdom
+571723,85211,Unknown,-1,2011-10-18 17:30:00,0.0,Unknown,United Kingdom
+571731,21911,Unknown,1,2011-10-19 09:51:00,0.0,Unknown,United Kingdom
+571915,21627,Check,-32,2011-10-19 15:34:00,0.0,Unknown,United Kingdom
+572239,84247E,Unknown,1,2011-10-21 15:15:00,0.0,Unknown,United Kingdom
+572341,85036A,Unknown,-82,2011-10-24 10:36:00,0.0,Unknown,United Kingdom
+572345,20713,Found,100,2011-10-24 10:53:00,0.0,Unknown,United Kingdom
+572468,72803A,Damages,-160,2011-10-24 13:30:00,0.0,Unknown,United Kingdom
+572476,20665,Dotcom,21,2011-10-24 13:39:00,0.0,Unknown,United Kingdom
+572477,20665,Adjustment,-15,2011-10-24 13:39:00,0.0,Unknown,United Kingdom
+572480,22049,Damaged,-100,2011-10-24 13:44:00,0.0,Unknown,United Kingdom
+572510,20967,Amazon Adjustment,1,2011-10-24 14:27:00,0.0,Unknown,United Kingdom
+572514,20774,Unknown,-4,2011-10-24 14:36:00,0.0,Unknown,United Kingdom
+572516,22336,Damaged,-71,2011-10-24 14:45:00,0.0,Unknown,United Kingdom
+572527,20984,Damaged,-46,2011-10-24 15:35:00,0.0,Unknown,United Kingdom
+572533,84877D,Unknown,-1,2011-10-24 16:06:00,0.0,Unknown,United Kingdom
+572534,35597D,Unknown,-2,2011-10-24 16:07:00,0.0,Unknown,United Kingdom
+572536,21294,Unknown,-8,2011-10-24 16:08:00,0.0,Unknown,United Kingdom
+572537,37327,Unknown,2,2011-10-24 16:09:00,0.0,Unknown,United Kingdom
+572539,79030D,Unknown,13,2011-10-24 16:10:00,0.0,Unknown,United Kingdom
+572543,22570,Unknown,-32,2011-10-24 16:24:00,0.0,Unknown,United Kingdom
+572547,20713,Wrongly Marked 23343,200,2011-10-24 17:01:00,0.0,Unknown,United Kingdom
+572548,23343,20713 Wrongly Marked,-200,2011-10-24 17:01:00,0.0,Unknown,United Kingdom
+572557,22427,Damages,-29,2011-10-24 17:44:00,0.0,Unknown,United Kingdom
+572564,40016,Unknown,-108,2011-10-25 09:56:00,0.0,Unknown,United Kingdom
+572614,23595,Adjustment,5,2011-10-25 11:38:00,0.0,Unknown,United Kingdom
+572615,23595,Re-adjustment,-5,2011-10-25 11:39:00,0.0,Unknown,United Kingdom
+572684,23029,Damages,-20,2011-10-25 14:00:00,0.0,Unknown,United Kingdom
+572685,23032,Damages,-60,2011-10-25 14:01:00,0.0,Unknown,United Kingdom
+572686,23118,Breakages,-30,2011-10-25 14:03:00,0.0,Unknown,United Kingdom
+572687,20840,Damages,-30,2011-10-25 14:05:00,0.0,Unknown,United Kingdom
+572689,84969,Check,-50,2011-10-25 14:13:00,0.0,Unknown,United Kingdom
+572690,21539,Damages?,-111,2011-10-25 14:14:00,0.0,Unknown,United Kingdom
+572691,22426,Check,-15,2011-10-25 14:15:00,0.0,Unknown,United Kingdom
+572692,21071,Check,-82,2011-10-25 14:16:00,0.0,Unknown,United Kingdom
+572693,35810A,Check,-78,2011-10-25 14:20:00,0.0,Unknown,United Kingdom
+572694,35810B,Unknown,12,2011-10-25 14:21:00,0.0,Unknown,United Kingdom
+572697,22087,Amazon,6,2011-10-25 14:24:00,0.0,Unknown,United Kingdom
+572698,82613A,Amazon,1,2011-10-25 14:25:00,0.0,Unknown,United Kingdom
+572699,72818,Unknown,-48,2011-10-25 14:26:00,0.0,Unknown,United Kingdom
+572700,72818,Unknown,1,2011-10-25 14:26:00,0.0,Unknown,United Kingdom
+572701,85078,Missing,-840,2011-10-25 14:31:00,0.0,Unknown,United Kingdom
+572702,37479P,??,-184,2011-10-25 14:33:00,0.0,Unknown,United Kingdom
+572716,22829,Unknown,2,2011-10-25 14:46:00,0.0,Unknown,United Kingdom
+572723,21829,Adjustment,12,2011-10-25 15:13:00,0.0,Unknown,United Kingdom
+572724,84507C,Adjustment,4,2011-10-25 15:14:00,0.0,Unknown,United Kingdom
+572725,20754,Found,57,2011-10-25 15:14:00,0.0,Unknown,United Kingdom
+572731,35914,Unknown,2,2011-10-25 15:20:00,0.0,Unknown,United Kingdom
+572739,21578,Found,16,2011-10-25 15:44:00,0.0,Unknown,United Kingdom
+572740,22687,Adjustment,1,2011-10-25 15:45:00,0.0,Unknown,United Kingdom
+572748,21824,Check,-103,2011-10-25 16:50:00,0.0,Unknown,United Kingdom
+572749,22572,??,-335,2011-10-25 16:52:00,0.0,Unknown,United Kingdom
+572759,37468,Unknown,-2,2011-10-25 18:45:00,0.0,Unknown,United Kingdom
+572890,20713,Marked As 23343,400,2011-10-26 14:14:00,0.0,Unknown,United Kingdom
+572891,23343,20713,-400,2011-10-26 14:14:00,0.0,Unknown,United Kingdom
+572893,21208,Pastel Colour Honeycomb Fan,5,2011-10-26 14:36:00,0.0,18059.0,United Kingdom
+572898,22180,Unknown,-15,2011-10-26 14:50:00,0.0,Unknown,United Kingdom
+572919,72802C,Check,-17,2011-10-26 16:49:00,0.0,Unknown,United Kingdom
+572920,72803A,?,117,2011-10-26 16:52:00,0.0,Unknown,United Kingdom
+572996,23462,Damages,-34,2011-10-27 11:22:00,0.0,Unknown,United Kingdom
+573107,21794,Adjustment,10,2011-10-27 15:06:00,0.0,Unknown,United Kingdom
+573114,20713,Wrongly Coded 23343,1000,2011-10-27 15:36:00,0.0,Unknown,United Kingdom
+573115,23343,Wrongly Coded 20713,-1000,2011-10-27 15:37:00,0.0,Unknown,United Kingdom
+573118,85032D,Damaged,-1,2011-10-27 16:19:00,0.0,Unknown,United Kingdom
+573120,72816,Unknown,-1,2011-10-27 16:21:00,0.0,Unknown,United Kingdom
+573169,35600A,Found By Jackie,1,2011-10-28 09:56:00,0.0,Unknown,United Kingdom
+573170,21174,Found,71,2011-10-28 09:59:00,0.0,Unknown,United Kingdom
+573254,85135C,Damages,-49,2011-10-28 12:18:00,0.0,Unknown,United Kingdom
+573255,85135B,Check,3,2011-10-28 12:18:00,0.0,Unknown,United Kingdom
+573256,85135A,Unknown,12,2011-10-28 12:19:00,0.0,Unknown,United Kingdom
+573258,85136C,Damages,-36,2011-10-28 12:19:00,0.0,Unknown,United Kingdom
+573259,85136A,Damages,-77,2011-10-28 12:20:00,0.0,Unknown,United Kingdom
+573293,21181,Adjustment,10,2011-10-28 15:14:00,0.0,Unknown,United Kingdom
+573317,21804,Unknown,-84,2011-10-28 18:09:00,0.0,Unknown,United Kingdom
+573318,84944,Unknown,-47,2011-10-28 18:11:00,0.0,Unknown,United Kingdom
+573463,17012B,Check,-70,2011-10-31 10:56:00,0.0,Unknown,United Kingdom
+573482,21181,Check,-54,2011-10-31 11:20:00,0.0,Unknown,United Kingdom
+573487,23400,Check,-19,2011-10-31 11:46:00,0.0,Unknown,United Kingdom
+573488,23400,Unknown,1,2011-10-31 11:47:00,0.0,Unknown,United Kingdom
+573489,85035B,Check,-36,2011-10-31 11:48:00,0.0,Unknown,United Kingdom
+573490,85035A,Check,-59,2011-10-31 11:55:00,0.0,Unknown,United Kingdom
+573491,21618,Check,-54,2011-10-31 11:56:00,0.0,Unknown,United Kingdom
+573493,21619,Check,-94,2011-10-31 11:57:00,0.0,Unknown,United Kingdom
+573494,47503H,Check,-24,2011-10-31 11:57:00,0.0,Unknown,United Kingdom
+573495,22117,Check,184,2011-10-31 11:58:00,0.0,Unknown,United Kingdom
+573497,21642,Check,-138,2011-10-31 12:00:00,0.0,Unknown,United Kingdom
+573498,21636,Check,-22,2011-10-31 12:00:00,0.0,Unknown,United Kingdom
+573499,21192,Check,-164,2011-10-31 12:01:00,0.0,Unknown,United Kingdom
+573503,22595,Check,-80,2011-10-31 12:03:00,0.0,Unknown,United Kingdom
+573505,85208,Check,-22,2011-10-31 12:09:00,0.0,Unknown,United Kingdom
+573547,84818,Damages,-70,2011-10-31 13:21:00,0.0,Unknown,United Kingdom
+573590,79323G,"Unsaleable, Destroyed.",-657,2011-10-31 15:15:00,0.0,Unknown,United Kingdom
+573591,79323B,"Unsaleable, Destroyed.",-1671,2011-10-31 15:15:00,0.0,Unknown,United Kingdom
+573592,79323GR,"Unsaleable, Destroyed.",-1158,2011-10-31 15:16:00,0.0,Unknown,United Kingdom
+573593,79323LP,"Unsaleable, Destroyed.",-2618,2011-10-31 15:16:00,0.0,Unknown,United Kingdom
+573594,79323P,"Unsaleable, Destroyed.",-2003,2011-10-31 15:16:00,0.0,Unknown,United Kingdom
+573595,79323S,"Unsaleable, Destroyed.",-674,2011-10-31 15:17:00,0.0,Unknown,United Kingdom
+573596,79323W,"Unsaleable, Destroyed.",-4830,2011-10-31 15:17:00,0.0,Unknown,United Kingdom
+573597,79341,"Unsaleable, Destroyed.",-905,2011-10-31 15:18:00,0.0,Unknown,United Kingdom
+573598,79342B,"Unsaleable, Destroyed.",-1128,2011-10-31 15:18:00,0.0,Unknown,United Kingdom
+573664,21192,Wrongly Marked,48,2011-10-31 16:07:00,0.0,Unknown,United Kingdom
+573670,22176,Check,-28,2011-10-31 17:02:00,0.0,Unknown,United Kingdom
+573672,22522,Check,-126,2011-10-31 17:04:00,0.0,Unknown,United Kingdom
+573726,72817,Check,-67,2011-10-31 17:18:00,0.0,Unknown,United Kingdom
+573734,72818,Check,-26,2011-10-31 17:19:00,0.0,Unknown,United Kingdom
+573751,46000U,Check,10,2011-11-01 09:33:00,0.0,Unknown,United Kingdom
+573752,46000S,Dotcom Sales,-90,2011-11-01 09:34:00,0.0,Unknown,United Kingdom
+573815,20902,Check,-3,2011-11-01 11:31:00,0.0,Unknown,United Kingdom
+573816,20898,Check,-10,2011-11-01 11:32:00,0.0,Unknown,United Kingdom
+573880,22812,Check,48,2011-11-01 13:21:00,0.0,Unknown,United Kingdom
+573881,21098,Had Been Put Aside,108,2011-11-01 13:22:00,0.0,Unknown,United Kingdom
+573882,23131,Had Been Put Aside,48,2011-11-01 13:23:00,0.0,Unknown,United Kingdom
+573883,22121,Had Been Put Aside,32,2011-11-01 13:24:00,0.0,Unknown,United Kingdom
+573884,22687,Had Been Put Aside,20,2011-11-01 13:25:00,0.0,Unknown,United Kingdom
+573885,22689,Had Been Put Aside,40,2011-11-01 13:26:00,0.0,Unknown,United Kingdom
+573919,21352,Check,-23,2011-11-01 17:39:00,0.0,Unknown,United Kingdom
+573920,84050,Check,14,2011-11-01 18:00:00,0.0,Unknown,United Kingdom
+573926,47503A,Check,65,2011-11-02 09:52:00,0.0,Unknown,United Kingdom
+573978,21644,Check,27,2011-11-02 11:02:00,0.0,Unknown,United Kingdom
+573979,35968,Check,9,2011-11-02 11:02:00,0.0,Unknown,United Kingdom
+573980,21539,Check,4,2011-11-02 11:03:00,0.0,Unknown,United Kingdom
+573981,21700,Check,26,2011-11-02 11:05:00,0.0,Unknown,United Kingdom
+573983,82600,Check,3,2011-11-02 11:08:00,0.0,Unknown,United Kingdom
+573984,16207A,Check,2,2011-11-02 11:09:00,0.0,Unknown,United Kingdom
+573985,22848,Check,2,2011-11-02 11:09:00,0.0,Unknown,United Kingdom
+573986,84659A,Check,19,2011-11-02 11:13:00,0.0,Unknown,United Kingdom
+573987,21349,Check,1,2011-11-02 11:14:00,0.0,Unknown,United Kingdom
+573988,22925,Check,1,2011-11-02 11:14:00,0.0,Unknown,United Kingdom
+573989,23091,Check,2,2011-11-02 11:14:00,0.0,Unknown,United Kingdom
+573990,22606,Check,1,2011-11-02 11:18:00,0.0,Unknown,United Kingdom
+573991,21804,Check,36,2011-11-02 11:19:00,0.0,Unknown,United Kingdom
+574073,23579,Unknown,3,2011-11-02 15:15:00,0.0,Unknown,United Kingdom
+574094,22147,Check,-80,2011-11-03 09:46:00,0.0,Unknown,United Kingdom
+574101,22180,Unknown,1,2011-11-03 10:27:00,0.0,Unknown,United Kingdom
+574123,22652,Check,-111,2011-11-03 10:55:00,0.0,Unknown,United Kingdom
+574133,21071,Unknown,1,2011-11-03 11:00:00,0.0,Unknown,United Kingdom
+574138,23234,Biscuit Tin Vintage Christmas,216,2011-11-03 11:26:00,0.0,12415.0,Australia
+574171,21818,Check,-130,2011-11-03 11:45:00,0.0,Unknown,United Kingdom
+574173,35923,Check,-42,2011-11-03 11:46:00,0.0,Unknown,United Kingdom
+574175,22065,Christmas Pudding Trinket Pot,12,2011-11-03 11:47:00,0.0,14110.0,United Kingdom
+574176,85054,Check,-39,2011-11-03 11:48:00,0.0,Unknown,United Kingdom
+574198,21159,Damaged,-40,2011-11-03 12:00:00,0.0,Unknown,United Kingdom
+574252,M,Manual,1,2011-11-03 13:24:00,0.0,12437.0,France
+574257,72818,Unknown,-3,2011-11-03 13:46:00,0.0,Unknown,United Kingdom
+574438,85054,Found,27,2011-11-04 11:35:00,0.0,Unknown,United Kingdom
+574469,22385,Jumbo Bag Spaceboy Design,12,2011-11-04 11:55:00,0.0,12431.0,Australia
+574516,22162,Unknown,-24,2011-11-04 13:38:00,0.0,Unknown,United Kingdom
+574518,21174,Unknown,63,2011-11-04 13:42:00,0.0,Unknown,United Kingdom
+574520,21181,Unknown,-6,2011-11-04 13:44:00,0.0,Unknown,United Kingdom
+574577,21519,Check,-80,2011-11-04 17:09:00,0.0,Unknown,United Kingdom
+574578,40001,Check,-240,2011-11-04 17:09:00,0.0,Unknown,United Kingdom
+574579,72802B,Check,-203,2011-11-04 17:14:00,0.0,Unknown,United Kingdom
+574580,20751,Check,-35,2011-11-04 17:44:00,0.0,Unknown,United Kingdom
+574581,23187,Check,-62,2011-11-04 17:45:00,0.0,Unknown,United Kingdom
+574582,84279P,Check,-104,2011-11-04 17:46:00,0.0,Unknown,United Kingdom
+574583,22892,Check,-62,2011-11-04 17:46:00,0.0,Unknown,United Kingdom
+574757,72802C,Damages,-54,2011-11-07 10:08:00,0.0,Unknown,United Kingdom
+574816,85036C,Damages Wax,-1560,2011-11-07 10:37:00,0.0,Unknown,United Kingdom
+574822,85036B,Damages Wax,-1284,2011-11-07 10:38:00,0.0,Unknown,United Kingdom
+574879,22625,Red Kitchen Scales,2,2011-11-07 13:22:00,0.0,13014.0,United Kingdom
+574904,85017B,Unknown,11,2011-11-07 15:28:00,0.0,Unknown,United Kingdom
+574905,85017B,Unknown,-22,2011-11-07 15:28:00,0.0,Unknown,United Kingdom
+574906,85034A,Damaged,-81,2011-11-07 15:30:00,0.0,Unknown,United Kingdom
+574920,22899,Children's Apron Dolly Girl,1,2011-11-07 16:34:00,0.0,13985.0,United Kingdom
+574920,23480,Mini Lights Woodland Mushrooms,1,2011-11-07 16:34:00,0.0,13985.0,United Kingdom
+575048,84665,Water Damaged,-15,2011-11-08 12:12:00,0.0,Unknown,United Kingdom
+575175,84279P,Found,84,2011-11-08 18:07:00,0.0,Unknown,United Kingdom
+575287,84508A,Check,-39,2011-11-09 12:15:00,0.0,Unknown,United Kingdom
+575386,20977,Unknown,-16,2011-11-09 15:22:00,0.0,Unknown,United Kingdom
+575503,35933,Unknown,-2,2011-11-10 10:19:00,0.0,Unknown,United Kingdom
+575505,POST,Unknown,800,2011-11-10 10:29:00,0.0,Unknown,United Kingdom
+575506,C2,Unknown,150,2011-11-10 10:30:00,0.0,Unknown,United Kingdom
+575513,35965,Unknown,7,2011-11-10 10:39:00,0.0,Unknown,United Kingdom
+575518,10080,Check,22,2011-11-10 10:53:00,0.0,Unknown,United Kingdom
+575579,22437,Set Of 9 Black Skull Balloons,20,2011-11-10 11:49:00,0.0,13081.0,United Kingdom
+575579,22089,Paper Bunting Vintage Paisley,24,2011-11-10 11:49:00,0.0,13081.0,United Kingdom
+575613,23118,Check,-6,2011-11-10 12:47:00,0.0,Unknown,United Kingdom
+575614,22121,Check,-10,2011-11-10 12:48:00,0.0,Unknown,United Kingdom
+575615,82582,??,-130,2011-11-10 12:51:00,0.0,Unknown,United Kingdom
+575617,21014,Check,-90,2011-11-10 12:53:00,0.0,Unknown,United Kingdom
+575625,35972,Check,-3,2011-11-10 13:20:00,0.0,Unknown,United Kingdom
+575704,21843,Smashed,-63,2011-11-10 17:00:00,0.0,Unknown,United Kingdom
+575714,85125,Check,-64,2011-11-10 17:55:00,0.0,Unknown,United Kingdom
+575715,72802B,Check,-36,2011-11-10 17:58:00,0.0,Unknown,United Kingdom
+575716,72802C,Check,-21,2011-11-10 18:00:00,0.0,Unknown,United Kingdom
+575717,85175,Check,-42,2011-11-10 18:02:00,0.0,Unknown,United Kingdom
+575719,35954,Check,24,2011-11-10 18:08:00,0.0,Unknown,United Kingdom
+575720,21817,Check,-8,2011-11-10 18:09:00,0.0,Unknown,United Kingdom
+575721,22804,Wrongly Mrked Had 85123a In Box,-256,2011-11-10 18:19:00,0.0,Unknown,United Kingdom
+575722,85123A,Wrongly Marked Carton 22804,-256,2011-11-10 18:20:00,0.0,Unknown,United Kingdom
+575748,23298,Spotty Bunting,1,2011-11-11 10:21:00,0.0,Unknown,United Kingdom
+575907,22268,Check,-10,2011-11-11 15:52:00,0.0,Unknown,United Kingdom
+575909,20711,Check,-220,2011-11-11 16:02:00,0.0,Unknown,United Kingdom
+575912,22943,Check,-7,2011-11-11 16:20:00,0.0,Unknown,United Kingdom
+576109,21181,Adjustment,180,2011-11-14 10:33:00,0.0,Unknown,United Kingdom
+576110,35965,Unknown,5,2011-11-14 10:33:00,0.0,Unknown,United Kingdom
+576185,22575,Missing?,-130,2011-11-14 11:25:00,0.0,Unknown,United Kingdom
+576192,22827,Unknown,4,2011-11-14 11:57:00,0.0,Unknown,United Kingdom
+576193,22827,Unknown,-8,2011-11-14 11:57:00,0.0,Unknown,United Kingdom
+576250,71279,Damages,-74,2011-11-14 13:50:00,0.0,Unknown,United Kingdom
+576258,22812,Unknown,11,2011-11-14 14:17:00,0.0,Unknown,United Kingdom
+576299,21181,Unknown,16,2011-11-14 14:38:00,0.0,Unknown,United Kingdom
+576302,22812,Unknown,46,2011-11-14 14:41:00,0.0,Unknown,United Kingdom
+576336,21809,Unknown,16,2011-11-14 15:26:00,0.0,Unknown,United Kingdom
+576366,23072,Damages,-50,2011-11-14 18:30:00,0.0,Unknown,United Kingdom
+576367,23071,Damages,-65,2011-11-14 18:31:00,0.0,Unknown,United Kingdom
+576368,21135,Wet Rusty,-864,2011-11-14 18:33:00,0.0,Unknown,United Kingdom
+576369,21135,Wet Rusty,-288,2011-11-14 18:35:00,0.0,Unknown,United Kingdom
+576404,22687,Unknown,18,2011-11-15 11:09:00,0.0,Unknown,United Kingdom
+576407,47590B,Check,-57,2011-11-15 11:18:00,0.0,Unknown,United Kingdom
+576410,71038,Check,-16,2011-11-15 11:20:00,0.0,Unknown,United Kingdom
+576411,85111,Check,-117,2011-11-15 11:20:00,0.0,Unknown,United Kingdom
+576413,17012C,Check,-22,2011-11-15 11:21:00,0.0,Unknown,United Kingdom
+576414,17012F,Check,14,2011-11-15 11:21:00,0.0,Unknown,United Kingdom
+576415,17012B,Unknown,-2,2011-11-15 11:22:00,0.0,Unknown,United Kingdom
+576419,85036B,Check,-23,2011-11-15 11:23:00,0.0,Unknown,United Kingdom
+576424,85036C,Check,-4,2011-11-15 11:24:00,0.0,Unknown,United Kingdom
+576426,21051,Found,240,2011-11-15 11:24:00,0.0,Unknown,United Kingdom
+576431,22688,Unknown,15,2011-11-15 11:26:00,0.0,Unknown,United Kingdom
+576436,22943,Check,-26,2011-11-15 11:27:00,0.0,Unknown,United Kingdom
+576473,21868,Unknown,-108,2011-11-15 11:40:00,0.0,Unknown,United Kingdom
+576509,21868,Unknown,144,2011-11-15 12:03:00,0.0,Unknown,United Kingdom
+576517,22121,Unknown,17,2011-11-15 12:25:00,0.0,Unknown,United Kingdom
+576547,21809,Unknown,56,2011-11-15 12:54:00,0.0,Unknown,United Kingdom
+576566,21830,Unknown,-186,2011-11-15 13:39:00,0.0,Unknown,United Kingdom
+576569,47504K,Unknown,-21,2011-11-15 13:45:00,0.0,Unknown,United Kingdom
+576578,22412,Unknown,-37,2011-11-15 14:05:00,0.0,Unknown,United Kingdom
+576580,22034,Unknown,-5,2011-11-15 14:15:00,0.0,Unknown,United Kingdom
+576585,84247E,Unknown,22,2011-11-15 14:17:00,0.0,Unknown,United Kingdom
+576594,21394,Unknown,1,2011-11-15 14:55:00,0.0,Unknown,United Kingdom
+576619,21054,Unknown,1,2011-11-15 17:01:00,0.0,Unknown,United Kingdom
+576620,16207A,Unknown,1,2011-11-15 17:02:00,0.0,Unknown,United Kingdom
+576632,21823,Amazon Adjust,10,2011-11-16 08:55:00,0.0,Unknown,United Kingdom
+576643,85127,Found,6,2011-11-16 10:00:00,0.0,Unknown,United Kingdom
+576662,22570,Unknown,1,2011-11-16 11:19:00,0.0,Unknown,United Kingdom
+576673,22548,Adjustment,4,2011-11-16 11:59:00,0.0,Unknown,United Kingdom
+576674,21823,Damaged,-6,2011-11-16 12:00:00,0.0,Unknown,United Kingdom
+576675,37327,Adjustment,3,2011-11-16 12:01:00,0.0,Unknown,United Kingdom
+576762,21744,Check,-21,2011-11-16 13:08:00,0.0,Unknown,United Kingdom
+576763,23035,Check,-64,2011-11-16 13:09:00,0.0,Unknown,United Kingdom
+576764,16008,Check,-1510,2011-11-16 13:10:00,0.0,Unknown,United Kingdom
+576765,22219,???lost,-550,2011-11-16 13:11:00,0.0,Unknown,United Kingdom
+576766,85019B,Check,15,2011-11-16 13:11:00,0.0,Unknown,United Kingdom
+576767,22339,Check,-60,2011-11-16 13:12:00,0.0,Unknown,United Kingdom
+576773,22181,Check,-92,2011-11-16 13:21:00,0.0,Unknown,United Kingdom
+576776,21811,Check,-240,2011-11-16 13:22:00,0.0,Unknown,United Kingdom
+576777,22121,Unknown,4,2011-11-16 13:23:00,0.0,Unknown,United Kingdom
+576835,21618,Unknown,-2,2011-11-16 15:10:00,0.0,Unknown,United Kingdom
+576839,35818B,Adjustment,-22,2011-11-16 15:21:00,0.0,Unknown,United Kingdom
+576843,10133,Damaged,-82,2011-11-16 15:32:00,0.0,Unknown,United Kingdom
+577037,72817,Dotcomstock,4,2011-11-17 13:27:00,0.0,Unknown,United Kingdom
+577102,21915,John Lewis,200,2011-11-17 17:01:00,0.0,Unknown,United Kingdom
+577111,22587,Check,-41,2011-11-17 17:55:00,0.0,Unknown,United Kingdom
+577112,22586,Check,-30,2011-11-17 17:55:00,0.0,Unknown,United Kingdom
+577113,22271,Check,-43,2011-11-17 17:58:00,0.0,Unknown,United Kingdom
+577114,21786,Check,-209,2011-11-17 17:59:00,0.0,Unknown,United Kingdom
+577115,85035C,Check,-24,2011-11-17 18:02:00,0.0,Unknown,United Kingdom
+577116,21165,Check,-28,2011-11-17 18:04:00,0.0,Unknown,United Kingdom
+577117,22149,Check,34,2011-11-17 18:04:00,0.0,Unknown,United Kingdom
+577118,22286,Check,-47,2011-11-17 18:05:00,0.0,Unknown,United Kingdom
+577119,22778,Check,-10,2011-11-17 18:08:00,0.0,Unknown,United Kingdom
+577120,20752,Check,-10,2011-11-17 18:09:00,0.0,Unknown,United Kingdom
+577122,23348,Sold With Wrong Barcode,-57,2011-11-17 18:33:00,0.0,Unknown,United Kingdom
+577123,23288,Check,-63,2011-11-17 18:34:00,0.0,Unknown,United Kingdom
+577124,22759,Check,-327,2011-11-17 18:41:00,0.0,Unknown,United Kingdom
+577129,22464,Hanging Metal Heart Lantern,4,2011-11-17 19:52:00,0.0,15602.0,United Kingdom
+577144,22759,Found,96,2011-11-18 09:35:00,0.0,Unknown,United Kingdom
+577145,20832,Check,110,2011-11-18 09:35:00,0.0,Unknown,United Kingdom
+577168,M,Manual,1,2011-11-18 10:42:00,0.0,12603.0,Germany
+577251,72802C,Unknown,1,2011-11-18 12:18:00,0.0,Unknown,United Kingdom
+577263,47503H,Found,66,2011-11-18 12:31:00,0.0,Unknown,United Kingdom
+577264,85125,Unknown,3,2011-11-18 12:32:00,0.0,Unknown,United Kingdom
+577265,23268,Unknown,2,2011-11-18 12:33:00,0.0,Unknown,United Kingdom
+577304,20956,Check,-152,2011-11-18 13:04:00,0.0,Unknown,United Kingdom
+577305,22946,Check,-21,2011-11-18 13:06:00,0.0,Unknown,United Kingdom
+577306,72817,Unknown,12,2011-11-18 13:06:00,0.0,Unknown,United Kingdom
+577307,16169E,Check,-313,2011-11-18 13:06:00,0.0,Unknown,United Kingdom
+577314,23407,Set Of 2 Trays Home Sweet Home,2,2011-11-18 13:23:00,0.0,12444.0,Norway
+577339,15060B,Unknown,9,2011-11-18 14:57:00,0.0,Unknown,United Kingdom
+577340,22570,Unknown,40,2011-11-18 14:57:00,0.0,Unknown,United Kingdom
+577608,35400,Unknown,5,2011-11-21 09:22:00,0.0,Unknown,United Kingdom
+577611,23118,Dotcom Adjust,10,2011-11-21 09:59:00,0.0,Unknown,United Kingdom
+577612,21181,Dotcom,20,2011-11-21 09:59:00,0.0,Unknown,United Kingdom
+577696,M,Manual,1,2011-11-21 11:57:00,0.0,16406.0,United Kingdom
+577787,23055,Rusty Thrown Away,-398,2011-11-21 16:28:00,0.0,Unknown,United Kingdom
+577788,23056,Rusty Throw Away,-210,2011-11-21 16:28:00,0.0,Unknown,United Kingdom
+577789,23057,Rusty Throw Away,-280,2011-11-21 16:28:00,0.0,Unknown,United Kingdom
+577829,85231G,Amazon,1,2011-11-22 09:55:00,0.0,Unknown,United Kingdom
+577836,21888,Check,-57,2011-11-22 10:26:00,0.0,Unknown,United Kingdom
+577942,21811,Check,26,2011-11-22 12:08:00,0.0,Unknown,United Kingdom
+577944,47503A,Check,56,2011-11-22 12:08:00,0.0,Unknown,United Kingdom
+577947,21992,Check,13,2011-11-22 12:08:00,0.0,Unknown,United Kingdom
+577949,21804,Check,44,2011-11-22 12:09:00,0.0,Unknown,United Kingdom
+577953,23348,Check,5,2011-11-22 12:09:00,0.0,Unknown,United Kingdom
+577954,17136A,Check,3,2011-11-22 12:10:00,0.0,Unknown,United Kingdom
+577956,21145,Unknown,3,2011-11-22 12:10:00,0.0,Unknown,United Kingdom
+577959,85107,Check?,374,2011-11-22 12:11:00,0.0,Unknown,United Kingdom
+577961,23268,Unknown,2,2011-11-22 12:11:00,0.0,Unknown,United Kingdom
+577964,37489A,Unknown,2,2011-11-22 12:11:00,0.0,Unknown,United Kingdom
+577966,85045,Unknown,2,2011-11-22 12:12:00,0.0,Unknown,United Kingdom
+577968,85135B,Unknown,2,2011-11-22 12:12:00,0.0,Unknown,United Kingdom
+577970,85135A,Unknown,4,2011-11-22 12:12:00,0.0,Unknown,United Kingdom
+577971,22606,Unknown,1,2011-11-22 12:12:00,0.0,Unknown,United Kingdom
+577972,84663A,Unknown,1,2011-11-22 12:13:00,0.0,Unknown,United Kingdom
+577999,21018,Damaged,-63,2011-11-22 12:29:00,0.0,Unknown,United Kingdom
+578095,23397,Damaged,-9,2011-11-22 17:25:00,0.0,Unknown,United Kingdom
+578145,22579,Dotcom,-40,2011-11-23 11:07:00,0.0,Unknown,United Kingdom
+578245,22568,?? Missing,-170,2011-11-23 12:37:00,0.0,Unknown,United Kingdom
+578327,72807A,Wet Pallet,-504,2011-11-23 17:55:00,0.0,Unknown,United Kingdom
+578328,72807B,Wet Pallet,-696,2011-11-23 17:55:00,0.0,Unknown,United Kingdom
+578329,72807C,Wet Pallet,-408,2011-11-23 17:56:00,0.0,Unknown,United Kingdom
+578336,23579,Unknown,1,2011-11-24 09:06:00,0.0,Unknown,United Kingdom
+578337,23348,Unknown,1,2011-11-24 09:07:00,0.0,Unknown,United Kingdom
+578338,22125,Unknown,1,2011-11-24 09:07:00,0.0,Unknown,United Kingdom
+578340,22568,Unknown,8,2011-11-24 09:07:00,0.0,Unknown,United Kingdom
+578360,84971L,Unknown,2,2011-11-24 10:36:00,0.0,Unknown,United Kingdom
+578374,21937,Found,50,2011-11-24 11:21:00,0.0,Unknown,United Kingdom
+578426,23131,Unknown,-12,2011-11-24 12:03:00,0.0,Unknown,United Kingdom
+578431,22579,Unknown,-18,2011-11-24 12:15:00,0.0,Unknown,United Kingdom
+578456,22579,Unknown,11,2011-11-24 12:29:00,0.0,Unknown,United Kingdom
+578473,72807B,Damages,-101,2011-11-24 12:43:00,0.0,Unknown,United Kingdom
+578474,72807A,Damages,-56,2011-11-24 12:44:00,0.0,Unknown,United Kingdom
+578475,72807C,Damages,-149,2011-11-24 12:44:00,0.0,Unknown,United Kingdom
+578476,72807B,????missing,-124,2011-11-24 12:45:00,0.0,Unknown,United Kingdom
+578477,72807A,???missing,-224,2011-11-24 12:45:00,0.0,Unknown,United Kingdom
+578478,72807C,???missing,-428,2011-11-24 12:45:00,0.0,Unknown,United Kingdom
+578524,22810,Check,-25,2011-11-24 14:20:00,0.0,Unknown,United Kingdom
+578525,22152,Check,-179,2011-11-24 14:21:00,0.0,Unknown,United Kingdom
+578527,21819,Check,-14,2011-11-24 14:24:00,0.0,Unknown,United Kingdom
+578528,22601,Check,-20,2011-11-24 14:24:00,0.0,Unknown,United Kingdom
+578529,22087,Unknown,-23,2011-11-24 14:29:00,0.0,Unknown,United Kingdom
+578628,23541,Unknown,20,2011-11-24 15:55:00,0.0,Unknown,United Kingdom
+578629,22943,Unknown,24,2011-11-24 15:56:00,0.0,Unknown,United Kingdom
+578632,22579,Unknown,4,2011-11-24 16:22:00,0.0,Unknown,United Kingdom
+578691,85034A,Check,24,2011-11-25 09:37:00,0.0,Unknown,United Kingdom
+578692,23157,Check,212,2011-11-25 09:38:00,0.0,Unknown,United Kingdom
+578693,21811,Unknown,1,2011-11-25 09:38:00,0.0,Unknown,United Kingdom
+578700,72807A,Amazon,1,2011-11-25 10:49:00,0.0,Unknown,United Kingdom
+578733,21643,Damaged,-9,2011-11-25 11:32:00,0.0,Unknown,United Kingdom
+578738,21638,Unknown,-33,2011-11-25 11:33:00,0.0,Unknown,United Kingdom
+578837,35833P,Check,-24,2011-11-25 15:51:00,0.0,Unknown,United Kingdom
+578838,21591,Check,-267,2011-11-25 15:52:00,0.0,Unknown,United Kingdom
+578839,22959,Check,-175,2011-11-25 15:52:00,0.0,Unknown,United Kingdom
+578840,22142,Check,-70,2011-11-25 15:54:00,0.0,Unknown,United Kingdom
+578841,84826,Asstd Design 3d Paper Stickers,12540,2011-11-25 15:57:00,0.0,13256.0,United Kingdom
+578930,22848,Amazon,1,2011-11-27 12:39:00,0.0,Unknown,United Kingdom
+579272,22812,Unknown,2,2011-11-29 10:00:00,0.0,Unknown,United Kingdom
+579275,22176,Amazon,1,2011-11-29 10:02:00,0.0,Unknown,United Kingdom
+579429,20711,Lost In Space,-98,2011-11-29 13:04:00,0.0,Unknown,United Kingdom
+579460,21110,Unknown,-151,2011-11-29 14:39:00,0.0,Unknown,United Kingdom
+579500,22810,Unknown,33,2011-11-29 16:14:00,0.0,Unknown,United Kingdom
+579563,85135C,Found,36,2011-11-30 11:41:00,0.0,Unknown,United Kingdom
+579680,22533,Check,60,2011-11-30 13:29:00,0.0,Unknown,United Kingdom
+579681,21615,Check,-26,2011-11-30 13:33:00,0.0,Unknown,United Kingdom
+579682,85172,Check,-145,2011-11-30 13:33:00,0.0,Unknown,United Kingdom
+579683,21868,Check,-28,2011-11-30 13:35:00,0.0,Unknown,United Kingdom
+579688,21116,Unknown,-33,2011-11-30 13:51:00,0.0,Unknown,United Kingdom
+579691,47503A,Unknown,-5,2011-11-30 14:05:00,0.0,Unknown,United Kingdom
+579731,35648,Check,-46,2011-11-30 14:23:00,0.0,Unknown,United Kingdom
+579732,35648,Check,-10,2011-11-30 14:24:00,0.0,Unknown,United Kingdom
+579733,84581,Check,-41,2011-11-30 14:24:00,0.0,Unknown,United Kingdom
+579734,84859C,Wet?,-153,2011-11-30 14:25:00,0.0,Unknown,United Kingdom
+579735,21793,Check,-40,2011-11-30 14:25:00,0.0,Unknown,United Kingdom
+579738,21927,Unknown,8,2011-11-30 14:26:00,0.0,Unknown,United Kingdom
+579742,85204,Lost??,-1131,2011-11-30 14:34:00,0.0,Unknown,United Kingdom
+579743,21810,Check,-135,2011-11-30 14:36:00,0.0,Unknown,United Kingdom
+579745,22043,Check,-40,2011-11-30 14:39:00,0.0,Unknown,United Kingdom
+579755,84912B,Damaged,-14,2011-11-30 14:54:00,0.0,Unknown,United Kingdom
+579873,35819B,Check,18,2011-11-30 17:00:00,0.0,Unknown,United Kingdom
+579879,22759,Check,17,2011-11-30 17:13:00,0.0,Unknown,United Kingdom
+579880,22947,Unknown,5,2011-11-30 17:14:00,0.0,Unknown,United Kingdom
+580087,84341B,Unknown,-2,2011-12-01 14:27:00,0.0,Unknown,United Kingdom
+580145,22925,Amazon,1,2011-12-02 10:03:00,0.0,Unknown,United Kingdom
+580197,22696,Unknown,6,2011-12-02 12:04:00,0.0,Unknown,United Kingdom
+580218,22577,Check,-300,2011-12-02 12:12:00,0.0,Unknown,United Kingdom
+580359,20775,Unknown,-35,2011-12-02 16:11:00,0.0,Unknown,United Kingdom
+580366,22923,Fridge Magnets Les Enfants Assorted,6,2011-12-02 16:38:00,0.0,Unknown,United Kingdom
+580366,23169,Classic Glass Cookie Jar,6,2011-12-02 16:38:00,0.0,Unknown,United Kingdom
+580366,DOT,Dotcom Postage,1,2011-12-02 16:38:00,0.0,Unknown,United Kingdom
+580376,22606,Check,8,2011-12-02 17:49:00,0.0,Unknown,United Kingdom
+580377,84609,Damages,-29,2011-12-02 17:52:00,0.0,Unknown,United Kingdom
+580378,22792,Damages,-73,2011-12-02 17:56:00,0.0,Unknown,United Kingdom
+580379,72225C,Unknown,-144,2011-12-02 17:57:00,0.0,Unknown,United Kingdom
+580380,21620,Check,-20,2011-12-02 17:58:00,0.0,Unknown,United Kingdom
+580381,21758,Unknown,-9,2011-12-02 17:58:00,0.0,Unknown,United Kingdom
+580382,16045,Check,-900,2011-12-02 17:59:00,0.0,Unknown,United Kingdom
+580383,20652,Check,-37,2011-12-02 17:59:00,0.0,Unknown,United Kingdom
+580390,21888,Amazon,1,2011-12-04 10:37:00,0.0,Unknown,United Kingdom
+580391,21868,Amazon,1,2011-12-04 10:42:00,0.0,Unknown,United Kingdom
+580546,23406,Check,-21,2011-12-05 09:27:00,0.0,Unknown,United Kingdom
+580547,21201,???,-390,2011-12-05 09:29:00,0.0,Unknown,United Kingdom
+580549,84876B,Found,66,2011-12-05 09:54:00,0.0,Unknown,United Kingdom
+580561,22043,Dotcom,-9,2011-12-05 10:25:00,0.0,Unknown,United Kingdom
+580580,21804,Unknown,10,2011-12-05 10:33:00,0.0,Unknown,United Kingdom
+580586,21804,Dotcom,4,2011-12-05 10:34:00,0.0,Unknown,United Kingdom
+580588,21808,Unknown,5,2011-12-05 10:35:00,0.0,Unknown,United Kingdom
+580609,22927,Amazon,1,2011-12-05 11:41:00,0.0,Unknown,United Kingdom
+580743,47591B,Unknown,1,2011-12-06 09:30:00,0.0,Unknown,United Kingdom
+580990,21109,Wet,-48,2011-12-06 16:54:00,0.0,Unknown,United Kingdom
+580991,22481,Wet Boxes,-288,2011-12-06 16:55:00,0.0,Unknown,United Kingdom
+581102,21803,Unknown,20,2011-12-07 11:57:00,0.0,Unknown,United Kingdom
+581103,22689,Unknown,4,2011-12-07 11:58:00,0.0,Unknown,United Kingdom
+581190,84801A,Check,-102,2011-12-07 16:55:00,0.0,Unknown,United Kingdom
+581198,22025,Check,-30,2011-12-07 18:26:00,0.0,Unknown,United Kingdom
+581199,84581,Unknown,-2,2011-12-07 18:26:00,0.0,Unknown,United Kingdom
+581200,84508C,Check,-21,2011-12-07 18:27:00,0.0,Unknown,United Kingdom
+581201,22217,Damages?,-155,2011-12-07 18:30:00,0.0,Unknown,United Kingdom
+581202,23404,Check,41,2011-12-07 18:30:00,0.0,Unknown,United Kingdom
+581203,23406,Unknown,15,2011-12-07 18:31:00,0.0,Unknown,United Kingdom
+581204,85104,????damages????,-355,2011-12-07 18:32:00,0.0,Unknown,United Kingdom
+581205,20893,Damages,-55,2011-12-07 18:32:00,0.0,Unknown,United Kingdom
+581206,21693,Mixed Up,-87,2011-12-07 18:34:00,0.0,Unknown,United Kingdom
+581207,21688,Mixed Up,-337,2011-12-07 18:34:00,0.0,Unknown,United Kingdom
+581208,72801C,Check,-10,2011-12-07 18:35:00,0.0,Unknown,United Kingdom
+581209,21620,Unknown,6,2011-12-07 18:35:00,0.0,Unknown,United Kingdom
+581210,23395,Check,-26,2011-12-07 18:36:00,0.0,Unknown,United Kingdom
+581211,22142,Check,14,2011-12-07 18:36:00,0.0,Unknown,United Kingdom
+581212,22578,Lost,-1050,2011-12-07 18:38:00,0.0,Unknown,United Kingdom
+581213,22576,Check,-30,2011-12-07 18:38:00,0.0,Unknown,United Kingdom
+581226,23090,Missing,-338,2011-12-08 09:56:00,0.0,Unknown,United Kingdom
+581234,72817,Unknown,27,2011-12-08 10:33:00,0.0,Unknown,United Kingdom
+581406,46000M,Polyester Filler Pad 45x45cm,240,2011-12-08 13:58:00,0.0,Unknown,United Kingdom
+581406,46000S,Polyester Filler Pad 40x40cm,300,2011-12-08 13:58:00,0.0,Unknown,United Kingdom
+581408,85175,Unknown,20,2011-12-08 14:06:00,0.0,Unknown,United Kingdom
+581422,23169,Smashed,-235,2011-12-08 15:24:00,0.0,Unknown,United Kingdom

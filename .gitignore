@@ -1,4 +1,23 @@
+# Environment files
 .env
+
+# Virtual environments
 .venv/
-data/
-*/__pycache__/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Data directories
+data/raw/
+notebooks/.ipynb_checkpoints/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS artifacts
+.DS_Store/

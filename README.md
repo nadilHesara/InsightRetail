@@ -1,70 +1,141 @@
-# InsightRetail data cleaning
+# InsightRetail
 
-This project includes a cleaning pipeline for retail sales data in [src/clean_sales_data.py](src/clean_sales_data.py).
+InsightRetail is a university portfolio project for retail sales forecasting and analytics. It combines data cleaning, customer segmentation, model training, a PostgreSQL analytics pipeline, a FastAPI backend, and a Streamlit dashboard.
 
-## Cleaning decisions
+## Main features
 
-The following decisions are applied explicitly rather than silently deleting data:
+- Retail data cleaning and validation
+- Customer segmentation and revenue analysis
+- Forecasting with trained regression and time-series models
+- PostgreSQL-backed analytics queries
+- FastAPI backend with sales, products, customers, segments, forecast, and prediction endpoints
+- Streamlit dashboard for interactive visualization
 
-- Duplicate rows were removed from the main analysis dataset.
-- Cancelled orders were removed from the sales forecast but preserved separately as product returns in the cancelled orders output.
-- Invalid quantities, invalid prices, and invalid or missing invoice dates were moved to a rejected rows file for review.
-- Missing customer IDs were filled with the placeholder value "Unknown" instead of being dropped.
-- Product descriptions were standardized to a consistent title case format.
-- Invoice dates were converted to datetime values where possible; invalid date values were treated as invalid records.
+## Dataset source
 
-## Running the cleaning script
+The project uses retail transaction data stored in `data/raw/` and processed into `data/processed/`. The data format follows an Online Retail-style dataset with invoices, customers, products, and sales amounts.
 
-From the repository root, run:
+## Architecture
 
-```bash
-python src/clean_sales_data.py data/raw/Online\ Retail.xlsx --output-dir data/processed
-```
+```mermaid
+flowchart LR
+    A[User / Analyst] -->|browser| B[Streamlit dashboard]
+    A -->|HTTP| C[FastAPI backend]
+    C -->|SQL| D[PostgreSQL database]
+    C -->|model file| E[Trained forecast model]
+    B -->|local data| F[Processed CSV files]
+    B -->|optionally| C
+    D ---|data ingestion| F
+``` 
 
-The script writes three outputs:
-- cleaned_sales_data.csv for rows retained for sales analysis
-- cancelled_orders.csv for cancelled transactions analyzed separately as returns
-- rejected_rows.csv for rows removed from the main analysis because they are invalid
+## Folder structure
 
-A text summary is also written alongside those files.
+- `api/` — FastAPI backend and route definitions
+- `dashboard/` — Streamlit dashboard app
+- `data/` — raw and processed datasets
+- `models/` — trained model artifacts and metrics
+- `sql/` — database schema and analytics queries
+- `src/` — data cleaning, training, forecasting, and loading scripts
+- `tests/` — pytest coverage for project components
+- `README.md` — project documentation
 
-## PostgreSQL database setup
+## Installation
 
-The project can load the processed data into PostgreSQL with a simple normalized schema.
-
-### Required processed files
-- `data/processed/cleaned_retail_data.csv`
-- `data/processed/customer_segments.csv`
-- `data/processed/future_30_day_forecast.csv` (optional, used to populate `forecasts`)
-
-### Schema and relationships
-- `customers`: one row per customer, keyed by `customer_id`
-- `products`: one row per product, keyed by `product_id`
-- `orders`: one row per invoice/order, linked to `customers`
-- `order_items`: line items linked to `orders` and `products`
-- `customer_segments`: segment data linked one-to-one with `customers`
-- `daily_sales`: one row per calendar date with revenue and order count
-- `forecasts`: future revenue forecasts linked by date and model name
-
-### Setup steps
-1. Create a PostgreSQL database, for example `insightretail`.
-2. Copy `.env.example` to `.env` and set `DATABASE_URL`.
-3. Install the database loader dependencies:
+### Linux / macOS
 
 ```bash
-pip install sqlalchemy psycopg2-binary python-dotenv pandas
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 ```
 
-4. Create the database tables and load the processed data:
+### Windows PowerShell
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
+## Database setup
+
+1. Copy `.env.example` to `.env`.
+2. Edit `.env` and set your `DATABASE_URL`.
+3. Run the database loader:
 
 ```bash
 python src/load_database.py
 ```
 
-If the `forecasts` file is not available, the loader will still populate the other tables and insert a placeholder forecast row.
+### Example `.env`
 
-### Query examples
-See `sql/analytics_queries.sql` for example analytics queries.
+```ini
+DATABASE_URL=postgresql+psycopg2://user:password@localhost:5432/insightretail
+```
+
+## Model training
+
+Train or retrain the forecasting model with:
+
+```bash
+python src/train.py
+```
+
+## FastAPI backend
+
+Run the API locally with:
+
+```bash
+uvicorn api.main:app --reload
+```
+
+Then visit:
+
+- `http://127.0.0.1:8000/health`
+- `http://127.0.0.1:8000/docs`
+
+## Streamlit dashboard
+
+Run the dashboard locally with:
+
+```bash
+streamlit run dashboard/app.py
+```
+
+## Docker deployment
+
+Build and start all services with:
+
+```bash
+docker compose up --build
+```
+
+Or on older systems:
+
+```powershell
+docker-compose up --build
+```
+
+## Evaluation metrics
+
+The project reports model metrics such as MAE, RMSE, and MAPE. Metrics are saved to `models/model_metrics.json` after training.
+
+## Screenshots
+
+Add project screenshots here once the dashboard and results are generated.
+
+## Limitations
+
+- The dashboard depends on local processed CSV files.
+- The API assumes PostgreSQL data has already been loaded.
+- The forecasting model may require retraining for new datasets.
+
+## Future improvements
+
+- Add authentication for API access
+- Enable dynamic model retraining from the dashboard
+- Add more production-ready logging and monitoring
+- Expand the dataset ingestion pipeline for new retail sources
 
 ## FastAPI backend
 
