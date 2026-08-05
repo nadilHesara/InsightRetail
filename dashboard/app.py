@@ -109,7 +109,7 @@ def apply_filters(df: pd.DataFrame, sales_df: pd.DataFrame) -> pd.DataFrame:
         end_date = st.sidebar.date_input("End date", value=pd.Timestamp(df["date"].max()).date(), key="end_date")
         start_ts = pd.Timestamp(start_date)
         end_ts = pd.Timestamp(end_date) + pd.Timedelta(days=1)
-        mask = (df["date"] >= start_ts) & (df["date"] < end_ts)
+        mask = (df["invoice_date"] >= start_ts) & (df["invoice_date"] < end_ts)
         df = df.loc[mask].copy()
 
     if "country" in df.columns:
