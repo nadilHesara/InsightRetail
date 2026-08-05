@@ -1,5 +1,5 @@
 fastapi==0.141.1
-httpx2==2.9.1
+httpx==0.28.1
 joblib==1.5.3
 matplotlib==3.9.3
 narwhals==2.24.0
