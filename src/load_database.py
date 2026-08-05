@@ -3,11 +3,12 @@ from __future__ import annotations
 import os
 import sys
 from pathlib import Path
-from typing import Optional
+from typing import Any
 
 import pandas as pd
 from dotenv import load_dotenv
-from sqlalchemy import create_engine, text
+from sqlalchemy import MetaData, create_engine, text
+from sqlalchemy.dialects.postgresql import insert
 from sqlalchemy.exc import SQLAlchemyError
 
 
@@ -41,14 +42,26 @@ def load_csv(path: str | Path) -> pd.DataFrame:
     return pd.read_csv(path)
 
 
-def safe_upsert(engine: object, table_name: str, df: pd.DataFrame, key_columns: list[str]) -> None:
+def safe_upsert(engine: Any, table_name: str, df: pd.DataFrame, key_columns: list[str]) -> None:
     if df.empty:
         print(f"No rows to insert for {table_name}.")
         return
 
+    metadata = MetaData()
+    metadata.reflect(bind=engine, only=[table_name])
+    table = metadata.tables[table_name]
+    rows = df.to_dict(orient="records")
+
+    print(f"Upserting {len(rows)} rows into {table_name}...")
     with engine.begin() as connection:
-        df.to_sql(table_name, con=connection, if_exists="append", index=False, method="multi")
-    print(f"Loaded {len(df)} rows into {table_name}.")
+        chunk_size = 500
+        for start in range(0, len(rows), chunk_size):
+            batch = rows[start : start + chunk_size]
+            stmt = insert(table).values(batch)
+            if key_columns:
+                stmt = stmt.on_conflict_do_nothing(index_elements=key_columns)
+            connection.execute(stmt)
+    print(f"Finished upserting {len(rows)} rows into {table_name}.")
 
 
 def load_processed_data(engine: object) -> None:
@@ -98,10 +111,7 @@ def load_processed_data(engine: object) -> None:
 
     daily_sales_df = (
         cleaned_df.assign(
-            sale_date=pd.to_datetime(
-                cleaned_df["invoicedate"],
-                errors="coerce"
-            ).dt.date
+            sale_date=pd.to_datetime(cleaned_df["invoicedate"], errors="coerce").dt.date
         )
         .dropna(subset=["sale_date"])
         .groupby("sale_date", as_index=False)
@@ -111,18 +121,26 @@ def load_processed_data(engine: object) -> None:
         )
     )
 
-    forecasts_df = pd.DataFrame(
-        {
-            "forecast_date": [pd.Timestamp.today().date()],
-            "forecast_value": [cleaned_df["salesamount"].sum()],
-            "model_name": ["rule_based_baseline"],
-        }
-    )
+    forecasts_path = repo_root / "data" / "processed" / "future_30_day_forecast.csv"
+    if forecasts_path.exists():
+        forecasts_df = pd.read_csv(forecasts_path)
+        forecasts_df["forecast_date"] = pd.to_datetime(forecasts_df["forecast_date"], errors="coerce").dt.date
+        forecasts_df = forecasts_df.rename(columns={"predicted_revenue": "forecast_value"})
+        forecasts_df = forecasts_df[["forecast_date", "forecast_value"]].copy()
+        forecasts_df["model_name"] = "trained_model"
+    else:
+        forecasts_df = pd.DataFrame(
+            {
+                "forecast_date": [pd.Timestamp.today().date()],
+                "forecast_value": [cleaned_df["salesamount"].sum()],
+                "model_name": ["rule_based_baseline"],
+            }
+        )
 
     safe_upsert(engine, "customers", customers_df, ["customer_id"])
     safe_upsert(engine, "products", products_df, ["product_id"])
     safe_upsert(engine, "orders", orders_df, ["order_id"])
-    safe_upsert(engine, "order_items", order_items_df, ["order_id", "product_id"])
+    safe_upsert(engine, "order_items", order_items_df, [])
     safe_upsert(engine, "customer_segments", customer_segments_df, ["customer_id"])
     safe_upsert(engine, "daily_sales", daily_sales_df, ["sale_date"])
     safe_upsert(engine, "forecasts", forecasts_df, ["forecast_date", "model_name"])

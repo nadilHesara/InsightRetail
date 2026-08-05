@@ -30,28 +30,38 @@ A text summary is also written alongside those files.
 
 ## PostgreSQL database setup
 
-The project can also load the processed data into PostgreSQL.
+The project can load the processed data into PostgreSQL with a simple normalized schema.
 
-1. Create a PostgreSQL database such as `insightretail`.
-2. Copy [.env.example](.env.example) to `.env` and update `DATABASE_URL`.
-3. Install the Python packages needed for database loading:
+### Required processed files
+- `data/processed/cleaned_retail_data.csv`
+- `data/processed/customer_segments.csv`
+- `data/processed/future_30_day_forecast.csv` (optional, used to populate `forecasts`)
+
+### Schema and relationships
+- `customers`: one row per customer, keyed by `customer_id`
+- `products`: one row per product, keyed by `product_id`
+- `orders`: one row per invoice/order, linked to `customers`
+- `order_items`: line items linked to `orders` and `products`
+- `customer_segments`: segment data linked one-to-one with `customers`
+- `daily_sales`: one row per calendar date with revenue and order count
+- `forecasts`: future revenue forecasts linked by date and model name
+
+### Setup steps
+1. Create a PostgreSQL database, for example `insightretail`.
+2. Copy `.env.example` to `.env` and set `DATABASE_URL`.
+3. Install the database loader dependencies:
 
 ```bash
-pip install sqlalchemy psycopg2-binary python-dotenv pandas openpyxl
+pip install sqlalchemy psycopg2-binary python-dotenv pandas
 ```
 
-4. Create the schema and load the processed data:
+4. Create the database tables and load the processed data:
 
 ```bash
 python src/load_database.py
 ```
 
-### Database relationships
+If the `forecasts` file is not available, the loader will still populate the other tables and insert a placeholder forecast row.
 
-- `customers` stores one row per customer.
-- `products` stores one row per product.
-- `orders` stores one row per invoice/order.
-- `order_items` links orders to products and stores quantity and price details.
-- `customer_segments` links each customer to a simple RFM segment.
-- `daily_sales` stores one row per day of revenue and order counts.
-- `forecasts` stores simple forecasting outputs.
+### Query examples
+See `sql/analytics_queries.sql` for example analytics queries.

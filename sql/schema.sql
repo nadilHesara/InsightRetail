@@ -22,7 +22,8 @@ CREATE TABLE IF NOT EXISTS order_items (
     product_id VARCHAR(50) REFERENCES products(product_id),
     quantity INTEGER,
     unit_price NUMERIC(12, 2),
-    sales_amount NUMERIC(12, 2)
+    sales_amount NUMERIC(12, 2),
+    UNIQUE(order_id, product_id, quantity, unit_price, sales_amount)
 );
 
 CREATE TABLE IF NOT EXISTS customer_segments (
@@ -46,5 +47,6 @@ CREATE TABLE IF NOT EXISTS forecasts (
     forecast_id SERIAL PRIMARY KEY,
     forecast_date DATE,
     forecast_value NUMERIC(12, 2),
-    model_name VARCHAR(100)
+    model_name VARCHAR(100),
+    UNIQUE(forecast_date, model_name)
 );
