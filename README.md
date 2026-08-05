@@ -177,3 +177,19 @@ Run the FastAPI tests with:
 ```bash
 pytest tests/test_api.py -q
 ```
+
+## Streamlit dashboard
+
+Run the dashboard locally with:
+
+```bash
+streamlit run dashboard/app.py
+```
+
+### Streamlit deployment on Streamlit Cloud
+
+1. Ensure your repository contains `dashboard/app.py`, `.streamlit/config.toml`, and `requirements.txt`.
+2. Deploy the repository to Streamlit Cloud.
+3. In Streamlit Cloud app settings, set environment variables as needed.
+
+If you need a public dashboard demo, Streamlit Cloud is a good fit for this project because it can host the dashboard directly from the repo.
