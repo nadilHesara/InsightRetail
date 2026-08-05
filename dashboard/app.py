@@ -258,7 +258,7 @@ def main() -> None:
     """Create the Streamlit app layout and navigation."""
     st.set_page_config(page_title="InsightRetail Dashboard", page_icon="📈", layout="wide")
     st.title("InsightRetail: Retail Sales Analytics and Demand Forecasting Platform")
-    st.caption("Interactive dashboards built from the processed retail data and forecasting outputs.")
+    
 
     sales_df = load_sales_data()
     segments_df = load_customer_segments()
