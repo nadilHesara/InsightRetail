@@ -65,3 +65,44 @@ If the `forecasts` file is not available, the loader will still populate the oth
 
 ### Query examples
 See `sql/analytics_queries.sql` for example analytics queries.
+
+## FastAPI backend
+
+This project includes a simple backend API under `api/` for summary, sales, product, customer, segment, forecast, and prediction endpoints.
+
+### Run the API
+
+From the repository root:
+
+```bash
+uvicorn api.main:app --reload
+```
+
+### Available endpoints
+
+- `GET /health`
+- `GET /summary`
+- `GET /sales/daily`
+- `GET /products/top`
+- `GET /customers/top`
+- `GET /segments`
+- `GET /forecast`
+- `POST /predict`
+
+### Environment configuration
+
+Create a `.env` file from `.env.example` and set the PostgreSQL `DATABASE_URL`.
+
+Example:
+
+```ini
+DATABASE_URL=postgresql://user:password@localhost:5432/insightretail
+```
+
+### Tests
+
+Run the FastAPI tests with:
+
+```bash
+pytest tests/test_api.py -q
+```
